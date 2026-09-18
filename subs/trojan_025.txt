@@ -1,5 +1,5 @@
 trojan://trojan@22b.net:2087/?type=tcp&security=tls# By EbraSha
-trojan://trojan@38.95.73.40:587?security=tls&sni=jflsjlaf.pages.dev&insecure=1&allowInsecure=1&type=ws&host=jflsjlaf.pages.dev&path=%2F#3249.%20%F0%9F%87%BA%F0%9F%87%B8%20TROJAN%20%7C%20SNI%3A%20jflsjlaf.pages.dev%20%7C%20TG%3A%20%40wlrustg
+trojan://trojan@38.95.73.40:587?security=tls&sni=jflsjlaf.pages.dev&insecure=1&allowInsecure=1&type=ws&host=jflsjlaf.pages.dev&path=%2F#1667.%20%F0%9F%87%BA%F0%9F%87%B8%20TROJAN%20%7C%20SNI%3A%20jflsjlaf.pages.dev%20%7C%20TG%3A%20%40wlrustg
 trojan://trojan@43.205.45.56:443?encryption=none&security=tls&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3+@wangcai2# By EbraSha
 trojan://trojan@43.218.77.16:443?encryption=none&security=tls&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3+@wangcai2# By EbraSha
 trojan://trojan@45.192.222.112:8443/?type=ws&host=store.timimi.dpdns.org&path=%2F%3Fed%3D2560&security=tls&sni=store.timimi.dpdns.org&fp=chrome# By EbraSha
@@ -73,7 +73,7 @@ trojan://tune7jerky7HAYRICK@45.33.30.197:443?allowInsecure=1&sni=ap-northeast-1.
 trojan://tune7jerky7HAYRICK@45.79.19.196:443?security=tls&sni=ap-northeast-1.openssl3.com&allowInsecure=1&type=tcp# By EbraSha
 trojan://tune7jerky7HAYRICK@72.14.185.43:443/?type=tcp&security=tls&sni=ap-northeast-1.openssl3.com&allowInsecure=1# By EbraSha
 trojan://tune7jerky7HAYRICK@ap-northeast-1.openssl3.com:443?allowInsecure=0
-trojan://tunnel-astrovpn_official028@45.112.192.29:8441?security=tls&alpn=http%2F1.1&host=45.112.192.29&headerType=none&type=tcp&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev.AstroVPN_Official.org.AstroVPN.com.AstroVPN_Official.xyz.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.monster.AstroVPN_OfficialJoinTelegram-------------AstroVPN_Official----------Join.ir#@Vip_Security join us - 419
+trojan://tunnel-astrovpn_official028@45.112.192.29:8441?security=tls&alpn=http%2F1.1&host=45.112.192.29&headerType=none&type=tcp&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev.AstroVPN_Official.org.AstroVPN.com.AstroVPN_Official.xyz.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.monster.AstroVPN_OfficialJoinTelegram-------------AstroVPN_Official----------Join.ir#@Vip_Security join us - 418
 trojan://tunnel-astrovpn_official103@213.108.198.158:8441# By EbraSha
 trojan://tunnel-astrovpn_official_pl@pl# By EbraSha
 trojan://tunnel-ljlcf@193.124.46.134:8441?path=/# By EbraSha
@@ -94,7 +94,7 @@ trojan://uThbm8eGmXZ7GKqnWy@nl-4.tr202507.com:443/?type=tcp&security=tls&allowIn
 trojan://uV8u9Q41e2@104.17.180.185:443/?type=ws&host=DieGo.DIEgoMAraDOnA.iR.&path=%2F&security=tls&sni=DieGo.DIEgoMAraDOnA.iR.# By EbraSha
 trojan://uiUuLPcDqU@138.124.90.40:13751?security=reality&sni=www.apple.com&fp=chrome&pbk=xcSogyO7e4nJKwodA84bsWCO5YP6D1t9aAXmnegvMDk&sid=cdc0ea0b88&spx=%2F&type=tcp&headerType=none# By EbraSha
 trojan://ukMzuFSmIXDvgW0h@cd.rutracker-cn.com:443?allowInsecure=0
-trojan://ultra@kWZdAzt_IH593eGLRjdxnBZ0@z-sg1.6send.com:10044/?type=tcp&security=tls&sni=www.cloudflare.com&allowInsecure=1# By EbraSha 📛
+trojan://ultra@kWZdAzt_IH593eGLRjdxnBZ0@z-sg1.6send.com:10044/?type=tcp&security=tls&sni=www.cloudflare.com&allowInsecure=1# By EbraSha ⛓️
 trojan://umis0GDWL5RQ@3.112.192.169:16717?allowInsecure=0&sni=appsvs.shop# By EbraSha
 trojan://uofhTPr79P@viip.abcdefghijklmnopqrstuvwxyz1234567890.ir:4422?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=ws&path=/&host=play.google.com&security=none# By EbraSha
 trojan://urhj8z8R8nBovrNsYzXhL35jLGC5ruguRh@92.119.35.105:443# By EbraSha
@@ -153,7 +153,7 @@ trojan://vpn@79.137.204.130:2025?security=none&type=ws&host=wrmelmwxlf.gktevlrqz
 trojan://vs6f8hvt@172.66.47.179:443/?type=tcp&security=tls&sni=trojan.cchappy.eu.org&allowInsecure=1# By EbraSha
 trojan://vvip-periantara@38.9.140.66:443/?type=tcp&security=tls&sni=id3tr.jagoan.vip# By EbraSha
 trojan://vvip-periantara@id3tr.jagoan.vip:443# By EbraSha
-trojan://vvxCT7G31Wf2JDI/neiSc9KJ6ZqDTNZEUIydnA1Z8S4=@38.107.233.63:41229?security=none&headerType=&type=kcp# By EbraSha 📀
+trojan://vvxCT7G31Wf2JDI/neiSc9KJ6ZqDTNZEUIydnA1Z8S4=@38.107.233.63:41229?security=none&headerType=&type=kcp# By EbraSha 💣
 trojan://vwhoUdVRNtFBKstJd1gpuA@137.74.41.156:7494?security=none&headerType=none&type=tcp# By EbraSha
 trojan://vwhoUdVRNtFBKstJd1gpuA@209.97.191.29:7392?security=none&headerType=none&type=tcp# By EbraSha
 trojan://vwhoUdVRNtFBKstJd1gpuA@45.144.51.35:7390?security=none&headerType=none&type=tcp# By EbraSha
@@ -187,13 +187,12 @@ trojan://wqnlYXwNdg0zbFFbJRH7VXi07Y0764b4DvpvX/+3L+c=@65.109.215.50:54673?securi
 trojan://wrupS38nve91gdsCzLqWd7PKqy7-kBnx@150.241.124.93:443?type=grpc&serviceName=ajv&mode=gun&security=tls&sni=dml-de.cloud-s3.xyz&fp=edge&alpn=h2# By EbraSha
 trojan://wwGPp7MK7RqnKEVeP8zN17XqD-GKGo1F@hu.offzaim.online:443?path=%2Ftrojan-hu&security=tls&alpn=http%2F1.1&insecure=0&type=httpupgrade&allowInsecure=0&sni=hu.offzaim.online&fp=safari# By EbraSha
 trojan://wz0hewE7GFcDTP_I6LF0qA@93.127.181.14:60592?note=---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---Telegram---@NetifyVPN---&security=none&headerType=none&type=tcp# By EbraSha
-trojan://x.8ur1QiCyzlRHXeaB5UwoDfgZ04s@140.82.35.244:20994?security=tls&headerType=none&type=tcp&sni=ads.x5.ru#%F0%9F%87%BA%F0%9F%87%BF%20%5B%D0%91%D0%A1-TR%5D%20%D0%A3%D0%B7%D0%B1%D0%B5%D0%BA%D0%B8%D1%81%D1%82%D0%B0%D0%BD%20%2313533%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C
+trojan://x.8ur1QiCyzlRHXeaB5UwoDfgZ04s@140.82.35.244:20994?security=tls&headerType=none&type=tcp&sni=ads.x5.ru#%F0%9F%87%BA%F0%9F%87%BF%20%5B%D0%91%D0%A1-TR%5D%20%D0%A3%D0%B7%D0%B1%D0%B5%D0%BA%D0%B8%D1%81%D1%82%D0%B0%D0%BD%20%2313471%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C
 trojan://x3wOepOcT04FnR8YYF35pzSACDgRBa3CAe9qNalDCy6a2uE8Z7xlX3SSyZKDIj@154.17.24.29:443/?type=tcp&security=tls&alpn=http%2F1.1&allowInsecure=1&fp=chrome# By EbraSha
 trojan://x4j4IesAPbtHVRXYotmHfcxrxj28ly7wzNDuMzPkORdMa7lb@gallery.freebidekall.ga:10023?security=tls&type=tcp&headerType=none# By EbraSha
 trojan://xGfeFeTWja@138.124.90.40:38608?security=reality&sni=www.icloud.com&fp=chrome&pbk=1h2THwJ8wOwCqguMwBeaCjPhETJUHDr_7sPTQQZNnFw&sid=67f400e127240bd3&spx=%2F&type=tcp&headerType=none# By EbraSha
 trojan://xITFB2PCsp@179.237.75.217:2095?security=reality&pbk=QBLMKuBYOXkWxaZbDDx_5SG_1UA88RMoyiX7wBavLy8&host=yahoo.com&headerType=http&fp=chrome&spx=/------@VEGAAS_VPN-------@VEGAAS_VPN&type=tcp# By EbraSha
 trojan://xJWnbfl7Qh@176.124.198.224:15105?security=reality&sni=www.intel.com&fp=chrome&pbk=QulGrKEE40VkJ932nVg21nbVNl3cSSz6AkrS2Zdl0kA&sid=3acf&spx=%2F&type=tcp&headerType=none# By EbraSha
-trojan://xMg1JMgkXAL_20TueWjz_6KJAAs7NnK0@nl3.182.axolab.org:9433?path=/chatbot&security=tls&insecure=0&host=nl3.182.axolab.org&fp=chrome&type=ws&allowInsecure=0&sni=nl3.182.axolab.org# By EbraSha 🎯
 trojan://xV6yLF0Z69Hm@15.222.64.220:16700?allowInsecure=0&sni=appsvs.shop# By EbraSha
 trojan://xWoliwKLC0@de-cdn.independenttherapeutics.com:8443?security=tls&sni=de-cdn.independenttherapeutics.com&alpn=http%2F1.1&type=ws&host=de-cdn.independenttherapeutics.com&path=%2F# By EbraSha
 trojan://xXfu4B9snoRSCzrH0QK0YCBFT9HUgBy9@212.100.171.88:61799?security=reality&pbk=ngleDSKZ2uhcdaYeIUSVG4SQY3RqgeFYXjm6nY3QJQ4&headerType=none&fp=chrome&type=tcp&sni=www.yahoo.com&sid=d8969f220ae60765# By EbraSha
