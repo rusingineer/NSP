@@ -1,3 +1,26 @@
+trojan://telegram-id-privatevpns@35.157.18.183:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
+trojan://telegram-id-privatevpns@35.157.181.130:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
+trojan://telegram-id-privatevpns@35.157.182.40:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
+trojan://telegram-id-privatevpns@35.157.189.179:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
+trojan://telegram-id-privatevpns@35.157.192.105:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
+trojan://telegram-id-privatevpns@35.157.201.137:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
+trojan://telegram-id-privatevpns@35.157.236.123:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
+trojan://telegram-id-privatevpns@35.157.252.71:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
+trojan://telegram-id-privatevpns@35.157.253.93:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
+trojan://telegram-id-privatevpns@35.157.43.29:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
+trojan://telegram-id-privatevpns@35.157.47.55:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
+trojan://telegram-id-privatevpns@35.157.53.107:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
+trojan://telegram-id-privatevpns@35.157.55.39:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
+trojan://telegram-id-privatevpns@35.157.64.242:22222?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
+trojan://telegram-id-privatevpns@35.157.82.27:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
+trojan://telegram-id-privatevpns@35.157.86.22:22222/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1# By EbraSha
+trojan://telegram-id-privatevpns@35.157.96.104:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
+trojan://telegram-id-privatevpns@35.158.0.135:22222?peer=trojan.burgerip.co.uk&alpn=http/1.1# By EbraSha
+trojan://telegram-id-privatevpns@35.158.18.102:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
+trojan://telegram-id-privatevpns@35.158.180.45:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
+trojan://telegram-id-privatevpns@35.158.190.80:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
+trojan://telegram-id-privatevpns@35.158.199.152:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
+trojan://telegram-id-privatevpns@35.158.205.73:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
 trojan://telegram-id-privatevpns@35.158.227.77:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
 trojan://telegram-id-privatevpns@35.158.230.241:22222?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
 trojan://telegram-id-privatevpns@35.158.231.225:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
@@ -241,7 +264,7 @@ trojan://telegram-id-privatevpns@51.21.27.7:22222?security=tls&type=tcp&sni=troj
 trojan://telegram-id-privatevpns@51.21.36.169:22222?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
 trojan://telegram-id-privatevpns@51.21.46.186:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN299505
 trojan://telegram-id-privatevpns@51.21.50.116:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1# By EbraSha
-trojan://telegram-id-privatevpns@51.21.59.141:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;alpn=http/1.1&amp;type=tcp# By EbraSha ⌨️
+trojan://telegram-id-privatevpns@51.21.59.141:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;alpn=http/1.1&amp;type=tcp# By EbraSha ⚡
 trojan://telegram-id-privatevpns@51.21.69.139:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1# By EbraSha
 trojan://telegram-id-privatevpns@51.21.70.184:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
 trojan://telegram-id-privatevpns@51.21.85.37:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1# By EbraSha
@@ -393,7 +416,7 @@ trojan://telegram-id-privatevpns@51.45.9.40:22222?security=tls&alpn=http/1.1&hea
 trojan://telegram-id-privatevpns@51.45.9.76:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
 trojan://telegram-id-privatevpns@52.16.120.126:22222?security=tls&sni=trj.rollingnext.co.uk&type=tcp&headerType=none
 trojan://telegram-id-privatevpns@52.16.128.69:22222?security=tls&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
-trojan://telegram-id-privatevpns@52.16.73.151:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha 🎛️
+trojan://telegram-id-privatevpns@52.16.73.151:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@Vip_Security join us - 429
 trojan://telegram-id-privatevpns@52.18.185.28:22222?peer=trojan.burgerip.co.uk&alpn=http/1.1# By EbraSha
 trojan://telegram-id-privatevpns@52.19.173.143:22222?security=tls&sni=trojan.burgerip.co.uk# By EbraSha
 trojan://telegram-id-privatevpns@52.19.49.176:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk# By EbraSha
@@ -409,7 +432,7 @@ trojan://telegram-id-privatevpns@52.28.170.96:22222?security=tls&alpn=http/1.1&h
 trojan://telegram-id-privatevpns@52.28.185.183:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk# By EbraSha
 trojan://telegram-id-privatevpns@52.28.215.27:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
 trojan://telegram-id-privatevpns@52.28.216.87:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
-trojan://telegram-id-privatevpns@52.28.238.91:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@Vip_Security join us - 417
+trojan://telegram-id-privatevpns@52.28.238.91:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@Vip_Security join us - 430
 trojan://telegram-id-privatevpns@52.28.25.58:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
 trojan://telegram-id-privatevpns@52.28.27.2:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
 trojan://telegram-id-privatevpns@52.28.28.48:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
@@ -975,26 +998,3 @@ trojan://tg-fq521free@198.62.62.67:443/?type=tcp&security=tls&sni=torjan.xn--xhq
 trojan://tg-fq521free@216.24.57.30:443/?type=ws&path=%2F&security=tls&sni=torjan.xn--xhq44j.eu.org# By EbraSha
 trojan://tg-fq521free@45.67.215.95:443/?type=ws&host=torjan.xn--xhq44j.eu.org&path=%2F&security=tls&sni=torjan.xn--xhq44j.eu.org# By EbraSha
 trojan://tgQhjOEFy4@169.40.32.39:28881?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&headerType=http&type=tcp# By EbraSha
-trojan://tiUPm%2FWJQqnP6Skk1SQlxAX8MM1FuYqxsPAS2VQz6zI%3D@65.109.211.136:18690?security=none&amp;headerType=&amp;type=tcp#[6594][FI][0][TROJAN][None][v2rayNG_Matsuri][2026-08-28][2026-09-16 02:03]
-trojan://tk5zyIwqSt@cdn4.qd2is.com:41353?security=tls&headerType=none&type=tcp# By EbraSha
-trojan://tp8gnrTxz7lV49p90F6z4A@kanoon.sanjesh.online:6176?security=none&headerType=none&type=tcp# By EbraSha
-trojan://tpCznR-P5%3DjZUb%23c@66.245.193.152:17126?security=tls&headerType=none&type=tcp&sni=ctaldikgfyw.uefahpgsyz.click# By EbraSha
-trojan://tripitropa994825@45.85.88.194:2234?allowInsecure=1&alpn=http/1.1&fp=android&insecure=1&security=tls&sni=speedtest.tinkoff.ru&type=tcp#🇬🇧 Obhod WBL | speedtest.tinkoff.ru
-trojan://trojan://2bcfbfba-b446-4ad5-93ad-72af9e008f61@blackshadow.dpdns.org:443?sni=blackshadow.dpdns.org&type=ws&path=/%2F195.123.218.174-443&host=blackshadow.dpdns.org#%F0%9F%87%AB%F0%9F%87%B7FR_1118%7C225KB%2Fs%7CM001-260618%2001
-trojan://trojan@104.18.3.150:443?peer=main.xicun.us.kg&plugin=obfs-local;obfs=websocket;obfs-host=main.xicun.us.kg;obfs-uri=# By EbraSha
-trojan://trojan@104.18.4.250:2053/?type=ws&host=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev&path=%2F%3Fed%3D2560&security=tls&sni=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev# By EbraSha
-trojan://trojan@104.18.5.250:2053?security=tls&sni=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev&type=ws&host=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev&path=%2F%3Fed%3D2560# By EbraSha
-trojan://trojan@104.21.3.52:443/?type=tcp&security=tls&sni=test-a23.pages.dev# By EbraSha
-trojan://trojan@104.26.12.31:8443/?type=ws&host=fofang.pages.dev&path=%2F&security=tls&sni=fofang.pages.dev# By EbraSha
-trojan://trojan@104.26.13.31:8443?path=/&security=tls&host=fofang.pages.dev&type=ws&sni=fofang.pages.dev# By EbraSha
-trojan://trojan@109.234.211.66:8443/?type=ws&host=store.timimi.dpdns.org&path=%2F&security=tls&sni=store.timimi.dpdns.org# By EbraSha
-trojan://trojan@13.200.192.197:443?encryption=none&security=tls&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=%2F@chinaportgfw%2B@chinaportgfw# By EbraSha
-trojan://trojan@131.186.25.156:2087?encryption=none&security=tls&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3+@wangcai2# By EbraSha
-trojan://trojan@152.53.200.167:8444?security=tls&sni=jflsjlaf.pages.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=jflsjlaf.pages.dev&path=%2F#2614.%20TROJAN%20%7C%20SNI%3A%20jflsjlaf.pages.dev%20%7C%20TG%3A%20%40wlrustg
-trojan://trojan@152.53.45.251:8888?security=tls&amp%3Bsni=jflsjlaf.pages.dev&amp%3Btype=ws&amp%3Bhost=jflsjlaf.pages.dev&amp%3Bpath=/# By EbraSha
-trojan://trojan@172.64.155.16:2053/?type=ws&host=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev&security=tls&sni=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev# By EbraSha
-trojan://trojan@172.67.130.66:443/?type=tcp&security=tls&sni=test-a23.pages.dev# By EbraSha
-trojan://trojan@172.67.75.172:8443/?type=tcp&security=tls&sni=fofang.pages.dev# By EbraSha
-trojan://trojan@185.133.35.46:443# By EbraSha
-trojan://trojan@185.146.173.94:80?path=%2F%3Fed%3D2560&security=tls&host=freevpn.ahadadi796.workers.dev&type=ws&sni=freevpn.ahadadi796.workers.dev# By EbraSha
-trojan://trojan@213.35.108.135:12596?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&allowInsecure=1&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=/?ed=2560# By EbraSha
