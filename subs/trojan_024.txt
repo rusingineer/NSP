@@ -1,3 +1,4 @@
+trojan://telegram-id-privatevpns@35.180.217.68:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
 trojan://telegram-id-privatevpns@35.180.220.246:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
 trojan://telegram-id-privatevpns@35.180.222.18:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
 trojan://telegram-id-privatevpns@35.180.23.225:22222?security=tls&headerType=none&type=tcp&sni=trj.rollingnext.co.uk# By EbraSha
@@ -185,7 +186,7 @@ trojan://telegram-id-privatevpns@51.21.27.7:22222?security=tls&type=tcp&sni=troj
 trojan://telegram-id-privatevpns@51.21.36.169:22222?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
 trojan://telegram-id-privatevpns@51.21.46.186:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#AutoAiVPN299505
 trojan://telegram-id-privatevpns@51.21.50.116:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1# By EbraSha
-trojan://telegram-id-privatevpns@51.21.59.141:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;alpn=http/1.1&amp;type=tcp# By EbraSha 🌍
+trojan://telegram-id-privatevpns@51.21.59.141:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;alpn=http/1.1&amp;type=tcp# By EbraSha 📀
 trojan://telegram-id-privatevpns@51.21.69.139:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1# By EbraSha
 trojan://telegram-id-privatevpns@51.21.70.184:22222?security=tls&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
 trojan://telegram-id-privatevpns@51.21.85.37:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1# By EbraSha
@@ -997,4 +998,3 @@ trojan://ttfang@45.80.108.216:2096?security=tls&sni=ttfang.fange.me&type=ws&path
 trojan://ttfang@45.80.110.216:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram&Host=ttfang.fange.me# By EbraSha
 trojan://ttfang@45.80.111.216:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram&Host=ttfang.fange.me# By EbraSha
 trojan://ttfang@45.85.118.216:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram&Host=ttfang.fange.me# By EbraSha
-trojan://ttfang@45.85.119.216:2096?security=tls&sni=ttfang.fange.me&type=ws&path=Telegram&Host=ttfang.fange.me# By EbraSha

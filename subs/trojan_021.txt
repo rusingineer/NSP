@@ -1,3 +1,4 @@
+trojan://telegram-id-directvpn@15.237.47.177:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
 trojan://telegram-id-directvpn@15.237.47.75:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1# By EbraSha
 trojan://telegram-id-directvpn@15.237.5.194:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
 trojan://telegram-id-directvpn@15.237.54.100:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
@@ -368,7 +369,7 @@ trojan://telegram-id-directvpn@3.208.53.7:22222?allowInsecure=0&sni=trojan.burge
 trojan://telegram-id-directvpn@3.21.104.170:22222?security=tls&sni=trj.rollingnext.co.uk# By EbraSha
 trojan://telegram-id-directvpn@3.21.141.202:22222?security=tls&sni=trojan.burgerip.co.uk&type=tcp&alpn=http/1.1#[1220][UnResolvedDomains][0][TROJAN][None][Hope_Net][2026-07-27][2026-07-28 02:00]
 trojan://telegram-id-directvpn@3.21.145.227:22222?security=tls&alpn=http%2F1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
-trojan://telegram-id-directvpn@3.210.241.124:22222?security=tls&amp;type=tcp&amp;sni=trojan.burgerip.co.uk# By EbraSha 🌃
+trojan://telegram-id-directvpn@3.210.241.124:22222?security=tls&amp;type=tcp&amp;sni=trojan.burgerip.co.uk# By EbraSha 🩸
 trojan://telegram-id-directvpn@3.219.67.133:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@Vip_Security join us - 428
 trojan://telegram-id-directvpn@3.228.217.5:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk# By EbraSha
 trojan://telegram-id-directvpn@3.23.101.209:22222?security=tls&alpn=http/1.1&headerType=none&fp=safari&type=tcp&sni=trj.rollingnext.co.uk# By EbraSha
@@ -997,4 +998,3 @@ trojan://telegram-id-directvpn@51.45.13.145:22223?security=tls&alpn=http/1.1&hea
 trojan://telegram-id-directvpn@51.45.15.118:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
 trojan://telegram-id-directvpn@51.45.15.225:22223/?type=tcp&security=tls&sni=trojan.burgerip.co.uk&alpn=http%2F1.1# By EbraSha
 trojan://telegram-id-directvpn@51.45.17.91:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
-trojan://telegram-id-directvpn@51.45.18.222:22223?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk# By EbraSha
