@@ -1,9 +1,17 @@
+trojan://IQ68037294@sterling-dinosaur.rooster465.autos:443?sni=sterling-dinosaur.rooster465.autos&fp=chrome&type=tcp&path=%2f# By EbraSha
+trojan://IQ68037294@sterling-vervet.rooster465.autos:443# By EbraSha
+trojan://IQ68037294@stirring-bat.rooster465.autos:443?sni=stirring-bat.rooster465.autos&fp=chrome&type=tcp&path=%2f# By EbraSha
+trojan://IQ68037294@thankful-piranha.rooster465.autos:443?sni=thankful-piranha.rooster465.autos&fp=chrome&type=tcp&path=%2f# By EbraSha
+trojan://IQ68037294@together-insect.rooster465.autos:443# By EbraSha
+trojan://IQ68037294@upward-hedgehog.rooster465.autos:443?sni=upward-hedgehog.rooster465.autos&fp=chrome&type=tcp&path=%2f# By EbraSha
+trojan://IQ68037294@winning-manatee.rooster465.autos:443?sni=winning-manatee.rooster465.autos&fp=chrome&type=tcp&path=%2f# By EbraSha
+trojan://IQ68037294@witty-stallion.rooster465.autos:443?sni=witty-stallion.rooster465.autos&fp=chrome&type=tcp&path=%2f# By EbraSha
 trojan://IQ68037294@working-raccoon.rooster465.autos:443?sni=working-raccoon.rooster465.autos&fp=chrome&type=tcp&path=%2f# By EbraSha
 trojan://IQYD1kSiuYJW@172.67.142.21:2087/?type=tcp&security=tls&sni=leader.andishehnegariran.ir# By EbraSha
 trojan://IY4gWQIsHV@104.21.64.1:2087/?type=httpupgrade&host=esna.twn24.ir&path=%2Fmehdi&security=tls&sni=esna.twn24.ir&alpn=http%2F1.1&fp=random# By EbraSha
 trojan://IbezlLAYfrLRwFn9.mHn5FDwk1asLi599U@130.94.65.52:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&insecure=1&host=v2rayNplus-v2rayNplus-v2rayNplus&headerType=none&fp=chrome&type=tcp&allowInsecure=1&sni=www.static-cast.click# By EbraSha
 trojan://Ic7rrkVInXTODUHB1WLtf4vc@185.189.58.195:36185?type=ws&security=tls&host=185.189.58.195&path=/ws&sni=185.189.58.195&alpn=h2,http/1.1&fp=chrome# By EbraSha
-trojan://Ilnk4B119RxZ4RNpSAAL-A@62.133.63.21:2083?security=tls&type=ws&sni=h110vpnturkey.outlinekeys.net#1637.%20%F0%9F%87%B9%F0%9F%87%B7%20TROJAN%20%7C%20SNI%3A%20h110vpnturkey.outlinekeys.net%20%7C%20TG%3A%20%40wlrustg
+trojan://Ilnk4B119RxZ4RNpSAAL-A@62.133.63.21:2083?security=tls&type=ws&sni=h110vpnturkey.outlinekeys.net#7720.%20%F0%9F%87%B9%F0%9F%87%B7%20TROJAN%20%7C%20SNI%3A%20h110vpnturkey.outlinekeys.net%20%7C%20TG%3A%20%40wlrustg
 trojan://Iwzl7RHG_IE2qwsJ3uYIDA@37.202.234.87:21443?security=none&type=tcp# By EbraSha
 trojan://Iwzl7RHG_IE2qwsJ3uYIDA@irmedia12.pmme6.top:22443?security=none&type=tcp&headerType=&path=&host=# By EbraSha
 trojan://Iwzl7RHG_IE2qwsJ3uYIDA@track1.mediavlink.top:20443?security=none&type=tcp&headerType=&path=&host=# By EbraSha
@@ -25,7 +33,7 @@ trojan://JA96378052@52.192.146.88:443?allowInsecure=1&sni=WangCai.rooster465.aut
 trojan://JA96378052@52.195.11.84:443?allowInsecure=1&sni=WangCai.rooster465.autos# By EbraSha
 trojan://JA96378052@52.221.244.230:443?allowInsecure=1&sni=dominant-jaguar.rooster465.autos# By EbraSha
 trojan://JA96378052@52.74.76.236:443?allowInsecure=1&sni=WangCai.rooster465.autos# By EbraSha
-trojan://JA96378052@54.178.60.95:443?allowInsecure=0&sni=#%E6%97%A5%E6%9C%AC_0926018
+trojan://JA96378052@54.178.60.95:443?allowInsecure=1&sni=WangCai.rooster465.autos# By EbraSha
 trojan://JA96378052@87.121.33.91:443?allowInsecure=1# By EbraSha
 trojan://JA96378052@apparent-wasp.rooster465.autos:443?allowInsecure=0&sni=apparent-wasp.rooster465.autos# By EbraSha
 trojan://JA96378052@aware-corgi.rooster465.autos:443?allowInsecure=1&sni=aware-corgi.rooster465.autos# By EbraSha
@@ -130,7 +138,7 @@ trojan://KfAfYD@183.213.200.205:28109?allowInsecure=1
 trojan://KfAfYD@183.213.200.205:28132?allowInsecure=1
 trojan://Km%2FpIG4AGCjCOiGWj5FsWA%3D%3D@node8.quaxly.com:25040?security=tls&sni=%2Fgay-anal&alpn=http%2F1.1&fp=random&allowInsecure=1&type=ws&path=%2Fnode8.quaxly.com&host=%2Fgay-anal#DE 🇩🇪 | @Raydikalx | 3A1EC1
 trojan://Km%2FpIG4AGCjCOiGWj5FsWA==
-trojan://Km/[email protected]:25040?security=tls&sni=/gay-anal&type=ws&path=/node8.quaxly.com&Host=/gay-anal#[2675][UnResolvedDomains][0][TROJAN][None][ext_raw.githubusercontent.com][2026-09-25][2026-09-25 02:13]
+trojan://Km/[email protected]:25040?security=tls&sni=/gay-anal&type=ws&path=/node8.quaxly.com&Host=/gay-anal#[2481][UnResolvedDomains][0][TROJAN][None][ext_raw.githubusercontent.com][2026-09-28][2026-09-28 02:18]
 trojan://KpdSpmQB3i@ora.blowm1k.club:28199?allowInsecure=1
 trojan://KsMF5kLudbU3@104.21.44.185:2087/?type=ws&host=econews.onetwothree123.ir&path=%2F%F0%9F%86%94%40M3HDIO1&security=tls&sni=econews.onetwothree123.ir# By EbraSha
 trojan://KshsCdgYST@34.96.143.229:23444?allowInsecure=1
@@ -168,10 +176,9 @@ trojan://LYaOvuNXdQGTZNonhlRUKqOJcKVihzKY@65.75.220.124:889?security=tls&sni=s3.
 trojan://LYaOvuNXdQGTZNonhlRUKqOJcKVihzKY@65.75.220.76:889?security=tls&sni=s3.cjhh.beauty&type=tcp# By EbraSha
 trojan://LYaOvuNXdQGTZNonhlRUKqOJcKVihzKY@yuumv-1088-tr-0.d-kcd.tuil.xyz:889?security=tls&sni=s3.cjhh.beauty&type=tcp# By EbraSha
 trojan://Lar3HXz16D@104.21.48.1:443/?type=grpc&security=tls&sni=tabnak.twn24.ir# By EbraSha
-trojan://LcICDcp!jD9TFV$NbH@104.21.29.250:443?type=ws&security=tls&fp=chrome&host=dl2uf-ivdezilz3e86rk18.hhvt37tjm2xbosql5hxogn-y.workers.dev&alpn=http/1.1#1724 | ☁️ Cloudflare | TROJAN | TG: @YoutubeUnBlockRu
+trojan://LcICDcp!jD9TFV$NbH@104.21.29.250:443?type=ws&security=tls&fp=chrome&host=dl2uf-ivdezilz3e86rk18.hhvt37tjm2xbosql5hxogn-y.workers.dev&alpn=http/1.1#1017 | ☁️ Cloudflare | TROJAN | TG: @YoutubeUnBlockRu
+trojan://LcICDcp!jD9TFV$NbH@172.67.150.22:443?path=/tr/pg4wM48V9O859nmqsJg22EOFKN4S570y?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=dl2uf-ivdezilz3e86rk18.hhvt37tjm2xbosql5hxogn-y.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=dl2uF-iVdeZILZ3E86rK18.Hhvt37tjm2XBOsQL5HXogN-Y.woRKERS.dEv#CA 🇨🇦 | @Raydikalx | 442244
 trojan://LcICDcp!jD9TFV$NbH@dl2uf-ivdezilz3e86rk18.hhvt37tjm2xbosql5hxogn-y.workers.dev:443?sni=dl2uF-iVdeZILZ3E86rK18.Hhvt37tjm2XBOsQL5HXogN-Y.woRKERS.dEv&type=ws&path=/tr/pg4wM48V9O859nmqsJg22EOFKN4S570y?ed=2560&alpn=http/1.1&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7FR_1176%7C637KB%2Fs%7CB007-260618%2001
-trojan://LcICDcp%21jD9TFV%24NbH@172.67.150.22:443?path=%2Ftr%2Fpg4wM48V9O859nmqsJg22EOFKN4S570y%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=dl2uf-ivdezilz3e86rk18.hhvt37tjm2xbosql5hxogn-y.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=dl2uF-iVdeZILZ3E86rK18.Hhvt37tjm2XBOsQL5HXogN-Y.woRKERS.dEv#%F0%9F%87%A8%F0%9F%87%A6%20%40MrMeshkyChannel%20668486
-trojan://LcICDcp%21jD9TFV&#[2693][UnResolvedDomains][0][TROJAN][None][oneclickvpnkeys][2026-09-22][2026-09-25 02:12]
 trojan://Ldbgt4IUYv0S%2B5cFrG4vcWEbvdf8RgPGmoIXhnnOEh4%3D@65.109.208.236:54673?security=none&headerType=&type=tcp# By EbraSha
 trojan://Ldbgt4IUYv0S%2B5cFrG4vcWEbvdf8RgPGmoIXhnnOEh4%3D@65.109.215.50:54673?security=none&headerType=&type=tcp# By EbraSha
 trojan://LgQa3RZyP9@de.melov2ray.shop:2083?security=tls&sni=De.Melov2ray.Shop&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&path=%2Fmelov2ray# By EbraSha
@@ -181,14 +188,16 @@ trojan://LibertasOne*FfNb@ironone.libertasiran.cloud:443?path=%2Fn890&security=t
 trojan://LnLF6DF2mh@dew.fizikade.ir:8443?type=tcp&path=/naranv2ray/naranv2ray&headerType=http&security=reality&pbk=xRC1i4yX90IYwJnxtvGMwtu4wy3OEfesePtdXaKkD04&fp=chrome&sni=play.google.com&sid=97&spx=/naranv2ray# By EbraSha
 trojan://Lw_DP4 W.J5K33MD2Jy5zQVuT5n71 =BcD@38.60.168.129:443?sni=38.60.168.129&type=tcp&fp=chrome# By EbraSha
 trojan://Lw_DP4# By EbraSha
+trojan://Lz3NvQXwksB8@64.176.184.185:443?allowInsecure=1&sni=ash.d50f6225-23b4-3a7b-9f15-a0fb2fc16803.kailib.com#%F0%9F%87%AC%F0%9F%87%A7%20%E8%8B%B1%E5%9B%BD%20%7C%20GBR
 trojan://M%3DvdPVIuNS389OQ6iqbAn-5G@172.236.171.37:28042?type=tcp&security=tls&sni=www.fuzzyfeelergauge.click#SiNAVM%20|%20TROJAN%20|%20#24
 trojan://M%69T%69VPN@104.26.15.137:443?path=%2FMiTiVPN%3DUSA&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&insecure=0&host=us-a.App-Cloud.ir&fp=chrome&type=ws&allowInsecure=0&sni=us-a.App-Cloud.ir# By EbraSha
-trojan://M%69TiVPN@151.101.56.101:443?path=%40mehrosaboran&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;host=m%69tivpn---ss--s---m%69tivpn-5.global.ssl.fastly.net&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=ssl.fastly.com#[2706][US][0][TROJAN][None][mehrosaboran][2026-09-12][2026-09-25 02:12]
+trojan://M%69TiVPN@151.101.56.101:443?path=%40mehrosaboran&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;host=m%69tivpn---ss--s---m%69tivpn-5.global.ssl.fastly.net&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=ssl.fastly.com#[2506][US][0][TROJAN][None][mehrosaboran][2026-09-12][2026-09-28 02:17]
 trojan://M08tvzYWtUEJNtbpHp@194.124.216.185:443?allowInsecure=1# By EbraSha
 trojan://M08tvzYWtUEJNtbpHp@194.124.216.192:443?allowInsecure=0&sni=# By EbraSha
 trojan://M08tvzYWtUEJNtbpHp@nl-4.tr202512.com:443?allowInsecure=0&sni=# By EbraSha
 trojan://M4Z093NUxzTd@35.177.239.227:14812?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none# By EbraSha
-trojan://M7v%25w11Se%2A@34.94.125.227:443?allowInsecure=1&sni=mxlo.wsone.icu#US 🇺🇸 | @Raydikalx | 28F0D8
+trojan://M7v%25w11Se%2A@34.94.125.227:443?allowInsecure=1&amp;sni=mxlo.wsone.icu#[2515][US][0][TROJAN][None][oneclickvpnkeys][2026-09-27][2026-09-28 02:17]
+trojan://M7v%25w11Se%2A@35.246.185.109:443?allowInsecure=1&security=tls&sni=dggg.wsone.icu#DE 🇩🇪 | @Raydikalx | DAA3AB
 trojan://M7v%25w11Se%2A@amanm.wsone.icu:443?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none# By EbraSha
 trojan://M7v%25w11Se%2A@hyfuuf6.wsone.icu:443?allowInsecure=1&sni=hyfuuf6.wsone.icu# By EbraSha
 trojan://M7v%25w11Se%2A@qfdfsg.wsone.icu:443?allowInsecure=1&type=tcp&security=tls&sni=qfdfsg.wsone.icu# By EbraSha
@@ -207,7 +216,7 @@ trojan://MITIVPN@104.18.113.47:443?type=ws&security=tls&path=/---@MiTiVPN/---@Mi
 trojan://MITIVPN@104.18.114.47:443?security=tls&sni=de-ms.Maqror.ir&type=ws&host=De1-2-3.Maqror.ir&path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DDEE&fp=chrome&alpn=http%2F1.1&allowInsecure=1# By EbraSha
 trojan://MITIVPN@104.18.14.58:8443?security=tls&sni=de-j7o-doo.MaQror.IR&alpn=h2,http/1.1&type=ws&host=jDe1-2v-3.MaQror.IR&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=D-E-e# By EbraSha
 trojan://MITIVPN@104.18.15.58:8443?security=tls&sni=de-j7o-doo.MaQror.IR&alpn=h2,http/1.1&type=ws&host=jDe1-2v-3.MaQror.IR&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=D-E-e# By EbraSha
-trojan://MITIVPN@104.18.152.225:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FD-e&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=1&amp;host=d-e-mitivpn---MiTiVPN---MiTiVPN.aPp-cLoud.IR&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=Dee---7-MiTiVPN----o.aPp-cLoud.IR#[2720][US][0][TROJAN][None][prrofile_purple][2026-07-30][2026-09-25 02:12]
+trojan://MITIVPN@104.18.152.225:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FD-e&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=1&amp;host=d-e-mitivpn---MiTiVPN---MiTiVPN.aPp-cLoud.IR&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=Dee---7-MiTiVPN----o.aPp-cLoud.IR#[2522][US][0][TROJAN][None][prrofile_purple][2026-07-30][2026-09-28 02:17]
 trojan://MITIVPN@104.18.33.45:443?type=ws&security=tls&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=U-S-a&host=my-usjca-ohl.App-CloUd.IR&sni=UsAba-bUbks.App-CloUd.IR&alpn=h2,http/1.1&fp=chrome&insecure=1&allowInsecure=1# By EbraSha
 trojan://MITIVPN@104.18.39.172:443?allowInsecure=1&sni=7u-i--MiTiVPN---MiTiVPN-7.aPp-cLoud.IR&alpn=h2%2Chttp/1.1&type=ws&path=/---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN=uss# By EbraSha
 trojan://MITIVPN@104.18.42.68:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fusa---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=1&fp=chrome&type=ws&allowInsecure=1&sni=Ussa1-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.KinGNetWork.iR#@Vip_Security join us - 197
@@ -241,7 +250,7 @@ trojan://MITIVPN@199.232.22.39:443?alpn=http%2F1.1&fp=chrome&host=mitivpn--mitiv
 trojan://MITIVPN@199.232.78.157:443?path=%2Fed&security=tls&alpn=http%2F1.1&insecure=1&host=mitivpn--4.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=global.fastly.com# By EbraSha
 trojan://MITIVPN@208.86.168.168:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DD--e&security=tls&alpn=http%2F1.1&insecure=1&host=De1-2-3.MaQRor.Ir&fp=chrome&type=ws&allowInsecure=1&sni=de-jodo.MaQRor.Ir# By EbraSha
 trojan://MITIVPN@209.208.227.208:443?path=%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%2F---%40MiTiVPN%3DU-s&security=tls&alpn=http%2F1.1&insecure=1&host=my-usa-ol.MaQRor.Ir&fp=chrome&type=ws&allowInsecure=1&sni=UsAa-bUs.MaQRor.Ir# By EbraSha
-trojan://MITIVPN@45.130.125.112:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fde&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=1&amp;host=11-mitivpn---MiTiVPN---MiTiVPN.Maqror.ir&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=ikk---7-MiTiVPN----o.Maqror.ir#[2825][SC][0][TROJAN][None][nofiltering2][2026-07-30][2026-09-25 02:12]
+trojan://MITIVPN@45.130.125.112:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fde&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=1&amp;host=11-mitivpn---MiTiVPN---MiTiVPN.Maqror.ir&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=ikk---7-MiTiVPN----o.Maqror.ir#[2588][SC][0][TROJAN][None][nofiltering2][2026-07-30][2026-09-28 02:17]
 trojan://MITIVPN@45.130.125.162:443?path=---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN---@MiTiVPN-us&security=tls&alpn=h2,http/1.1&insecure=1&host=p---MiTiVPN---MiTiVPN-av.aPp-cLoud.IR&fp=chrome&type=ws&allowInsecure=1&sni=7---MiTiVPN---MiTiVPN-7.aPp-cLoud.IR# By EbraSha
 trojan://MITIVPN@45.8.211.217:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=d-e&security=tls&alpn=h2,http/1.1&host=jDe1-2v-3.App-CloUd.IR&fp=chrome&type=ws&sni=de-j7o-doo.App-CloUd.IR# By EbraSha
 trojan://MITIVPN@45.80.111.7:443?allowInsecure=1&sni=u---as.MaQror.ir&alpn=http/1.1&type=ws&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=usa# By EbraSha
@@ -266,7 +275,7 @@ trojan://MITIVPN@velocore.co:443# By EbraSha
 trojan://MITIVPN@visa.com:443?path=%2F# By EbraSha
 trojan://MITIVPN@www.speedtest.net :443?type=ws&security=tls&path=/MiTiVPN=DE&host=D--e.App-Cloud.ir&sni=D--e.App-Cloud.ir&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0# By EbraSha
 trojan://MITIVPN@www.testspeed.net:443?type=ws&security=tls&path=/MiTiVPN=De&host=PioHosting.ir&sni=PioHosting.ir&alpn=http/1.1&fp=chrome&insecure=0&allowInsecure=0# By EbraSha
-trojan://MITIVpN@151.101.56.90:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNLSs---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=1&host=mitivpn---ss--s---mitivpn-66e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=ssl.fastly.com#[2881][US][0][TROJAN][None][ext_raw.githubusercontent.com][2026-09-25][2026-09-25 02:13]
+trojan://MITIVpN@151.101.56.90:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNLSs---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&insecure=1&host=mitivpn---ss--s---mitivpn-66e.global.ssl.fastly.net&fp=chrome&type=ws&allowInsecure=1&sni=ssl.fastly.com#%F0%9F%95%9209/28%2018%3A30%20%7C%20ProxyMtpVPN-21
 trojan://MTcvyBZeg3@germany2.mrdead.top:53918# By EbraSha
 trojan://Maradona_vpn@maradona_vpn.history-paint.art:443?security=tls&sni=teo.history-paint.art&alpn=h2&fp=chrome&type=grpc&serviceName=grpc20337&mode=multi# By EbraSha
 trojan://Masir_Sefid@172.234.31.64:1040?security=reality&pbk=03be_-tMiVFxrLwXO7TMr4HTN4o68ai5Vd5Y2HeIgBQ&headerType=none&fp=chrome&spx=/CbzIqP78WJ6tX7O&type=tcp&sni=store.steampowered.com&sid=d2f7# By EbraSha
@@ -285,9 +294,9 @@ trojan://Masir_Sefid@188.213.130.61:1040?security=reality&pbk=w0XepGv1Hk0gBh1Api
 trojan://Masir_Sefid@188.213.130.61:2053?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=%2FW8svbYrFok2DfFx&type=tcp&sni=store.steampowered.com&sid=20b301df70# By EbraSha
 trojan://Masir_Sefid@188.213.130.61:2083?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=%2FChZzHJgLH1mdM6A&type=tcp&sni=store.steampowered.com&sid=84e87fdcdf2ea9e8# By EbraSha
 trojan://Masir_Sefid@188.213.130.61:443?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=%2FzyKRb3NaP9Ee0j4&type=tcp&sni=store.steampowered.com&sid=6ced01fc4aa417# By EbraSha
-trojan://Masir_Sefid@195.15.253.123:1040?security=reality&amp;pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&amp;headerType=none&amp;fp=chrome&amp;spx=%2FaRBYGa427aKKE16&amp;type=tcp&amp;sni=store.steampowered.com&amp;sid=84e87fdcdf2ea9e8#[2964][CH][0][TROJAN][None][prrofile_purple][2026-06-07][2026-09-25 02:13]
+trojan://Masir_Sefid@195.15.253.123:1040?security=reality&amp;pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&amp;headerType=none&amp;fp=chrome&amp;spx=%2FaRBYGa427aKKE16&amp;type=tcp&amp;sni=store.steampowered.com&amp;sid=84e87fdcdf2ea9e8#[2675][CH][0][TROJAN][None][prrofile_purple][2026-06-07][2026-09-28 02:17]
 trojan://Masir_Sefid@195.15.253.123:2053?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=%2FW8svbYrFok2DfFx&type=tcp&sni=store.steampowered.com&sid=20b301df70# By EbraSha
-trojan://Masir_Sefid@195.15.253.123:2083?security=reality&amp;pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&amp;headerType=none&amp;fp=chrome&amp;spx=%2FChZzHJgLH1mdM6A&amp;type=tcp&amp;sni=store.steampowered.com&amp;sid=84e87fdcdf2ea9e8#[2965][CH][0][TROJAN][None][prrofile_purple][2026-06-07][2026-09-25 02:13]
+trojan://Masir_Sefid@195.15.253.123:2083?security=reality&amp;pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&amp;headerType=none&amp;fp=chrome&amp;spx=%2FChZzHJgLH1mdM6A&amp;type=tcp&amp;sni=store.steampowered.com&amp;sid=84e87fdcdf2ea9e8#[2676][CH][0][TROJAN][None][prrofile_purple][2026-06-07][2026-09-28 02:17]
 trojan://Masir_Sefid@195.15.253.123:443?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=%2FzyKRb3NaP9Ee0j4&type=tcp&sni=store.steampowered.com&sid=6ced01fc4aa417# By EbraSha
 trojan://Masir_Sefid@195.15.253.72:1040?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=%2FaRBYGa427aKKE16&type=tcp&sni=store.steampowered.com&sid=84e87fdcdf2ea9e8# By EbraSha
 trojan://Masir_Sefid@195.15.253.72:2053?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=%2FW8svbYrFok2DfFx&type=tcp&sni=store.steampowered.com&sid=20b301df70# By EbraSha
@@ -307,7 +316,7 @@ trojan://Masir_Sefid@207.154.242.160:2083?security=reality&sni=store.steampowere
 trojan://Masir_Sefid@207.154.242.160:443?security=reality&sni=store.steampowered.com&fp=chrome&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&sid=6ced01fc4aa417&spx=%2FzyKRb3NaP9Ee0j4&type=tcp&headerType=none# By EbraSha
 trojan://Masir_Sefid@37.156.45.168:1040?security=reality&pbk=03be_-tMiVFxrLwXO7TMr4HTN4o68ai5Vd5Y2HeIgBQ&headerType=none&fp=chrome&spx=%2FCbzIqP78WJ6tX7O&type=tcp&sni=store.steampowered.com&sid=d2f7# By EbraSha
 trojan://Masir_Sefid@37.156.45.168:2053?security=reality&pbk=03be_-tMiVFxrLwXO7TMr4HTN4o68ai5Vd5Y2HeIgBQ&headerType=none&fp=chrome&spx=%2Fastd6TTQuZVbaNl&type=tcp&sni=store.steampowered.com&sid=d67d2e36# By EbraSha
-trojan://Masir_Sefid@37.156.45.168:2083?security=reality&amp;pbk=03be_-tMiVFxrLwXO7TMr4HTN4o68ai5Vd5Y2HeIgBQ&amp;headerType=none&amp;fp=chrome&amp;spx=%2FzhH6xrLTx7oS2Yl&amp;type=tcp&amp;sni=store.steampowered.com&amp;sid=d2f7#[2966][CH][0][TROJAN][None][prrofile_purple][2026-06-09][2026-09-25 02:13]
+trojan://Masir_Sefid@37.156.45.168:2083?security=reality&amp;pbk=03be_-tMiVFxrLwXO7TMr4HTN4o68ai5Vd5Y2HeIgBQ&amp;headerType=none&amp;fp=chrome&amp;spx=%2FzhH6xrLTx7oS2Yl&amp;type=tcp&amp;sni=store.steampowered.com&amp;sid=d2f7#[2677][CH][0][TROJAN][None][prrofile_purple][2026-06-09][2026-09-28 02:17]
 trojan://Masir_Sefid@37.156.45.168:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&pbk=03be_-tMiVFxrLwXO7TMr4HTN4o68ai5Vd5Y2HeIgBQ&headerType=none&fp=chrome&spx=%2FFQDh1KA6NaPaGpV&type=tcp&sni=store.steampowered.com&sid=d67d2e36# By EbraSha
 trojan://Masir_Sefid@37.156.46.29:1040?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=%2FaRBYGa427aKKE16&type=tcp&sni=store.steampowered.com&sid=84e87fdcdf2ea9e8# By EbraSha
 trojan://Masir_Sefid@37.156.46.29:2053?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=%2FW8svbYrFok2DfFx&type=tcp&sni=store.steampowered.com&sid=20b301df70# By EbraSha
@@ -342,7 +351,7 @@ trojan://Masir_Sefid@84.234.31.111:443?security=reality&pbk=03be_-tMiVFxrLwXO7TM
 trojan://Masir_Sefid@84.234.31.249:1040?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=%2FaRBYGa427aKKE16&type=tcp&sni=store.steampowered.com&sid=84e87fdcdf2ea9e8# By EbraSha
 trojan://Masir_Sefid@84.234.31.249:2053?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=%2FW8svbYrFok2DfFx&type=tcp&sni=store.steampowered.com&sid=20b301df70# By EbraSha
 trojan://Masir_Sefid@84.234.31.249:2083?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=%2FChZzHJgLH1mdM6A&type=tcp&sni=store.steampowered.com&sid=84e87fdcdf2ea9e8# By EbraSha
-trojan://Masir_Sefid@84.234.31.249:443?security=reality&amp;pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&amp;headerType=none&amp;fp=chrome&amp;spx=%2FzyKRb3NaP9Ee0j4&amp;type=tcp&amp;sni=store.steampowered.com&amp;sid=6ced01fc4aa417#[2967][CH][0][TROJAN][None][prrofile_purple][2026-06-09][2026-09-25 02:13]
+trojan://Masir_Sefid@84.234.31.249:443?security=reality&amp;pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&amp;headerType=none&amp;fp=chrome&amp;spx=%2FzyKRb3NaP9Ee0j4&amp;type=tcp&amp;sni=store.steampowered.com&amp;sid=6ced01fc4aa417#[2678][CH][0][TROJAN][None][prrofile_purple][2026-06-09][2026-09-28 02:17]
 trojan://Masir_Sefid@Masir_Sefid:443?security=reality&pbk=w0XepGv1Hk0gBh1Apiw-nvn8SfzjWcDuxdxN1mpaF3g&headerType=none&fp=chrome&spx=%2FzyKRb3NaP9Ee0j4&type=tcp&sni=store.steampowered.com&sid=6ced01fc4aa417# By EbraSha
 trojan://Mb6124ef@14.215.107.23:28124?allowInsecure=0
 trojan://Md7cc86e@120.232.132.120:25682?security=tls&type=tcp&headerType=none# By EbraSha
@@ -536,7 +545,6 @@ trojan://MiTiVPN@151.101.53.242:443/?type=ws&host=www.f6r.ir&path=%2F%3Fed%3D256
 trojan://MiTiVPN@151.101.53.53:80?ed=2560&eh=Sec-WebSocket-Protocol&host=cdn2-mitivpn.global.ssl.fastly.net&path=/?ed=2560&https://t.me/WangCai2&security=none&type=ws# By EbraSha
 trojan://MiTiVPN@151.101.56.0:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=ws&security=tls&path=/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/s-w@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN/---@MiTiVPN---@MiTiVPN&host=s4z-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net&sni=default.fastly.com&alpn=http/1.1&fp=chrome&insecure=1&allowInsecure=1#[5491][US][0][TROJAN][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
 trojan://MiTiVPN@151.101.56.172:443?allowInsecure=1&alpn=http%2F1.1&fp=chrome&host=s4b-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fsw---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&sni=default.fastly.com&type=ws#[5499][US][0][TROJAN][None][oneclickvpnkeys][2026-08-09][2026-08-16 00:34]
-trojan://MiTiVPN@151.101.56.255:443?alpn=http%2F1.1&fp=chrome&host=mitivpn---nl--s---mitivpn-2.global.ssl.fastly.net&sni=ssl.fastly.com&type=ws#%F0%9F%A7%BF52@oneclickvpnkeys
 trojan://MiTiVPN@151.101.56.56:80?ed=2560&eh=Sec-WebSocket-Protocol&host=cdn2-mitivpn.global.ssl.fastly.net&path=/?ed=2560&https://t.me/WangCai2&security=none&type=ws# By EbraSha
 trojan://MiTiVPN@151.101.56.9:443/?type=ws&host=s3z-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Ff-l%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&sni=default.fastly.com&alpn=http%2F1.1&fp=chrome# By EbraSha
 trojan://MiTiVPN@151.101.59.59:80?ed=2560&eh=Sec-WebSocket-Protocol&host=cdn2-mitivpn.global.ssl.fastly.net&path=/?ed=2560&https://t.me/WangCai2&security=none&type=ws# By EbraSha
@@ -593,7 +601,7 @@ trojan://MiTiVPN@166.62.113.3:80?ed=2560&eh=Sec-WebSocket-Protocol&host=Nl.App-C
 trojan://MiTiVPN@166.62.114.3:80?ed=2560&eh=Sec-WebSocket-Protocol&host=Nl.App-Cloud.ir&path=%2FMiTiVPN%3DNL&security=none&type=ws# By EbraSha
 trojan://MiTiVPN@166.62.115.3:80?ed=2560&eh=Sec-WebSocket-Protocol&host=Nl.App-Cloud.ir&path=%2FMiTiVPN%3DNL&security=none&type=ws# By EbraSha
 trojan://MiTiVPN@167.82.101.75:443?type=ws&security=tls&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNLS4s---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&host=mitivpn-ss-mitivpn---mitivpn--mitivpn.global.ssl.fastly.net&sni=ssl.fastly.com&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#%40MiTiVPN%20%7C%20%5B%20%F0%9D%91%B5%F0%9D%92%86%F0%9D%91%BB%F0%9D%91%B4%F0%9D%92%86%F0%9D%92%8D%F0%9D%92%8A%20%5D5%F0%9F%87%A9%F0%9F%87%AA
-trojan://MiTiVPN@167.82.76.27:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNLSs---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&host=mitivpn---ss--s---mitivpn-3.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#@Vip_Security join us - 203
+trojan://MiTiVPN@167.82.76.27:443?path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNLSs---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&alpn=http%2F1.1&host=mitivpn---ss--s---mitivpn-3.global.ssl.fastly.net&fp=chrome&type=ws&sni=ssl.fastly.com#@Vip_Security join us - 197
 trojan://MiTiVPN@167.82.79.164:443?type=ws&security=tls&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FD-e1i%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&host=mitivpn-mitivpn-mitivpn-bb-mitivpn-mitivpn--mitivpn.global.ssl.fastly.net&sni=ssl.fastly.com&alpn=http%2F1.1&fp=firefox&insecure=0&allowInsecure=0#%40MiTiVPN%20%7C%20%5B%20%F0%9D%91%B5%F0%9D%92%86%F0%9D%91%BB%F0%9D%91%B4%F0%9D%92%86%F0%9D%92%8D%F0%9D%92%8A%20%5D%204%F0%9F%87%A9
 trojan://MiTiVPN@167.82.96.58:443?type=ws&security=tls&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FNLSs---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&host=mitivpn-ss-mitivpn---mitivpn--mitivpn.global.ssl.fastly.net&sni=ssl.fastly.com&alpn=http%2F1.1&fp=chrome&insecure=0&allowInsecure=0#%40MiTiVPN%20%7C%20%5B%20%F0%9D%91%B5%F0%9D%92%86%F0%9D%91%BB%F0%9D%91%B4%F0%9D%92%86%F0%9D%92%8D%F0%9D%92%8A%20%5D%203%F0%9F%87%A9`
 trojan://MiTiVPN@172.64.146.59:443?type=ws&security=tls&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FHK---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&host=H-k-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.KinGNetWork.iR&sni=hk1-MiTiVPN--MiTiVPN--MiTiVPN---MiTiVPN--MiTiVPN--MiTiVPN.KinGNetWork.iR&alpn=http%2F1.1&fp=chrome&insecure=1&allowInsecure=1#[5536][US][0][TROJAN][None][Capoit][2026-07-31][2026-08-16 00:34]
@@ -678,7 +686,7 @@ trojan://MiTiVPN@199.232.69.242:80?host=www.f6r.ir&path=%2F%3Fhttps%3A%2F%2Ft.me
 trojan://MiTiVPN@199.232.73.242:80?host=www.f6r.ir&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=none&type=ws# By EbraSha
 trojan://MiTiVPN@199.232.78.140:443# By EbraSha
 trojan://MiTiVPN@199.232.78.150:443/?type=ws&host=s4z-mitivpn--mitivpn------mitivpn.global.ssl.fastly.net&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2Fs-g%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&security=tls&sni=ssl.fastly.com&alpn=http%2F1.1&fp=chrome# By EbraSha
-trojan://MiTiVPN@199.232.78.188:443?alpn=http%2F1.1&fp=chrome&host=mitivpn---gb--s---mitivpn-1.global.ssl.fastly.net&sni=ssl.fastly.com&type=ws#%F0%9F%A7%BF53@oneclickvpnkeys
+trojan://MiTiVPN@199.232.78.188:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&sni=ssl.fastly.com&alpn=http/1.1&fp=chrome&type=ws&host=mitivpn---gb--s---mitivpn-1.global.ssl.fastly.net&path=/#@GozargahAzad|🇺🇸
 trojan://MiTiVPN@199.232.78.20:443?type=ws&security=tls&path=%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2FD-ei%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN%2F---%40MiTiVPN---%40MiTiVPN&host=mitivpn-mitivpn-mitivpn-bb-mitivpn-mitivpn--mitivpn.global.ssl.fastly.net&sni=ssl.fastly.com&alpn=http%2F1.1&fp=firefox&insecure=0&allowInsecure=0#%40MiTiVPN%20%7C%20%5B%20%F0%9D%91%B5%F0%9D%92%86%F0%9D%91%BB%F0%9D%91%B4%F0%9D%92%86%F0%9D%92%8D%F0%9D%92%8A%20%5D6%F0%9F%87%A9%F0%9F%87%AA`
 trojan://MiTiVPN@199.232.81.242:80?host=www.f6r.ir&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=none&type=ws# By EbraSha
 trojan://MiTiVPN@199.232.89.242:80?host=www.f6r.ir&path=%2F%3Fhttps%3A%2F%2Ft.me%2FWangCai2%F0%9F%87%A8%F0%9F%87%B3&security=none&type=ws# By EbraSha
@@ -717,7 +725,7 @@ trojan://MiTiVPN@72.167.242.3:80?ed=2560&eh=Sec-WebSocket-Protocol&host=Nl.App-C
 trojan://MiTiVPN@88.216.67.230:443# By EbraSha
 trojan://MiTiVPN@89.116.180.49:443# By EbraSha
 trojan://MiTiVPN@89.116.250.86:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN/---@MiTiVPN=f--l&security=tls&alpn=http/1.1&insecure=1&host=f--ls-Fl.MaQRor.Ir&fp=chrome&type=ws&allowInsecure=1&sni=fl-o--7-flla.MaQRor.Ir# By EbraSha
-trojan://MiTiVPN@PioHosting.ir:443?security=tls&amp;sni=PioHosting.ir&amp;fp=firefox&amp;allowInsecure=0&amp;alpn=http/1.1&amp;type=ws&amp;path=/MiTiVPN%3DfL#[3344][UnResolvedDomains][0][TROJAN][None][V2range][2026-07-01][2026-09-25 02:12]
+trojan://MiTiVPN@PioHosting.ir:443?security=tls&amp;sni=PioHosting.ir&amp;fp=firefox&amp;allowInsecure=0&amp;alpn=http/1.1&amp;type=ws&amp;path=/MiTiVPN%3DfL#[3043][UnResolvedDomains][0][TROJAN][None][V2range][2026-07-01][2026-09-28 02:17]
 trojan://MiTiVPN@cdn.95r.ir:443?allowInsecure=0&sni=cdn.95r.ir# By EbraSha
 trojan://MiTiVPN@cdn2-mitivpn.global.ssl.fastly.net:443?security=tls&sni=ssl.fastly.com&fp=chrome&allowInsecure=0&alpn=http/1.1&type=ws&path=/de# By EbraSha
 trojan://MiTiVPN@f6r.ir:443?security=tls&sni=f6r.ir&fp=chrome&allowInsecure=0&alpn=http/1.1&type=ws&path=/usa%3Dmitivpn# By EbraSha
@@ -985,7 +993,7 @@ trojan://Mitivpn@45.130.125.237:8443?allowInsecure=1&sni=dash.hitgram.ir&alpn=ht
 trojan://Mitivpn@45.130.125.241:2053?allowInsecure=1&sni=dash.hitgram.ir&alpn=http/1.1&type=ws&host=dash.hitgram.ir&path=/?ed=2048# By EbraSha
 trojan://Mitivpn@45.130.125.91:2053?allowInsecure=1&sni=dash.hitgram.ir&alpn=http/1.1&type=ws&path=/?ed=2048# By EbraSha
 trojan://Mitivpn@5.10.214.251:443?allowInsecure=1&sni=cdn.hitgram.ir&alpn=http/1.1&type=ws&host=cdn.hitgram.ir&path=/?ed=2048# By EbraSha
-trojan://Mitivpn@5.10.214.53:443?path=%2F%3Fed%3Dmitivpn&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=1&amp;host=dash.hitgram.ir&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=dash.hitgram.ir#[3371][DE][0][TROJAN][None][hopev2ray][2026-05-29][2026-09-25 02:13]
+trojan://Mitivpn@5.10.214.53:443?path=%2F%3Fed%3Dmitivpn&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=1&amp;host=dash.hitgram.ir&amp;fp=chrome&amp;type=ws&amp;allowInsecure=1&amp;sni=dash.hitgram.ir#[3060][DE][0][TROJAN][None][hopev2ray][2026-05-29][2026-09-28 02:17]
 trojan://Mitivpn@5.10.214.56:443?path=%2F%3Fed&security=tls&alpn=http%2F1.1&insecure=0&host=www.hitgram.ir&type=ws&allowInsecure=0&sni=www.hitgram.ir# By EbraSha
 trojan://Mitivpn@cdn.hitgram.ir:443?security=tls&sni=cdn.hitgram.ir&fp=chrome&allowInsecure=0&alpn=http/1.1&type=ws&path=/?ed%3D2048# By EbraSha
 trojan://Mitivpn@iranpoems.ir:443/?type=ws&host=www.gamingdll.ir&path=%2Fusa%3Dmitivpn&security=tls&sni=www.gamingdll.ir# By EbraSha
@@ -1049,8 +1057,8 @@ trojan://ND91608427@exotic-chow.rooster465.autos:443?allowInsecure=0&sni=exotic-
 trojan://ND91608427@fleet-bonefish.rooster465.autos:443?allowInsecure=0&sni=fleet-bonefish.rooster465.autos#%E7%BE%8E%E5%9B%BD_0816015
 trojan://ND91608427@fr1.levikogjgfdd.ir:443?security=tls&insecure=0&host=Telegram-Leviko_v2ray&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=classic-gator.rooster465.autos#@Vip_Security join us - 245
 trojan://ND91608427@humorous-malamute.rooster465.autos:443?allowInsecure=0&sni=humorous-malamute.rooster465.autos#%E9%9F%A9%E5%9B%BD_0816008
-trojan://ND91608427@immense-gnu.rooster465.autos:443?security=tls#[3424][KR][0][TROJAN][None][ext_raw.githubusercontent.com][2026-09-25][2026-09-25 02:13]
-trojan://ND91608427@large-baboon.rooster465.autos:443?security=tls#[3430][KR][0][TROJAN][None][ext_raw.githubusercontent.com][2026-09-25][2026-09-25 02:13]
+trojan://ND91608427@immense-gnu.rooster465.autos:443?sni=immense-gnu.rooster465.autos&type=tcp&fp=chrome#KR 🇰🇷 | @Raydikalx | 7BA2A9
+trojan://ND91608427@large-baboon.rooster465.autos:443?security=tls#KR 🇰🇷 | @Raydikalx | D7D36B
 trojan://ND91608427@learning-leopard.rooster465.autos:443?security=tls&sni=learning-leopard.rooster465.autos# By EbraSha
 trojan://ND91608427@pet-ghost.rooster465.autos:443?allowInsecure=0&sni=pet-ghost.rooster465.autos#%E7%BE%8E%E5%9B%BD_0816034
 trojan://ND91608427@rapid-firefly.rooster465.autos:443?allowInsecure=0&sni=#%E5%BE%B7%E5%9B%BD_0816010
@@ -1060,7 +1068,6 @@ trojan://ND91608427@sensible-mongrel.rooster465.autos:443?security=tls&sni=sensi
 trojan://ND91608427@star-kiwi.rooster465.autos:443?security=tls#KR 🇰🇷 | @Raydikalx | 5027D8
 trojan://ND91608427@striking-maggot.rooster465.autos:443?allowInsecure=0&sni=striking-maggot.rooster465.autos#%E9%9F%A9%E5%9B%BD_0816022
 trojan://ND91608427@stunning-mite.rooster465.autos:443?allowInsecure=0&sni=stunning-mite.rooster465.autos#%E6%97%A5%E6%9C%AC_0816034
-trojan://ND91608427@tidy-gelding.rooster465.autos:443?security=tls#DE 🇩🇪 | @Raydikalx | 4DA330
 trojan://ND91608427@wise-bengal.rooster465.autos:443?security=tls#KR 🇰🇷 | @Raydikalx | 752B64
 trojan://NISHIKUITAN111@103.169.142.224:443/?type=ws&host=zb.ylks.xyz&path=%2F&security=tls&sni=zb.ylks.xyz# By EbraSha
 trojan://NISHIKUITAN111@104.129.164.116:443/?type=tcp&security=tls&allowInsecure=1# By EbraSha
@@ -1830,6 +1837,7 @@ trojan://NQ26071394@3.113.11.248:443?sni=infinite-killdeer.rooster465.autos&fp=c
 trojan://NQ26071394@3.35.176.217:443?security=tls&sni=accurate-cat.rooster465.autos&path=/# By EbraSha
 trojan://NQ26071394@3.36.52.203:443?security=tls&sni=inviting-rabbit.rooster465.autos&allowInsecure=1#KR 🇰🇷 | @Raydikalx | FDA03D
 trojan://NQ26071394@3.36.93.252:443?allowInsecure=1&sni=internal-peacock.rooster465.autos# By EbraSha
+trojan://NQ26071394@3.38.181.59:443?security=tls&sni=neat-octopus.rooster465.autos&allowInsecure=1#KR 🇰🇷 | @Raydikalx | 85ED4B
 trojan://NQ26071394@3.38.191.231:443?sni=flying-swift.rooster465.autos&fp=chrome&type=tcp&path=/# By EbraSha
 trojan://NQ26071394@3.39.249.73:443?sni=legible-ocelot.rooster465.autos&path=%2f# By EbraSha
 trojan://NQ26071394@3.67.171.41:443?sni=busy-hermit.rooster465.autos&fp=chrome&type=tcp&path=%2f# By EbraSha
@@ -1878,6 +1886,7 @@ trojan://NQ26071394@54.199.79.137:443?security=tls&sni=firm-krill.rooster465.aut
 trojan://NQ26071394@54.238.178.157:443?sni=real-ewe.rooster465.autos&fp=chrome&type=tcp&path=%2f# By EbraSha
 trojan://NQ26071394@54.238.186.195:443?security=tls&sni=flexible-gannet.rooster465.autos&path=/# By EbraSha
 trojan://NQ26071394@54.238.27.231:443?sni=joint-ewe.rooster465.autos&fp=chrome&type=tcp&path=%2f# By EbraSha
+trojan://NQ26071394@54.245.10.59:443?security=tls&sni=square-gnat.rooster465.autos&allowInsecure=1#US 🇺🇸 | @Raydikalx | E3CFCE
 trojan://NQ26071394@54.248.151.227:443?sni=new-eagle.rooster465.autos&fp=chrome&type=tcp&path=%2f# By EbraSha
 trojan://NQ26071394@54.249.164.14:443?security=tls&sni=fit-marten.rooster465.autos&path=/# By EbraSha
 trojan://NQ26071394@54.249.22.18:443?sni=immune-grackle.rooster465.autos&fp=chrome&type=tcp&path=%2f# By EbraSha
@@ -1894,7 +1903,7 @@ trojan://NQ26071394@94.177.131.63:443?allowInsecure=0&sni=engaging-elephant.roos
 trojan://NQ26071394@95.85.94.167:443?sni=singular-sheepdog.rooster465.autos&fp=chrome&type=tcp&path=/# By EbraSha
 trojan://NQ26071394@95.85.94.35:443?fp=chrome# By EbraSha
 trojan://NQ26071394@able-dane.rooster465.autos:443?allowInsecure=0&sni=able-dane.rooster465.autos# By EbraSha
-trojan://NQ26071394@accurate-cat.rooster465.autos:443?allowInsecure=0&sni=#%E9%9F%A9%E5%9B%BD_0926039
+trojan://NQ26071394@accurate-cat.rooster465.autos:443?allowInsecure=0&sni=accurate-cat.rooster465.autos# By EbraSha
 trojan://NQ26071394@ace-liger.rooster465.autos:443?allowInsecure=0&sni=ace-liger.rooster465.autos# By EbraSha
 trojan://NQ26071394@actual-pigeon.rooster465.autos:443?allowInsecure=0&sni=actual-pigeon.rooster465.autos# By EbraSha
 trojan://NQ26071394@adapting-spider.rooster465.autos:443?allowInsecure=0&sni=adapting-spider.rooster465.autos# By EbraSha
@@ -1908,12 +1917,11 @@ trojan://NQ26071394@amusing-grub.rooster465.autos:443?allowInsecure=0&sni=amusin
 trojan://NQ26071394@arriving-koala.rooster465.autos:443?allowInsecure=0&sni=arriving-koala.rooster465.autos# By EbraSha
 trojan://NQ26071394@beloved-crow.rooster465.autos:443?allowInsecure=0&sni=beloved-crow.rooster465.autos# By EbraSha
 trojan://NQ26071394@busy-hermit.rooster465.autos:443?sni=busy-hermit.rooster465.autos&fp=chrome&type=tcp&path=%2f# By EbraSha
-trojan://NQ26071394@calm-muskrat.rooster465.autos:443?allowInsecure=0&sni=#%E6%96%B0%E5%8A%A0%E5%9D%A1_0926008
-trojan://NQ26071394@capable-baboon.rooster465.autos:443?allowInsecure=0&sni=#%E6%97%A5%E6%9C%AC_0926024
+trojan://NQ26071394@calm-muskrat.rooster465.autos:443?allowInsecure=1&sni=calm-muskrat.rooster465.autos# By EbraSha
+trojan://NQ26071394@capable-baboon.rooster465.autos:443?allowInsecure=0&sni=capable-baboon.rooster465.autos# By EbraSha
 trojan://NQ26071394@capable-dory.rooster465.autos:443?allowInsecure=1&sni=capable-dory.rooster465.autos# By EbraSha
-trojan://NQ26071394@direct-hawk.rooster465.autos:443?allowInsecure=0&sni=#%E5%BE%B7%E5%9B%BD_0926010
 trojan://NQ26071394@dynamic-eel.rooster465.autos:443?allowInsecure=0&sni=dynamic-eel.rooster465.autos# By EbraSha
-trojan://NQ26071394@emerging-baboon.rooster465.autos:443?allowInsecure=0&sni=#%E7%88%B1%E5%B0%94%E5%85%B0_0926003
+trojan://NQ26071394@emerging-baboon.rooster465.autos:443?allowInsecure=1&sni=emerging-baboon.rooster465.autos# By EbraSha
 trojan://NQ26071394@emerging-hagfish.rooster465.autos:443?sni=emerging-hagfish.rooster465.autos&fp=chrome&type=tcp&path=%2f# By EbraSha
 trojan://NQ26071394@eminent-hagfish.rooster465.autos:443?allowInsecure=1&sni=eminent-hagfish.rooster465.autos# By EbraSha
 trojan://NQ26071394@endless-bunny.rooster465.autos:443?allowInsecure=1&sni=endless-bunny.rooster465.autos# By EbraSha
@@ -1922,35 +1930,34 @@ trojan://NQ26071394@engaging-elf.rooster465.autos:443?allowInsecure=0&sni=engagi
 trojan://NQ26071394@evident-ant.rooster465.autos:443?allowInsecure=1&sni=evident-ant.rooster465.autos# By EbraSha
 trojan://NQ26071394@expert-muskrat.rooster465.autos:443?allowInsecure=1&sni=expert-muskrat.rooster465.autos# By EbraSha
 trojan://NQ26071394@fast-drum.rooster465.autos:443?sni=fast-drum.rooster465.autos&fp=chrome&type=tcp&path=%2f# By EbraSha
-trojan://NQ26071394@flexible-gannet.rooster465.autos:443?allowInsecure=0&sni=#%E6%96%B0%E5%8A%A0%E5%9D%A1_0926013
-trojan://NQ26071394@flexible-titmouse.rooster465.autos:443?allowInsecure=0&sni=#%E9%9F%A9%E5%9B%BD_0926042
+trojan://NQ26071394@flexible-gannet.rooster465.autos:443?allowInsecure=1&sni=flexible-gannet.rooster465.autos# By EbraSha
+trojan://NQ26071394@flexible-titmouse.rooster465.autos:443?allowInsecure=0&sni=flexible-titmouse.rooster465.autos# By EbraSha
 trojan://NQ26071394@gentle-turtle.rooster465.autos:443?allowInsecure=0&security=tls&sni=gentle-turtle.rooster465.autos# By EbraSha
 trojan://NQ26071394@genuine-cougar.rooster465.autos:443?allowInsecure=0&sni=genuine-cougar.rooster465.autos# By EbraSha
-trojan://NQ26071394@guided-pelican.rooster465.autos:443?allowInsecure=0&sni=#%E9%9F%A9%E5%9B%BD_0926011
+trojan://NQ26071394@guided-pelican.rooster465.autos:443?allowInsecure=1&sni=guided-pelican.rooster465.autos# By EbraSha
 trojan://NQ26071394@helping-newt.rooster465.autos:443?allowInsecure=1&sni=helping-newt.rooster465.autos# By EbraSha
 trojan://NQ26071394@heroic-cow.rooster465.autos:443?security=tls&sni=heroic-cow.rooster465.autos# By EbraSha
-trojan://NQ26071394@innocent-mullet.rooster465.autos:443?allowInsecure=0&sni=#%E6%96%B0%E5%8A%A0%E5%9D%A1_0926016
+trojan://NQ26071394@innocent-mullet.rooster465.autos:443?allowInsecure=1&sni=innocent-mullet.rooster465.autos# By EbraSha
 trojan://NQ26071394@inviting-ferret.rooster465.autos:443?allowInsecure=1&sni=inviting-ferret.rooster465.autos# By EbraSha
-trojan://NQ26071394@legible-ram.rooster465.autos:443?allowInsecure=0&sni=#%E6%97%A5%E6%9C%AC_0926025
+trojan://NQ26071394@legible-ram.rooster465.autos:443?allowInsecure=0&sni=legible-ram.rooster465.autos# By EbraSha
 trojan://NQ26071394@magical-frog.rooster465.autos:443?allowInsecure=1&sni=magical-frog.rooster465.autos# By EbraSha
-trojan://NQ26071394@mighty-lemming.rooster465.autos:443?allowInsecure=0&sni=#%E6%96%B0%E5%8A%A0%E5%9D%A1_0926021
+trojan://NQ26071394@merry-falcon.rooster465.autos:443?allowInsecure=0&sni=merry-falcon.rooster465.autos# By EbraSha
+trojan://NQ26071394@mighty-lemming.rooster465.autos:443?allowInsecure=0&sni=mighty-lemming.rooster465.autos# By EbraSha
 trojan://NQ26071394@modest-amoeba.rooster465.autos:443?allowInsecure=1&sni=modest-amoeba.rooster465.autos# By EbraSha
 trojan://NQ26071394@musical-mouse.rooster465.autos:443?allowInsecure=0&sni=musical-mouse.rooster465.autos# By EbraSha
-trojan://NQ26071394@neat-octopus.rooster465.autos:443?allowInsecure=0&sni=#%E9%9F%A9%E5%9B%BD_0926041
+trojan://NQ26071394@neat-octopus.rooster465.autos:443?allowInsecure=1&sni=neat-octopus.rooster465.autos# By EbraSha
 trojan://NQ26071394@next-moth.rooster465.autos:443?allowInsecure=1&sni=next-moth.rooster465.autos# By EbraSha
 trojan://NQ26071394@normal-bull.rooster465.autos:443?allowInsecure=1&sni=normal-bull.rooster465.autos# By EbraSha
 trojan://NQ26071394@novel-kitten.rooster465.autos:443?allowInsecure=1&sni=novel-kitten.rooster465.autos# By EbraSha
 trojan://NQ26071394@optimal-penguin.rooster465.autos:443?allowInsecure=0&sni=optimal-penguin.rooster465.autos# By EbraSha
 trojan://NQ26071394@polished-shrew.rooster465.autos:443?allowInsecure=1&sni=polished-shrew.rooster465.autos# By EbraSha
 trojan://NQ26071394@powerful-squid.rooster465.autos:443# By EbraSha
-trojan://NQ26071394@prime-quail.rooster465.autos:443?allowInsecure=1&sni=prime-quail.rooster465.autos# By EbraSha
-trojan://NQ26071394@promoted-rattler.rooster465.autos:443?allowInsecure=0&sni=#%E6%97%A5%E6%9C%AC_0926026
-trojan://NQ26071394@pure-ghoul.rooster465.autos:443?allowInsecure=1&sni=pure-ghoul.rooster465.autos# By EbraSha
+trojan://NQ26071394@promoted-rattler.rooster465.autos:443?allowInsecure=1&sni=promoted-rattler.rooster465.autos# By EbraSha
 trojan://NQ26071394@quick-aardvark.rooster465.autos:443?allowInsecure=1&sni=quick-aardvark.rooster465.autos# By EbraSha
-trojan://NQ26071394@real-ewe.rooster465.autos:443?allowInsecure=0&sni=#%E6%97%A5%E6%9C%AC_0926017
+trojan://NQ26071394@real-ewe.rooster465.autos:443?allowInsecure=0&sni=real-ewe.rooster465.autos# By EbraSha
 trojan://NQ26071394@saving-drake.rooster465.autos:443?allowInsecure=0&sni=saving-drake.rooster465.autos# By EbraSha
 trojan://NQ26071394@shining-prawn.rooster465.autos:443?sni=shining-prawn.rooster465.autos&type=tcp&fp=chrome# By EbraSha
-trojan://NQ26071394@skilled-polliwog.rooster465.autos:443?allowInsecure=0&sni=#%E6%97%A5%E6%9C%AC_0926015
+trojan://NQ26071394@skilled-polliwog.rooster465.autos:443?allowInsecure=0&sni=skilled-polliwog.rooster465.autos# By EbraSha
 trojan://NQ26071394@smooth-sculpin.rooster465.autos:443?allowInsecure=1&sni=smooth-sculpin.rooster465.autos# By EbraSha
 trojan://NQ26071394@soskeynets-amoeba.rooster465.autos:443?allowInsecure=1&sni=modest-amoeba.rooster465.autos# By EbraSha
 trojan://NQ26071394@soskeynets-ant.rooster465.autos:443?allowInsecure=1&sni=evident-ant.rooster465.autos# By EbraSha
@@ -1991,10 +1998,3 @@ trojan://NQ26071394@soskeynets-octopus.rooster465.autos:443?allowInsecure=1&sni=
 trojan://NQ26071394@soskeynets-peacock.rooster465.autos:443?allowInsecure=1&sni=internal-peacock.rooster465.autos# By EbraSha
 trojan://NQ26071394@soskeynets-pegasus.rooster465.autos:443?allowInsecure=1&sni=harmless-pegasus.rooster465.autos# By EbraSha
 trojan://NQ26071394@soskeynets-pelican.rooster465.autos:443?allowInsecure=1&sni=guided-pelican.rooster465.autos# By EbraSha
-trojan://NQ26071394@soskeynets-pheasant.rooster465.autos:443?fp=chrome# By EbraSha
-trojan://NQ26071394@soskeynets-phoenix.rooster465.autos:443?allowInsecure=1&sni=renewed-phoenix.rooster465.autos# By EbraSha
-trojan://NQ26071394@soskeynets-polliwog.rooster465.autos:443?allowInsecure=0&sni=skilled-polliwog.rooster465.autos# By EbraSha
-trojan://NQ26071394@soskeynets-rabbit.rooster465.autos:443?allowInsecure=0&sni=inviting-rabbit.rooster465.autos# By EbraSha
-trojan://NQ26071394@soskeynets-spider.rooster465.autos:443?allowInsecure=0&sni=adapting-spider.rooster465.autos# By EbraSha
-trojan://NQ26071394@soskeynets-squid.rooster465.autos:443?fp=chrome# By EbraSha
-trojan://NQ26071394@soskeynets-starfish.rooster465.autos:443?allowInsecure=1&sni=correct-starfish.rooster465.autos# By EbraSha
