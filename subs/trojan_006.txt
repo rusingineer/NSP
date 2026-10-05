@@ -1,3 +1,11 @@
+trojan://Aimer@46.232.106.214:10010?security=tls&sni=epgc.aimercc.dpdns.org&alpn=h3&fp=randomized&allowInsecure=1&type=ws&host=epgc.aimercc.dpdns.org&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw# By EbraSha
+trojan://Aimer@46.254.92.142:2087?allowInsecure=1&sni=epgb.aimercc.dpdns.org&type=ws&host=epgb.aimercc.dpdns.org&path=/?ed=2560# By EbraSha
+trojan://Aimer@46.254.93.134:2087/?type=tcp&security=tls&sni=epccd.ambercc.filegear-sg.me# By EbraSha
+trojan://Aimer@46.254.93.175:2083/?type=ws&host=ageph.ambercc.filegear-sg.mehttp%2F1.1&path=%2F&security=tls&sni=ageph.ambercc.filegear-sg.me# By EbraSha
+trojan://Aimer@46.254.93.211:2053/?type=tcp&security=tls&sni=epcch.ambercc.filegear-sg.me# By EbraSha
+trojan://Aimer@46.254.93.243:8443/?type=ws&host=epmk.ambercc.filegear-sg.me&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&sni=epmk.ambercc.filegear-sg.me# By EbraSha
+trojan://Aimer@46.254.93.251:2087/?type=tcp&security=tls&sni=epmd.ambercc.filegear-sg.me# By EbraSha
+trojan://Aimer@46.254.93.52:8443/?type=tcp&security=tls&sni=epcca.ambercc.filegear-sg.me# By EbraSha
 trojan://Aimer@46.29.235.31:2053/?type=tcp&security=tls&sni=agept.ambercc.filegear-sg.me# By EbraSha
 trojan://Aimer@47.79.35.191:443/?type=ws&path=%2F%3Fed%3D2560%26proxyip%3Dts.hpc.tw&security=tls&sni=epgb.aimercc.dpdns.org# By EbraSha
 trojan://Aimer@47.79.38.17:443/?type=tcp&security=tls&sni=epgb.aimercc.dpdns.org# By EbraSha
@@ -74,6 +82,7 @@ trojan://BaeSzHdfJIR13l67@70.34.218.149:11930?security=tls&sni=softpillow.silent
 trojan://BbNnpOgc1j9WOaWoslbSyeob1r47IRHV@5.75.171.12:1080?security=reality&amp;pbk=1ZO9Cjhs1IFAU6nZATRhOuD3kq6J-1dZadfEfX734zc&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=maps.google.com&amp;sid=0d12eb289946de9b#[2382][DE][0][TROJAN][None][Outline_Vpn][2026-09-13][2026-10-04 03:10]
 trojan://BbNnpOgc1j9WOaWoslbSyeob1r47IRHV@jgzt1997.qivfelo.ir:1080?security=reality&amp;pbk=1ZO9Cjhs1IFAU6nZATRhOuD3kq6J-1dZadfEfX734zc&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=maps.google.com&amp;sid=0d12eb289946de9b#[2385][DE][0][TROJAN][None][Outline_Vpn][2026-09-09][2026-10-04 03:10]
 trojan://BbNnpOgc1j9WOaWoslbSyeob1r47IRHV@xn--memeshupshop-vl56koa410enom.rekmiva.ir:1080?security=reality&amp;pbk=1ZO9Cjhs1IFAU6nZATRhOuD3kq6J-1dZadfEfX734zc&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=updates.cdn-apple.com&amp;sid=0d12eb289946de9b#[2389][DE][0][TROJAN][None][prrofile_purple][2026-09-05][2026-10-04 03:10]
+trojan://Bdj2W.Z0=UaM1IYzhO5TR76Jx@192.248.187.65:15505?security=tls&headerType=none&type=tcp&sni=ads.x5.ru#%F0%9F%87%B7%F0%9F%87%B4%20%5B%D0%91%D0%A1-TR%5D%20%D0%A0%D1%83%D0%BC%D1%8B%D0%BD%D0%B8%D1%8F%20%238700%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C
 trojan://BhNAljna1sXjsY.Nqdl0ksXJ1VsGRqXz1V@130.94.114.217:443# By EbraSha
 trojan://BiA-DaiLY_ConFIgS@162.159.152.2:2053?security=tls&sni=kanale-daily-configs.blackoutconnection.ir&type=ws&host=kanale-daily-configs.blackoutconnection.ir&path=%2FTELEGRAM%3A%40Daily_Configs%3Fed%3D2560&fp=randomized# By EbraSha
 trojan://Bia2-Daily_Configs@162.159.153.2:2053?security=tls&sni=kanale-daily-configs.blackoutconnection.ir&type=ws&host=kanale-daily-configs.blackoutconnection.ir&path=%2FTELEGRAM%3A%40Daily_Configs%3Fed%3D2560&fp=randomized# By EbraSha
@@ -653,7 +662,7 @@ trojan://CF68213490@evolving-platypus.rooster465.autos:443/?type=tcp&security=tl
 trojan://CF68213490@excited-squirrel.rooster465.autos:443/?type=tcp&security=tls&sni=excited-squirrel.rooster465.autos&fp=chrome# By EbraSha
 trojan://CF68213490@fair-werewolf.rooster465.autos:443/?type=tcp&security=tls&sni=fair-werewolf.rooster465.autos&fp=chrome# By EbraSha
 trojan://CF68213490@fast-bunny.rooster465.autos:443?allowInsecure=1&insecure=1&type=tcp&security=tls&path=%2F&sni=fast-bunny.rooster465.autos&fp=chrome# By EbraSha
-trojan://CF68213490@flowing-eagle.rooster465.autos:443?sni=flowing-eagle.rooster465.autos&fp=chrome&type=tcp&path=%2f# By EbraSha
+trojan://CF68213490@flowing-eagle.rooster465.autos:443?security=tls&insecure=0&allowInsecure=0&type=tcp&headerType=none#
 trojan://CF68213490@free-hare.rooster465.autos:443# By EbraSha
 trojan://CF68213490@funny-hawk.rooster465.autos:443/?type=tcp&security=tls&sni=funny-hawk.rooster465.autos&fp=chrome# By EbraSha
 trojan://CF68213490@gentle-honeybee.rooster465.autos:443/?type=tcp&security=tls&sni=gentle-honeybee.rooster465.autos# By EbraSha
@@ -852,6 +861,7 @@ trojan://D8p3QOxM6W@4-3-2-2-2-5-5-3xxxvwhay.poki-pakipon.ir:443?security=reality
 trojan://D9NOL7gTTTrL@3.236.168.245:14795?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none# By EbraSha
 trojan://DC&&buj17.%23donz*@104.17.148.22:2096/?type=ws&host=sue-support.pages.dev&path=%2FtrjFapI0BLfN3cT9v4%2FMTYyLjE1OC4yMDEuODI%3D%3Fed%3D2560&security=tls&sni=Sue-suppoRT.pAgeS.dEV&alpn=h2%2Chttp%2F1.1&fp=randomized# By EbraSha
 trojan://DC&&buj17.%23donz*@45.80.108.1:2096/?type=ws&host=sue-support.pages.dev&path=%2FtrkFvZXtj3AJKzyJr7%2FMTYyLjE1OC4yMDEuODI%3D%3Fed%3D2560&security=tls&sni=suE-sUpPort.PAGES.DeV&alpn=h2%2Chttp%2F1.1&fp=randomized# By EbraSha
+trojan://DGVu0fnAmdPMx7F9Reo.s@217.170.194.222:13950?security=tls&headerType=none&type=tcp&sni=ads.x5.ru#%F0%9F%87%AB%F0%9F%87%B7%20%5B%D0%91%D0%A1-TR%5D%20%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F%20%238701%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C
 trojan://DHPtkyr5r3@op.ddns.net:2083?mode=gun&security=tls&type=grpc&serviceName=&sni=www.ddrasoo.site# By EbraSha
 trojan://DHvwod7oq7@104.21.80.1:2083/?type=ws&host=esna.twn24.ir&path=%2Fmehdi&security=tls&sni=esna.twn24.ir# By EbraSha
 trojan://DILbRzFC@tr0jan.wefuckgfw.gq:443?allowInsecure=1# By EbraSha
@@ -905,6 +915,7 @@ trojan://Du6929ec1f5adbb5db82f3@nodejs.org:443?security=tls&type=xhttp&headerTyp
 trojan://Du6929ec1f5adbb5db82f3@sourceforge.net:443?security=tls&type=xhttp&headerType=none&path=/download&host=vip1.vipdatanetwork.com&mode=auto&extra={"scMaxEachPostBytes":"1000000","scMinPostsIntervalMs":"30","xPaddingBytes":"100-1000"}&sni=vip1.vipdatanetwork.com&fp=chrome&alpn=h2,http/1.1# By EbraSha
 trojan://Dxbg5eZEUt@5.42.87.192:8880?security=none&host=speed.cloudflare.com&headerType=http&type=tcp# By EbraSha
 trojan://DxuCRlZS3aq5pgI8YYcBCZFln7e83XDONSROjAepSK3CaFyATz0aw3DyE6294x@starfish.missionsec.io:28331?security=tls&headerType=none&type=tcp&sni=starfish.missionsec.io# By EbraSha
+trojan://E2hGw3bUIJidlFx#%F0%9F%87%A8%F0%9F%87%BE%20%5B%D0%91%D0%A1-TR%5D%20%D0%9A%D0%B8%D0%BF%D1%80%20%238702%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C
 trojan://E3eC7axKyyplANFa63Z945qDDYnuO2SRlpIwC33SCB8DgS8zRYa0xTXOjAFceZ@154.17.17.65:443?security=tls&sni=bookmark.missionsec.io&type=tcp# By EbraSha
 trojan://E5EAC840-9593-2C94-5D3B-1E9E18ACEE4D@cos-ap-beijing.westdatacloud.top:20052?allowInsecure=1&sni=v12.kwaicdn.com
 trojan://E6r93XCOsyM9@3.9.164.189:16733?allowInsecure=0&sni=appsvs.shop# By EbraSha
@@ -922,14 +933,9 @@ trojan://EJBsFzWnEgXZnmzHq8@de1-3.nrojat.com:443?allowInsecure=0
 trojan://EJQgX6JS3s@94.156.203.224:443?type=grpc&serviceName=Free&security=none# By EbraSha
 trojan://EKBT_DiBYxTv4HOiFXlmPA@user.dash.hellservice.shop:2087?allowInsecure=0&fp=firefox&host=nlall.chellservice.ir&insecure=0&path=%2F&security=tls&sni=nlall.chellservice.ir&type=ws# By EbraSha
 trojan://EM7HwoxdP8r5yQoxwDxEJU3VSBAXzAuFGBTUgVMjiuRCkNUN@usa1.bw8848.org:443/?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&type=ws&host=&path=%2Fusa1-usa1-bktm3x&security=tls&sni=# By EbraSha
-trojan://EPI4SnpMUxd6L-I.B9@lhns3ww2-cxq-gj1vvobkepig4nopkc.hqu4v38hi9iftcp6mzfmx-3bmx.workers.dev:443?sni=lHNs3ww2-CXQ-Gj1vvOBkEPIg4noPkc.hqu4v38Hi9iFtcp6mZfMX-3bmx.WoRKeRS.dEV&type=ws&path=/tr/bZQmUGcGvss6BIiQhIPr003mzA?ed=2560&alpn=http/1.1&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7FR_1202%7C545KB%2Fs%7CB007-260618%2001
-trojan://EQ30679154@13.212.99.168:443?sni=darling-monarch.rooster465.autos&allowInsecure=1&type=tcp#🇸🇬
+trojan://EPI4SnpMUxd6L-I.B9@lhns3ww2-cxq-gj1vvobkepig4nopkc.hqu4v38hi9iftcp6mzfmx-3bmx.workers.dev:443?alpn=http%2F1.1&fp=chrome&path=%2Ftr%2FbZQmUGcGvss6BIiQhIPr003mzA%3Fed%3D2560&security=tls&sni=lHNs3ww2-CXQ-Gj1vvOBkEPIg4noPkc.hqu4v38Hi9iFtcp6mZfMX-3bmx.WoRKeRS.dEV&type=ws#%F0%9F%95%9210/05%2011%3A30%20%7C%20%F0%9F%87%A9%F0%9F%87%AA-2032%20%7C%2017.7%20MB/s%20%F0%9F%94%A5
 trojan://EQ30679154@202.78.163.113:443?sni=distinct-ibex.rooster465.autos&fp=chrome&type=tcp&path=/#PL 🇵🇱 | @Raydikalx | 35A3BE
-trojan://EQ30679154@3.112.242.12:443?sni=intimate-hog.rooster465.autos&fp=chrome&type=tcp&path=/#🏳️
-trojan://EQ30679154@35.91.251.124:443?sni=sincere-gelding.rooster465.autos&type=tcp&fp=chrome#🏳️
-trojan://EQ30679154@47.129.165.105:443?sni=balanced-firefly.rooster465.autos&type=tcp&fp=chrome#🇸🇬
-trojan://EQ30679154@47.131.249.13:443?sni=exotic-turtle.rooster465.autos&type=tcp&fp=chrome#
-trojan://EQ30679154@52.221.252.138:443?sni=relevant-oryx.rooster465.autos&allowInsecure=1&type=tcp#🇺🇸
+trojan://EQ30679154@47.129.160.142:443?security=tls&headerType=&type=tcp&sni=well-goshawk.rooster465.autos#🇸🇬[openproxylist.com]
 trojan://EQ30679154@56.10.68.131:443?sni=excited-alien.rooster465.autos&allowInsecure=1&type=tcp#SG 🇸🇬 | @Raydikalx | 74D858
 trojan://EQ30679154@accepted-starling.rooster465.autos:443?mux=1#KR 🇰🇷 | @Raydikalx | 9A9A8F
 trojan://EQ30679154@active-mackerel.rooster465.autos:443?mux=1#JP 🇯🇵 | @Raydikalx | 5D87C1
@@ -984,7 +990,7 @@ trojan://EQ30679154@hot-tapir.rooster465.autos:443?mux=1#JP 🇯🇵 | @Raydikal
 trojan://EQ30679154@humorous-snake.rooster465.autos:443?mux=1#SG 🇸🇬 | @Raydikalx | EC2476
 trojan://EQ30679154@included-falcon.rooster465.autos:443?mux=1#IE 🇮🇪 | @Raydikalx | 1B9862
 trojan://EQ30679154@infinite-killdeer.rooster465.autos:443?mux=1#JP 🇯🇵 | @Raydikalx | 6ABE51
-trojan://EQ30679154@internal-raccoon.rooster465.autos:443?sni=internal-raccoon.rooster465.autos&peer=internal-raccoon.rooster465.autos&security=tls#US 🇺🇸 | @Raydikalx | 610A96
+trojan://EQ30679154@internal-raccoon.rooster465.autos:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&allowInsecure=0&sni=#
 trojan://EQ30679154@intimate-adder.rooster465.autos:443?type=tcp&security=tls&sni=intimate-adder.rooster465.autos&fp=chrome#US 🇺🇸 | @Raydikalx | A78925
 trojan://EQ30679154@intimate-hog.rooster465.autos:443?mux=1#SG 🇸🇬 | @Raydikalx | 7E1012
 trojan://EQ30679154@inviting-rabbit.rooster465.autos:443?mux=1#KR 🇰🇷 | @Raydikalx | ACC9E9
@@ -1035,7 +1041,6 @@ trojan://EQ30679154@stable-racer.rooster465.autos:443?mux=1#IE 🇮🇪 | @Raydi
 trojan://EQ30679154@star-shrimp.rooster465.autos:443?mux=1#SG 🇸🇬 | @Raydikalx | 091084
 trojan://EQ30679154@striking-cheetah.rooster465.autos:443?mux=1#HK 🇭🇰 | @Raydikalx | 535D4D
 trojan://EQ30679154@sure-bengal.rooster465.autos:443?mux=1#JP 🇯🇵 | @Raydikalx | 2C9261
-trojan://EQ30679154@sure-humpback.rooster465.autos:443?sni=sure-humpback.rooster465.autos&type=tcp&fp=chrome#
 trojan://EQ30679154@talented-mule.rooster465.autos:443?mux=1#KR 🇰🇷 | @Raydikalx | 00AF1F
 trojan://EQ30679154@thorough-foxhound.rooster465.autos:443?mux=1#SG 🇸🇬 | @Raydikalx | 15E3B3
 trojan://EQ30679154@touching-newt.rooster465.autos:443?mux=1#DE 🇩🇪 | @Raydikalx | 00B639
@@ -1048,7 +1053,7 @@ trojan://EQ30679154@upright-sheepdog.rooster465.autos:443?mux=1#KR 🇰🇷 | @R
 trojan://EQ30679154@usable-dogfish.rooster465.autos:443?mux=1#KR 🇰🇷 | @Raydikalx | AB4317
 trojan://EQ30679154@warm-krill.rooster465.autos:443?mux=1#JP 🇯🇵 | @Raydikalx | 0B53ED
 trojan://EQ30679154@welcome-owl.rooster465.autos:443?mux=1#JP 🇯🇵 | @Raydikalx | DDB738
-trojan://EQ30679154@well-goshawk.rooster465.autos:443?allowInsecure=0&sni=well-goshawk.rooster465.autos#%F0%9F%87%B8%F0%9F%87%ACSG_4%7C4.5MB/s
+trojan://EQ30679154@well-goshawk.rooster465.autos:443?security=tls#%F0%9F%87%AE%F0%9F%87%AAIE-34.255.124.67-5451
 trojan://EQ30679154@willing-beagle.rooster465.autos:443?mux=1#KR 🇰🇷 | @Raydikalx | B1CDC8
 trojan://EQ30679154@winning-shrimp.rooster465.autos:443?mux=1#SG 🇸🇬 | @Raydikalx | 5C0985
 trojan://ESYEIBhqTR@138.124.182.202:39141?fp=&pbk=Fs_7mopOjYhbST1UIfhkwMEMG4d60WT7P6RiJLCvqBE&security=reality&sid=fd46&sni=www.sony.com&type=grpc# By EbraSha
@@ -1359,6 +1364,7 @@ trojan://FC60532879@upright-impala.rooster465.autos:443?sni=upright-impala.roost
 trojan://FC60532879@vast-turkey.rooster465.autos:443?sni=vast-turkey.rooster465.autos&type=tcp&fp=chrome# By EbraSha
 trojan://FC60532879@wealthy-bengal.rooster465.autos:443?sni=wealthy-bengal.rooster465.autos&fp=chrome&type=tcp&path=%2f# By EbraSha
 trojan://FC60532879@welcome-labrador.rooster465.autos:443?allowInsecure=1&sni=welcome-labrador.rooster465.autos# By EbraSha
+trojan://FC60532879@winning-manatee.rooster465.autos:443?sni=winning-manatee.rooster465.autos&type=tcp&fp=chrome#
 trojan://FC60532879@wired-tick.rooster465.autos:443?sni=wired-tick.rooster465.autos&type=tcp&fp=chrome# By EbraSha
 trojan://FC60532879@wondrous-dogfish.rooster465.autos:443?sni=wondrous-dogfish.rooster465.autos&type=tcp&fp=chrome# By EbraSha
 trojan://FDIypSwe64a3DA7un2R8DFjYXZO3NS05gKZTTOC8SxO0Fy3cqYg3EaFDA3ABaEYKNx39D@kuame.missionsec.us:443?security=tls&amp%3BheaderType=none&amp%3Btype=tcp&amp%3Bsni=kuame.missionsec.us# By EbraSha
@@ -1366,7 +1372,7 @@ trojan://FH72359861@108.128.201.154:443# By EbraSha
 trojan://FH72359861@108.130.49.217:443?allowInsecure=1# By EbraSha
 trojan://FH72359861@13.113.121.174:443?sni=tight-fawn.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome# By EbraSha
 trojan://FH72359861@13.113.131.176:443?security=tls&path=/#[4447][JP][0][TROJAN][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
-trojan://FH72359861@13.113.172.232:443?sni=sure-husky.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#
+trojan://FH72359861@13.113.172.232:443?sni=sure-husky.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome# By EbraSha
 trojan://FH72359861@13.113.71.200:443?allowInsecure=0&sni=trusting-elf.rooster465.autos# By EbraSha
 trojan://FH72359861@13.114.100.100:443?sni=pleased-sawfly.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome# By EbraSha
 trojan://FH72359861@13.114.129.151:443?sni=actual-chicken.rooster465.autos&allowInsecure=1&type=tcp# By EbraSha
@@ -1387,13 +1393,13 @@ trojan://FH72359861@13.212.186.116:443?allowInsecure=1#[4516][SG][0][TROJAN][Non
 trojan://FH72359861@13.212.204.216:443?sni=funny-hawk.rooster465.autos&allowInsecure=1&type=tcp# By EbraSha
 trojan://FH72359861@13.212.59.213:443?sni=guided-ferret.rooster465.autos&allowInsecure=1&type=tcp# By EbraSha
 trojan://FH72359861@13.212.77.228:443?sni=probable-weasel.rooster465.autos&allowInsecure=1&type=tcp# By EbraSha
-trojan://FH72359861@13.229.109.201:443?sni=relative-labrador.rooster465.autos&allowInsecure=1&type=tcp# By EbraSha
+trojan://FH72359861@13.229.109.201:443?sni=relative-labrador.rooster465.autos&allowInsecure=1&type=tcp#
 trojan://FH72359861@13.229.56.205:443?sni=exciting-turtle.rooster465.autos&allowInsecure=1&type=tcp# By EbraSha
 trojan://FH72359861@13.230.239.7:443?sni=alert-redfish.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome# By EbraSha
 trojan://FH72359861@13.230.4.218:443?sni=content-rabbit.rooster465.autos&allowInsecure=1&type=tcp# By EbraSha
 trojan://FH72359861@13.231.123.71:443?sni=winning-shrimp.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome# By EbraSha
 trojan://FH72359861@13.231.162.10:443?security=tls&path=/# By EbraSha
-trojan://FH72359861@13.231.180.231:443?allowInsecure=0&sni=set-gazelle.rooster465.autos#[22689]
+trojan://FH72359861@13.231.180.231:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=set-gazelle.rooster465.autos#[4541][JP][0][TROJAN][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
 trojan://FH72359861@13.231.211.74:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=star-cheetah.rooster465.autos#[4546][JP][0][TROJAN][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
 trojan://FH72359861@13.231.237.228:443?allowInsecure=0&sni=classic-pug.rooster465.autos# By EbraSha
 trojan://FH72359861@13.250.119.54:443?sni=casual-basilisk.rooster465.autos&allowInsecure=1&type=tcp# By EbraSha
@@ -1408,7 +1414,7 @@ trojan://FH72359861@18.177.142.108:443?security=tls&path=/#[4575][JP][0][TROJAN]
 trojan://FH72359861@18.179.31.199:443?sni=prompt-duckling.rooster465.autos&allowInsecure=1&type=tcp# By EbraSha
 trojan://FH72359861@18.179.9.194:443?sni=closing-falcon.rooster465.autos&allowInsecure=1&type=tcp# By EbraSha
 trojan://FH72359861@18.181.167.254:443?security=tls&sni=tough-gopher.rooster465.autos&fp=chrome&type=tcp&path=%2f#%f0%9f%87%af%f0%9f%87%b5%20JP%20229
-trojan://FH72359861@18.181.194.227:443?sni=moral-buzzard.rooster465.autos&fp=chrome&type=tcp&path=%2f# By EbraSha
+trojan://FH72359861@18.181.194.227:443?sni=moral-buzzard.rooster465.autos&fp=chrome&type=tcp&path=%2f#
 trojan://FH72359861@18.181.200.117:443?security=tls&path=/# By EbraSha
 trojan://FH72359861@18.181.213.219:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=lasting-jaguar.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5144700%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
 trojan://FH72359861@18.183.164.199:443?allowInsecure=1# By EbraSha
@@ -1449,7 +1455,7 @@ trojan://FH72359861@43.203.206.201:443?allowInsecure=0# By EbraSha
 trojan://FH72359861@43.203.251.109:443?sni=elegant-horse.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome# By EbraSha
 trojan://FH72359861@43.207.171.97:443?allowInsecure=0&sni=noted-cougar.rooster465.autos# By EbraSha
 trojan://FH72359861@43.207.83.177:443?security=tls&path=/# By EbraSha
-trojan://FH72359861@43.207.87.43:443?allowInsecure=0&sni=casual-stallion.rooster465.autos# By EbraSha
+trojan://FH72359861@43.207.87.43:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=casual-stallion.rooster465.autos#
 trojan://FH72359861@44.247.89.62:443?security=tls&path=/# By EbraSha
 trojan://FH72359861@44.251.158.80:443?sni=obliging-louse.rooster465.autos&allowInsecure=1&type=tcp# By EbraSha
 trojan://FH72359861@47.128.15.18:443?allowInsecure=1#[4770][SG][0][TROJAN][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
@@ -1475,7 +1481,7 @@ trojan://FH72359861@54.179.23.28:443?sni=boss-sailfish.rooster465.autos&allowIns
 trojan://FH72359861@54.180.158.231:443/?type=tcp&security=tls&sni=precise-locust.rooster465.autos&fp=chrome# By EbraSha
 trojan://FH72359861@54.180.228.238:443?sni=pure-ram.rooster465.autos&type=tcp&fp=chrome#[4838][KR][0][TROJAN][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
 trojan://FH72359861@54.180.250.102:443?security=tls&path=/#[4839][KR][0][TROJAN][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
-trojan://FH72359861@54.185.164.73:443?sni=outgoing-lynx.rooster465.autos#🇺🇸US-🚀@VPNine1
+trojan://FH72359861@54.185.164.73:443?sni=outgoing-lynx.rooster465.autos&allowInsecure=1&type=tcp# By EbraSha
 trojan://FH72359861@54.199.61.70:443?security=tls&path=/# By EbraSha
 trojan://FH72359861@54.216.139.140:443# By EbraSha
 trojan://FH72359861@54.238.168.66:443?sni=diverse-hawk.rooster465.autos&fp=chrome&type=tcp&path=%2f# By EbraSha
@@ -1487,7 +1493,7 @@ trojan://FH72359861@54.249.17.79:443?allowInsecure=0&sni=flying-swift.rooster465
 trojan://FH72359861@54.250.156.204:443?allowInsecure=0# By EbraSha
 trojan://FH72359861@54.254.235.88:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=charming-ox.rooster465.autos#[4882][SG][0][TROJAN][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
 trojan://FH72359861@54.64.38.110:443?security=tls&path=/# By EbraSha
-trojan://FH72359861@54.72.58.12:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&sni=darling-mongrel.rooster465.autos#@GozargahAzad|🇮🇪
+trojan://FH72359861@54.72.58.12:443?allowInsecure=1# By EbraSha
 trojan://FH72359861@56.10.68.149:443?allowInsecure=0&sni=square-guinea.rooster465.autos#SG 🇸🇬 | @Raydikalx | E8836E
 trojan://FH72359861@57.180.23.141:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=engaged-lionfish.rooster465.autos#[4900][JP][0][TROJAN][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
 trojan://FH72359861@57.180.34.69:443?allowInsecure=0&sni=magical-airedale.rooster465.autos# By EbraSha
@@ -1510,7 +1516,7 @@ trojan://FH72359861@certain-egret.rooster465.autos:443?allowInsecure=1&sni=certa
 trojan://FH72359861@charming-ox.rooster465.autos:443?allowInsecure=0&sni=charming-ox.rooster465.autos#%E6%96%B0%E5%8A%A0%E5%9D%A1_0816004
 trojan://FH72359861@closing-falcon.rooster465.autos:443?allowInsecure=1#[4981][JP][0][TROJAN][None][ext_raw.githubusercontent.com][2026-08-16][2026-08-16 00:34]
 trojan://FH72359861@comic-poodle.rooster465.autos:443?security=tls# By EbraSha
-trojan://FH72359861@communal-squid.rooster465.autos:443?security=tls&headerType=&type=tcp&sni=communal-squid.rooster465.autos# By EbraSha
+trojan://FH72359861@communal-squid.rooster465.autos:443?security=tls&headerType=&type=tcp&sni=communal-squid.rooster465.autos#
 trojan://FH72359861@communal-troll.rooster465.autos:443?allowInsecure=0&sni=communal-troll.rooster465.autos#%E6%97%A5%E6%9C%AC_0816054
 trojan://FH72359861@complete-narwhal.rooster465.autos:443?allowInsecure=0&sni=complete-narwhal.rooster465.autos#%E9%9F%A9%E5%9B%BD_0816036
 trojan://FH72359861@content-rabbit.rooster465.autos:443?sni=content-rabbit.rooster465.autos&allowInsecure=1&type=tcp# By EbraSha
@@ -1539,7 +1545,7 @@ trojan://FH72359861@immune-grackle.rooster465.autos:443?security=tls# By EbraSha
 trojan://FH72359861@internal-mongoose.rooster465.autos:443?allowInsecure=0&sni=internal-mongoose.rooster465.autos# By EbraSha
 trojan://FH72359861@internal-peacock.rooster465.autos:443?security=tls# By EbraSha
 trojan://FH72359861@lasting-bobcat.rooster465.autos:443?sni=lasting-bobcat.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome#4Nika-85f27a8356
-trojan://FH72359861@lasting-jaguar.rooster465.autos:443?security=tls# By EbraSha
+trojan://FH72359861@lasting-jaguar.rooster465.autos:443?allowInsecure=1&sni=lasting-jaguar.rooster465.autos#%F0%9F%87%AF%F0%9F%87%B5JP_5%7C5.6MB/s
 trojan://FH72359861@leading-eel.rooster465.autos:443#[]t.me/ConfigsHub
 trojan://FH72359861@learning-ladybug.rooster465.autos:443?sni=learning-ladybug.rooster465.autos&fp=chrome&type=tcp&path=%2f# By EbraSha
 trojan://FH72359861@light-filly.rooster465.autos:443?security=tls# By EbraSha
@@ -1566,7 +1572,7 @@ trojan://FH72359861@primary-leech.rooster465.autos:443?allowInsecure=0&sni=prima
 trojan://FH72359861@probable-weasel.rooster465.autos:443?sni=probable-weasel.rooster465.autos&allowInsecure=1&type=tcp#4FreeIran-6c20b89063
 trojan://FH72359861@prompt-duckling.rooster465.autos:443?sni=prompt-duckling.rooster465.autos&allowInsecure=1&type=tcp#4Sarina-4efb61fe00
 trojan://FH72359861@proven-stud.rooster465.autos:443?allowInsecure=0&sni=proven-stud.rooster465.autos#%E6%96%B0%E5%8A%A0%E5%9D%A1_0816010
-trojan://FH72359861@relative-labrador.rooster465.autos:443?sni=relative-labrador.rooster465.autos&allowInsecure=1&type=tcp#4Jadi-82d053ef81
+trojan://FH72359861@relative-labrador.rooster465.autos:443#🇸🇬SG-🚀@VPNine1
 trojan://FH72359861@relaxing-marten.rooster465.autos:443?allowInsecure=0&sni=relaxing-marten.rooster465.autos#%E6%97%A5%E6%9C%AC_0816051
 trojan://FH72359861@select-chipmunk.rooster465.autos:443?allowInsecure=0&sni=select-chipmunk.rooster465.autos#%E6%96%B0%E5%8A%A0%E5%9D%A1_0816002
 trojan://FH72359861@set-gazelle.rooster465.autos:443?sni=set-gazelle.rooster465.autos&allowInsecure=1&type=tcp#4Nika-76d0614339
@@ -1654,15 +1660,14 @@ trojan://HC04361579@13.125.211.80:443?sni=enough-lamb.rooster465.autos# By EbraS
 trojan://HC04361579@185.14.47.125:443?path=/# By EbraSha
 trojan://HC04361579@3.38.101.4:443?sni=peaceful-muskrat.rooster465.autos&allowInsecure=1&type=tcp# By EbraSha
 trojan://HC04361579@3.38.99.157:443?allowInsecure=1&sni=star-shrimp.rooster465.autos# By EbraSha
-trojan://HC04361579@43.202.4.25:443?allowInsecure=1&sni=powerful-troll.rooster465.autos#%F0%9F%87%B0%F0%9F%87%B7KR_3%7C4.0MB/s
-trojan://HC04361579@52.195.208.128:443?sni=legible-ocelot.rooster465.autos&allowInsecure=1&type=tcp#
+trojan://HC04361579@43.202.4.25:443?sni=powerful-troll.rooster465.autos&allowInsecure=1&type=tcp&fp=chrome# By EbraSha
+trojan://HC04361579@52.198.235.67:443?sni=pet-albacore.rooster465.autos&type=tcp&fp=chrome#
 trojan://HC04361579@54.180.237.220:443?security=tls&sni=key-barnacle.rooster465.autos&path=/# By EbraSha
 trojan://HC04361579@driven-doberman.rooster465.autos:443?security=tls&sni=driven-doberman.rooster465.autos&insecure=0&allowInsecure=0&type=tcp&headerType=none#SG 🇸🇬 | @Raydikalx | 5955E7
 trojan://HC04361579@eminent-lamb.rooster465.autos:443?path=%2f#%f0%9f%87%ad%f0%9f%87%b0%20HK%2013
 trojan://HC04361579@enough-lamb.rooster465.autos:443?sni=enough-lamb.rooster465.autos# By EbraSha
 trojan://HC04361579@key-barnacle.rooster465.autos:443?security=tls&sni=key-barnacle.rooster465.autos# By EbraSha
 trojan://HC04361579@peaceful-muskrat.rooster465.autos:443?security=tls&sni=peaceful-muskrat.rooster465.autos&insecure=0&allowInsecure=0&type=tcp&headerType=none#JP 🇯🇵 | @Raydikalx | 241840
-trojan://HC04361579@pet-albacore.rooster465.autos:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&allowInsecure=1&sni=#@GozargahAzad|🇯🇵
 trojan://HC04361579@settling-shad.rooster465.autos:443?security=tls&sni=settling-shad.rooster465.autos#SG 🇸🇬 | @Raydikalx | D5CA24
 trojan://HK78346019@suitable-feline.rooster465.autos:443?allowInsecure=1&sni=#PL 🇵🇱 | @Raydikalx | C52F17
 trojan://HKaPIfnhpx@185.126.236.181:23231?allowInsecure=0# By EbraSha
@@ -1981,6 +1986,7 @@ trojan://IQ68037294@normal-jay.rooster465.autos:443?sni=normal-jay.rooster465.au
 trojan://IQ68037294@optimal-dane.rooster465.autos:443# By EbraSha
 trojan://IQ68037294@outgoing-cockatoo.rooster465.autos:443?sni=outgoing-cockatoo.rooster465.autos&fp=chrome&type=tcp&path=%2f# By EbraSha
 trojan://IQ68037294@patient-gannet.rooster465.autos:443?security=tls&sni=patient-gannet.rooster465.autos# By EbraSha
+trojan://IQ68037294@pet-albacore.rooster465.autos:443?allowInsecure=1&sni=pet-albacore.rooster465.autos# By EbraSha
 trojan://IQ68037294@pl.levikogjgfdd.ir:443?security=tls&amp;insecure=0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;allowInsecure=0&amp;sni=optimal-urchin.rooster465.autos#[2559][UnResolvedDomains][0][TROJAN][None][nofiltering2][2026-07-26][2026-10-04 03:10]
 trojan://IQ68037294@pleased-lobster.rooster465.autos:443?allowInsecure=1&sni=pleased-lobster.rooster465.autos# By EbraSha
 trojan://IQ68037294@pleasing-monkfish.rooster465.autos:443?sni=pleasing-monkfish.rooster465.autos&fp=chrome&type=tcp&path=%2f# By EbraSha
@@ -1992,9 +1998,3 @@ trojan://IQ68037294@pumped-eft.rooster465.autos:443?sni=pumped-eft.rooster465.au
 trojan://IQ68037294@ready-kangaroo.rooster465.autos:443?sni=ready-kangaroo.rooster465.autos&fp=chrome&type=tcp&path=%2f# By EbraSha
 trojan://IQ68037294@ready-lion.rooster465.autos:443?sni=ready-lion.rooster465.autos&fp=chrome&type=tcp&path=%2f# By EbraSha
 trojan://IQ68037294@rested-blowfish.rooster465.autos:443?allowInsecure=1&sni=rested-blowfish.rooster465.autos# By EbraSha
-trojan://IQ68037294@robust-toucan.rooster465.autos:443# By EbraSha
-trojan://IQ68037294@simple-molly.rooster465.autos:443?sni=simple-molly.rooster465.autos&fp=chrome&type=tcp&path=%2f# By EbraSha
-trojan://IQ68037294@sincere-man.rooster465.autos:443# By EbraSha
-trojan://IQ68037294@soskeynets-anchovy.rooster465.autos:443?allowInsecure=0&sni=square-anchovy.rooster465.autos# By EbraSha
-trojan://IQ68037294@soskeynets-bird.rooster465.autos:443?allowInsecure=1# By EbraSha
-trojan://IQ68037294@soskeynets-blowfish.rooster465.autos:443?fp=chrome# By EbraSha
