@@ -1,3 +1,33 @@
+trojan://tg-dns68@162.159.153.192:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org# By EbraSha
+trojan://tg-dns68@162.159.153.197:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org# By EbraSha
+trojan://tg-dns68@162.159.153.1:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3# By EbraSha
+trojan://tg-dns68@162.159.153.203:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org# By EbraSha
+trojan://tg-dns68@162.159.153.219:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3# By EbraSha
+trojan://tg-dns68@162.159.153.224:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#[1259][UnResolvedDomains][0][TROJAN][None][Hope_Net][2026-07-27][2026-07-28 02:00]
+trojan://tg-dns68@162.159.153.230:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org#[1261][UnResolvedDomains][0][TROJAN][None][Hope_Net][2026-07-27][2026-07-28 02:00]
+trojan://tg-dns68@162.159.153.231:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#[1262][UnResolvedDomains][0][TROJAN][None][Hope_Net][2026-07-27][2026-07-28 02:00]
+trojan://tg-dns68@162.159.153.29:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org# By EbraSha
+trojan://tg-dns68@162.159.153.31:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=/?ed=2560&fp=chrome&alpn=h3# By EbraSha
+trojan://tg-dns68@162.159.153.38:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3# By EbraSha
+trojan://tg-dns68@162.159.153.3:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org# By EbraSha
+trojan://tg-dns68@162.159.153.43:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org# By EbraSha
+trojan://tg-dns68@162.159.153.60:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org# By EbraSha
+trojan://tg-dns68@162.159.153.67:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org# By EbraSha
+trojan://tg-dns68@162.159.153.68:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org# By EbraSha
+trojan://tg-dns68@162.159.153.75:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org#[1264][UnResolvedDomains][0][TROJAN][None][Hope_Net][2026-07-27][2026-07-28 02:00]
+trojan://tg-dns68@162.159.153.76:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org# By EbraSha
+trojan://tg-dns68@162.159.153.84:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3# By EbraSha
+trojan://tg-dns68@162.159.153.85:443?security=tls&amp%3Bsni=vip.putata.eu.org&amp%3Btype=ws&amp%3Bhost=vip.putata.eu.org&amp%3Bpath=/%3Fed%3D2560&amp%3Bfp=randomized&amp%3Balpn=h3# By EbraSha
+trojan://tg-dns68@162.159.153.86:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org# By EbraSha
+trojan://tg-dns68@162.159.153.87:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org# By EbraSha
+trojan://tg-dns68@162.159.153.88:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3# By EbraSha
+trojan://tg-dns68@162.159.153.8:443/?type=tcp&security=tls&sni=vip.putata.eu.org# By EbraSha
+trojan://tg-dns68@162.159.153.90:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3# By EbraSha
+trojan://tg-dns68@162.159.153.93:443?security=tls&sni=vip.putata.eu.org&type=ws&host=vip.putata.eu.org&path=%2F%3Fed%3D2560&fp=randomized&alpn=h3#[1267][UnResolvedDomains][0][TROJAN][None][Hope_Net][2026-07-27][2026-07-28 02:00]
+trojan://tg-dns68@162.159.153.96:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org# By EbraSha
+trojan://tg-dns68@162.159.153.9:443?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org# By EbraSha
+trojan://tg-dns68@45.154.98.14:1010?security=tls&type=ws&sni=vip.putata.eu.org&path=/?ed=2560&host=vip.putata.eu.org# By EbraSha
+trojan://tg-fq521free@198.62.62.67:443/?type=tcp&security=tls&sni=torjan.xn--xhq44j.eu.org# By EbraSha
 trojan://tg-fq521free@216.24.57.30:443/?type=ws&path=%2F&security=tls&sni=torjan.xn--xhq44j.eu.org# By EbraSha
 trojan://tg-fq521free@45.67.215.95:443/?type=ws&host=torjan.xn--xhq44j.eu.org&path=%2F&security=tls&sni=torjan.xn--xhq44j.eu.org# By EbraSha
 trojan://tgQhjOEFy4@169.40.32.39:28881?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=none&headerType=http&type=tcp# By EbraSha
@@ -15,7 +45,7 @@ trojan://trojan@104.26.13.31:8443?path=/&security=tls&host=fofang.pages.dev&type
 trojan://trojan@109.234.211.66:8443/?type=ws&host=store.timimi.dpdns.org&path=%2F&security=tls&sni=store.timimi.dpdns.org# By EbraSha
 trojan://trojan@13.200.192.197:443?encryption=none&security=tls&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=%2F@chinaportgfw%2B@chinaportgfw# By EbraSha
 trojan://trojan@131.186.25.156:2087?encryption=none&security=tls&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3+@wangcai2# By EbraSha
-trojan://trojan@152.53.200.167:8444?security=tls&sni=jflsjlaf.pages.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=jflsjlaf.pages.dev&path=%2F#2897.%20TROJAN%20%7C%20SNI%3A%20jflsjlaf.pages.dev%20%7C%20TG%3A%20%40wlrustg
+trojan://trojan@152.53.200.167:8444?security=tls&sni=jflsjlaf.pages.dev&fp=chrome&insecure=0&allowInsecure=0&type=ws&host=jflsjlaf.pages.dev&path=%2F#4540.%20TROJAN%20%7C%20SNI%3A%20jflsjlaf.pages.dev%20%7C%20TG%3A%20%40wlrustg
 trojan://trojan@152.53.45.251:8888?security=tls&amp%3Bsni=jflsjlaf.pages.dev&amp%3Btype=ws&amp%3Bhost=jflsjlaf.pages.dev&amp%3Bpath=/# By EbraSha
 trojan://trojan@172.64.155.16:2053/?type=ws&host=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev&security=tls&sni=ana-service-anaservice--anaservice-antenircomorg.fmwlmluu.workers.dev# By EbraSha
 trojan://trojan@172.67.130.66:443/?type=tcp&security=tls&sni=test-a23.pages.dev# By EbraSha
@@ -24,7 +54,7 @@ trojan://trojan@185.133.35.46:443# By EbraSha
 trojan://trojan@185.146.173.94:80?path=%2F%3Fed%3D2560&security=tls&host=freevpn.ahadadi796.workers.dev&type=ws&sni=freevpn.ahadadi796.workers.dev# By EbraSha
 trojan://trojan@213.35.108.135:12596?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&allowInsecure=1&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=/?ed=2560# By EbraSha
 trojan://trojan@22b.net:2087/?type=tcp&security=tls# By EbraSha
-trojan://trojan@38.95.73.40:587?security=tls&sni=jflsjlaf.pages.dev&insecure=1&allowInsecure=1&type=ws&host=jflsjlaf.pages.dev&path=%2F#1950.%20%F0%9F%87%BA%F0%9F%87%B8%20TROJAN%20%7C%20SNI%3A%20jflsjlaf.pages.dev%20%7C%20TG%3A%20%40wlrustg
+trojan://trojan@38.95.73.40:587?security=tls&sni=jflsjlaf.pages.dev&insecure=1&allowInsecure=1&type=ws&host=jflsjlaf.pages.dev&path=%2F#3595.%20%F0%9F%87%BA%F0%9F%87%B8%20TROJAN%20%7C%20SNI%3A%20jflsjlaf.pages.dev%20%7C%20TG%3A%20%40wlrustg
 trojan://trojan@43.205.45.56:443?encryption=none&security=tls&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3+@wangcai2# By EbraSha
 trojan://trojan@43.218.77.16:443?encryption=none&security=tls&sni=store.timimi.dpdns.org&type=ws&host=store.timimi.dpdns.org&path=%2F%3Fed%3D2560%26telegram%F0%9F%87%A8%F0%9F%87%B3+@wangcai2# By EbraSha
 trojan://trojan@45.192.222.112:8443/?type=ws&host=store.timimi.dpdns.org&path=%2F%3Fed%3D2560&security=tls&sni=store.timimi.dpdns.org&fp=chrome# By EbraSha
@@ -146,8 +176,8 @@ trojan://v9nxntt6grgi9dkl@37.156.42.12:80?security=reality&sni=yahoo.con&fp=chro
 trojan://v9nxntt6grgi9dkl@991827262gsgs-8822nbeoaoznzznzb.poki-pakipon.ir:80?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&security=reality&sni=yahoo.con&fp=chrome&pbk=aGgmBcjqI_90O8LlO4HiCoIQT1QpyvzbdvCQhpqAuj4&sid=c89ac16c8503&spx=%2FRg9UHhBzEPtIbQL&type=tcp&headerType=http&host=www.yahoo.com# By EbraSha
 trojan://vGWCNNfBHwSY6m6M@185.253.46.40:443
 trojan://vGWCNNfBHwSY6m6M@v2cross.com.04.v2ce.com:443# By EbraSha
-trojan://vUMFCo5ghEArq09bxy8NuLL3lQtqFRHE@69.46.46.44:443?path=%2Flive%2Ff9f5cb4f-a2ce-42eb-8dfb-b3dc2746ef28%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=mr-amir-production-e40d.up.railway.app&fp=safari&type=ws&allowInsecure=0&sni=mr-amir-production-e40d.up.railway.app#%F0%9F%87%BA%F0%9F%87%B8%20%40MrMeshkyChannel%20358318
-trojan://vUMFCo5ghEArq09bxy8NuLL3lQtqFRHE@mr-amir-production-e40d.up.railway.app:443?path=%2Flive%2Ff9f5cb4f-a2ce-42eb-8dfb-b3dc2746ef28%3Fed%3D2560&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;host=mr-amir-production-e40d.up.railway.app&amp;fp=safari&amp;type=ws&amp;allowInsecure=0&amp;sni=mr-amir-production-e40d.up.railway.app#%40V2ray_Alpha%F0%9F%A5%B0%203
+trojan://vUMFCo5ghEArq09bxy8NuLL3lQtqFRHE@69.46.46.44:443?path=%2Flive%2Ff9f5cb4f-a2ce-42eb-8dfb-b3dc2746ef28%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=mr-amir-production-e40d.up.railway.app&fp=safari&type=ws&allowInsecure=0&sni=mr-amir-production-e40d.up.railway.app#%F0%9F%87%BA%F0%9F%87%B8%20%40MrMeshkyChannel%20536855
+trojan://vUMFCo5ghEArq09bxy8NuLL3lQtqFRHE@mr-amir-production-e40d.up.railway.app:443?path=%2Flive%2Ff9f5cb4f-a2ce-42eb-8dfb-b3dc2746ef28%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=mr-amir-production-e40d.up.railway.app&fp=safari&type=ws&allowInsecure=0&sni=mr-amir-production-e40d.up.railway.app#@Vip_Security join us - 480
 trojan://vbmwVEzFLS@45.63.106.86:17831?type=tcp&allowInsecure=1# By EbraSha
 trojan://vip@104.16.228.229:443/?type=tcp&security=tls&sni=heihu880.pages.dev# By EbraSha
 trojan://vip@104.26.4.57:443/?type=tcp&security=tls&sni=heihu880.pages.dev# By EbraSha
