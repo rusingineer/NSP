@@ -1,3 +1,12 @@
+trojan://your_password@aws-uae-1.f1cflineb.com:443?security=tls&sni=aws-uae-1.f1cflineb.com&fp=chrome&type=ws&path=/f1rocket&host=aws-uae-1.f1cflineb.com#4Nika-6a800e7146
+trojan://your_password@aws-uae-1.f1rocketnode.com:443?security=tls&sni=aws-uae-1.f1rocketnode.com&type=tcp#4Kian-9e99f5488c
+trojan://your_password@aws-uk-london-1.f1cflinea.com:443?security=tls&sni=aws-uk-london-1.f1cflinea.com&fp=chrome&type=ws&path=/f1rocket&host=aws-uk-london-1.f1cflinea.com#4Jadi-2220644dd7
+trojan://your_password@aws-uk-london-1.f1cflineb.com:443?security=tls&sni=aws-uk-london-1.f1cflineb.com&fp=chrome&type=ws&path=/f1rocket&host=aws-uk-london-1.f1cflineb.com#4Kian-cd9a74244b
+trojan://ypDt8RkT7J@31.172.67.242:43118?security=tls&alpn=http/1.1&headerType=none&fp=random&type=tcp&sni=tpmwh.phooeyunfold.com#@Vip_Security join us - 483
+trojan://ypDt8RkT7J@89.187.181.172:43118?type=tcp&allowInsecure=1&fp=chrome#%F0%9F%92%A5%F0%9F%87%BA%F0%9F%87%B8%20US%2089.187.181.179%20%E2%97%88%20tcp%3A43118%20%E2%97%88%20Datacamp%20Limited%20%2F%20Cdn77%20CHI%20%E2%97%88%20b774c
+trojan://ypDt8RkT7J@89.187.181.179:43118?type=tcp&sni=wrmelmwxlf.gktevlrqznwqqozy.fabpfs66gizmnojhcvqxwl.kytrcfzqla87gvgvs6c7kjnrubuh.cc&allowInsecure=1&fp=chrome#%F0%9F%92%B0%F0%9F%92%A5%F0%9F%87%BA%F0%9F%87%B8%20US%2089.187.181.179%20%E2%97%88%20tcp%3A43118%20%E2%97%88%20Datacamp%20Limited%20%2F%20Cdn77%20CHI%20%E2%97%88%20f8bd8
+trojan://zHckDvqHolUX@3.39.252.238:14825?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#KR|Github搜索TrojanLinks
+trojan://zIvR7ryOXv@159.223.207.182:34428?security=tls&type=tcp&headerType=none
 trojan://zgRfB1MMJDJ65rwKSnGCZuzLpTiUSfgzHmTb26ye7mM=@lm10.ehsanazizi-speed-server.com:2127?security=tls&alpn=h2%2Chttp%2F1.1&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=lm10.ehsanazizi-speed-server.com#[4041][DE][0][TROJAN][None][ext_raw.githubusercontent.com][2026-10-13][2026-10-13 04:14]
 trojan://zixGcZjzWxMG@44.223.106.182:14787?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#US|Github搜索TrojanLinks
 trojan://容解析错误trojan://2bcfbfba-b446-4ad5-93ad-72af9e008f61@blackshadow.dpdns.org:443?sni=blackshadow.dpdns.org&type=ws&path=/%2F195.123.218.174-443&host=blackshadow.dpdns.org#%F0%9F%87%AB%F0%9F%87%B7FR_1547%7C880KB%2Fs%7CM001-260618%2001
