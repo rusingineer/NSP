@@ -1,3 +1,4 @@
+ss://c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2VUVOdWJrZzJVMUZUYm1adlV6STNAMTY5LjE5Ny4xNDEuMzM6ODA5MA==
 ss://c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2VUVOdWJrZzJVMUZUYm1adlV6STNAMTY5LjE5Ny4xNDIuMzk6ODA5MA==
 ss://c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2VUVOdWJrZzJVMUZUYm1adlV6STNAMTcyLjk5LjE5MC4yMzU6ODA5MQ==
 ss://c3M6Ly9ZV1Z6TFRJMU5pMW5ZMjA2VUVOdWJrZzJVMUZUYm1adlV6STNAMzguMTA3LjIyNi4xMzI6ODA5MA==
@@ -539,7 +540,6 @@ ss://chacha20-ietf-poly1305:157b5b2943054855@40.160.6.240:21974#%F0%9F%87%BA%F0%
 ss://chacha20-ietf-poly1305:1RWwXhwfAB5gAEozU4G2Pg@193.29.139.133:8080#%F0%9F%87%B3%F0%9F%87%B1%20NL%20193.29.139.133%20%E2%97%88%20tcp%3A8080%20%E2%97%88%20Greenhost%20BV%20%E2%97%88%20bc364
 ss://chacha20-ietf-poly1305:1RWwXhwfAB5gAEozU4G2Pg@193.29.139.138:8080#%F0%9F%87%B3%F0%9F%87%B1%20NL%20193.29.139.138%20%E2%97%88%20tcp%3A8080%20%E2%97%88%20Greenhost%20BV%20%E2%97%88%2016d80
 ss://chacha20-ietf-poly1305:1RWwXhwfAB5gAEozU4G2Pg@193.29.139.143:8080#%F0%9F%87%B3%F0%9F%87%B1%20NL%20193.29.139.143%20%E2%97%88%20tcp%3A8080%20%E2%97%88%20Greenhost%20BV%20%E2%97%88%2010ead
-ss://chacha20-ietf-poly1305:1RWwXhwfAB5gAEozU4G2Pg@193.29.139.157:8080#%F0%9F%87%B3%F0%9F%87%B1%20NL%20193.29.139.157%20%E2%97%88%20tcp%3A8080%20%E2%97%88%20Greenhost%20BV%20%E2%97%88%202037c
 ss://chacha20-ietf-poly1305:1RWwXhwfAB5gAEozU4G2Pg@193.29.139.162:8080#%F0%9F%87%B3%F0%9F%87%B1%20NL%20193.29.139.162%20%E2%97%88%20tcp%3A8080%20%E2%97%88%20Greenhost%20BV%20%E2%97%88%20fc45e
 ss://chacha20-ietf-poly1305:1RWwXhwfAB5gAEozU4G2Pg@193.29.139.175:8080#%F0%9F%87%B3%F0%9F%87%B1%20NL%20193.29.139.175%20%E2%97%88%20tcp%3A8080%20%E2%97%88%20Greenhost%20BV%20%E2%97%88%20cca4b
 ss://chacha20-ietf-poly1305:1RWwXhwfAB5gAEozU4G2Pg@193.29.139.189:8080#%F0%9F%87%B3%F0%9F%87%B1%20NL%20193.29.139.189%20%E2%97%88%20tcp%3A8080%20%E2%97%88%20Greenhost%20BV%20%E2%97%88%2092f4a
@@ -775,17 +775,17 @@ ss://chacha20-ietf:asd123456@154.197.26.237:8388#%F0%9F%9A%AB%F0%9F%87%AD%F0%9F%
 ss://chacha20-ietf:asd123456@156.236.142.189:8388#%F0%9F%9A%AB%F0%9F%87%BA%F0%9F%87%B8%20US%20156.236.142.189%20%E2%97%88%20tcp%3A8388%20%E2%97%88%20PEG%20TECH%20Inc.%20%E2%97%88%20611ba
 ss://chacha20-ietf:asd123456@156.236.155.171:8388#%F0%9F%9A%AB%F0%9F%87%BA%F0%9F%87%B8%20US%20156.236.155.171%20%E2%97%88%20tcp%3A8388%20%E2%97%88%20PEG%20TECH%20Inc.%20%E2%97%88%2046d1e
 ss://chacha20-ietf:asd123456@38.174.196.230:8388#%F0%9F%9A%AB%F0%9F%87%AF%F0%9F%87%B5%20JP%2038.174.196.230%20%E2%97%88%20tcp%3A8388%20%E2%97%88%20PEG%20TECH%20INC%20%2F%20PEG-TKY%20%E2%97%88%20d4fbe
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg%3D%3D@107.151.182.253:8080#%F0%9F%87%BA%F0%9F%87%B8%20%40MrMeshkyChannel%20448995
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg%3D%3D@107.155.57.51:8080#%F0%9F%87%BA%F0%9F%87%B8%20%40MrMeshkyChannel%20858632
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg%3D%3D@137.184.174.93:8080#%F0%9F%87%A8%F0%9F%87%A6%20%40MrMeshkyChannel%20912369
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg%3D%3D@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7%20%40MrMeshkyChannel%20172431
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg%3D%3D@23.251.121.242:8080#%F0%9F%87%BA%F0%9F%87%B8%20%40MrMeshkyChannel%20219125
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg%3D%3D@68.183.227.4:8080#%F0%9F%87%B8%F0%9F%87%AC%20%40MrMeshkyChannel%20996494
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg%3D%3D@79.110.53.169:8080#%F0%9F%87%BA%F0%9F%87%B8%20%40MrMeshkyChannel%20805918
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg%3D%3D@107.151.182.253:8080#%F0%9F%87%BA%F0%9F%87%B8%20%40MrMeshkyChannel%20675066
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg%3D%3D@107.155.57.51:8080#%F0%9F%87%BA%F0%9F%87%B8%20%40MrMeshkyChannel%20292456
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg%3D%3D@137.184.174.93:8080#%F0%9F%87%A8%F0%9F%87%A6%20%40MrMeshkyChannel%20865330
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg%3D%3D@138.199.42.68:8080#%F0%9F%87%BA%F0%9F%87%B8%20%40MrMeshkyChannel%20200712
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg%3D%3D@146.70.61.37:8080#%F0%9F%87%AC%F0%9F%87%A7%20%40MrMeshkyChannel%20628535
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg%3D%3D@23.251.121.242:8080#%F0%9F%87%BA%F0%9F%87%B8%20%40MrMeshkyChannel%20157229
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg%3D%3D@68.183.227.4:8080#%F0%9F%87%B8%F0%9F%87%AC%20%40MrMeshkyChannel%20961634
+ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg%3D%3D@79.110.53.169:8080#%F0%9F%87%BA%F0%9F%87%B8%20%40MrMeshkyChannel%20281441
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@107.151.182.197:8080#%F0%9F%87%BA%F0%9F%87%B8US_128%7C907KB%2Fs%7CA004-260618%2001
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@107.155.57.11:8080#%F0%9F%87%A8%F0%9F%87%B3_CN_%E4%B8%AD%E5%9B%BD-%3E%F0%9F%87%B7%F0%9F%87%BA_RU_%E4%BF%84%E7%BD%97%E6%96%AF_1
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@138.197.141.58:8080#%F0%9F%87%A8%F0%9F%87%A6CA_10%7C1.2MB%2Fs%7CA004-260618%2001
-ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@138.199.42.68:8080#%F0%9F%87%BA%F0%9F%87%B8US-138.199.42.68-0065
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@138.199.43.159:8080#%F0%9F%87%BA%F0%9F%87%B8US_127%7C959KB%2Fs%7CA004-260618%2001
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.23.32:8080#%F0%9F%87%AC%F0%9F%87%A7GB_9%7C2.8MB%2Fs%7CA004-260618%2001
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@146.70.61.18:8080#%F0%9F%87%AC%F0%9F%87%A7GB_61%7C5.2MB%2Fs%7CA004-260618%2001
@@ -795,7 +795,7 @@ ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.227.236:8080#SG 🇸🇬 | 
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg==@68.183.235.122:8080#1782.%20SS%20%7C%20TG%3A%20%40wlrustg
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@128.199.172.224:8080#SG 🇸🇬 | @Raydikalx | B84738
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@68.183.227.45:8080#SG 🇸🇬 | @Raydikalx | 51C70D
-ss://cmM0LW1kNToxNmZiMTJmZjRlZWJkMTZm@38.54.76.8:11201#%F0%9F%87%A6%F0%9F%87%AA%20%40MrMeshkyChannel%20169574
+ss://cmM0LW1kNToxNmZiMTJmZjRlZWJkMTZm@38.54.76.8:11201#%F0%9F%87%A6%F0%9F%87%AA%20%40MrMeshkyChannel%20215631
 ss://cmM0LW1kNTpCb29tQ2xvdWQyMDIw@video.tiktokuu.xyz:663/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D6544-5lUpS8zk54.download.microsoft.com
 ss://cmM0LW1kNTpCb29tQ2xvdWQyMDIw@video.tiktokuu.xyz:664/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D6544-5lUpS8zk54.download.microsoft.com
 ss://cmM0LW1kNTpCb29tQ2xvdWQyMDIw@video.tiktokuu.xyz:735/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D6544-5lUpS8zk54.download.microsoft.com
@@ -862,7 +862,7 @@ ss://cmM0LW1kNTpSZW56aGVDbG91ZFNTQHByMS5qeW16ZmZicXVhd2wuY29tOjM2MDg=
 ss://cmM0LW1kNTpSZW56aGVDbG91ZFNTQHByMy5qeW16ZmZicXVhd2wuY29tOjU2MDA=
 ss://cmM0LW1kNTpSZW56aGVDbG91ZFNTQHByMy5qeW16ZmZicXVhd2wuY29tOjY2MDA=
 ss://cmM0LW1kNTpSZW56aGVDbG91ZFNTQHByMy5qeW16ZmZicXVhd2wuY29tOjY2MDE=
-ss://cmM0LW1kNTpiMTNjNGMwMjFjZWMyYzBi@154.90.55.15:11201#%F0%9F%87%A6%F0%9F%87%AA%20%40MrMeshkyChannel%20482514
+ss://cmM0LW1kNTpiMTNjNGMwMjFjZWMyYzBi@154.90.55.15:11201#%F0%9F%87%A6%F0%9F%87%AA%20%40MrMeshkyChannel%20880519
 ss://cmM0LW1kNTpkNHIwRUg@hk06.clashcloud.tech:44517
 ss://cmM0LW1kNTpkNHIwRUg@hkt05.clashcloud.tech:44517
 ss://cmM0LW1kNTpkNHIwRUg@in01.clashcloud.tech:44517
@@ -1132,6 +1132,7 @@ ss://d8218f97-4c0e-4995-ae71-760f2e59af17@91.107.152.129:443?security=reality&en
 ss://d85711cf-c5f5-4166-8000-25958322b13f@b2n.ir:8443?mode=auto&amp;path=%2Fapi%2Fdownload.php&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1%2Ch3&amp;encryption=none&amp;extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%221-1%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22xPaddingKey%22%3A%22ctx%22%2C%22xPaddingHeader%22%3A%22x-grpc-context%22%2C%22xPaddingMethod%22%3A%22tokenish%22%2C%22sessionIDPlacement%22%3A%22header%22%2C%22sessionIDKey%22%3A%22Idempotency-Key%22%2C%22seqPlacement%22%3A%22header%22%2C%22seqKey%22%3A%22Upload-Offset%22%2C%22sessionPlacement%22%3A%22header%22%2C%22sessionKey%22%3A%22Idempotency-Key%22%7D&amp;insecure=0&amp;host=sausage.esmbegudota.ir&amp;type=xhttp&amp;allowInsecure=0&amp;sni=sausage.esmbegudota.ir#[12482][US][0][SS][None][Capoit][2026-09-14][2026-10-16 01:58]
 ss://d85711cf-c5f5-4166-8000-25958322b13f@darsadgir.ir:8443?mode=auto&amp;path=%2Fapi%2Fdownload.php&amp;security=tls&amp;alpn=h2%2Chttp%2F1.1%2Ch3&amp;encryption=none&amp;extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%221-1%22%2C%22xPaddingObfsMode%22%3Atrue%2C%22xPaddingKey%22%3A%22ctx%22%2C%22xPaddingHeader%22%3A%22x-grpc-context%22%2C%22xPaddingMethod%22%3A%22tokenish%22%2C%22sessionIDPlacement%22%3A%22header%22%2C%22sessionIDKey%22%3A%22Idempotency-Key%22%2C%22seqPlacement%22%3A%22header%22%2C%22seqKey%22%3A%22Upload-Offset%22%2C%22sessionPlacement%22%3A%22header%22%2C%22sessionKey%22%3A%22Idempotency-Key%22%7D&amp;insecure=0&amp;host=sausage.esmbegudota.ir&amp;type=xhttp&amp;allowInsecure=0&amp;sni=sausage.esmbegudota.ir#[12485][US][0][SS][None][Capoit][2026-09-14][2026-10-16 01:58]
 ss://d85711cf-c5f5-4166-8000-25958322b13f@xnforo.ir:8443?encryption=none&amp;type=xhttp&amp;security=tls&amp;sni=sausage.esmbegudota.ir&amp;fp=chrome&amp;host=sausage.esmbegudota.ir&amp;path=/api/download.php&amp;mode=auto&amp;extra=%7B%22mode%22:%22auto%22,%22seqKey%22:%22Upload-Offset%22,%22seqPlacement%22:%22header%22,%22sessionIDKey%22:%22Idempotency-Key%22,%22sessionIDPlacement%22:%22header%22,%22xPaddingBytes%22:%221-1%22,%22xPaddingHeader%22:%22x-grpc-context%22,%22xPaddingKey%22:%22ctx%22,%22xPaddingMethod%22:%22tokenish%22,%22xPaddingObfsMode%22:true%7D#[12486][US][0][SS][None][ext_raw.githubusercontent.com][2026-10-16][2026-10-16 01:58]
+ss://d8abd668-0b7d-47da-b59f-a6566e69fb16@37.32.31.16:1300?security=none&amp;encryption=mlkem768x25519plus.native.0rtt.5grU7g5v7z5UsdXanYsV6K6xIEJbIjYes51g-rhNAjQ&amp;host=%2F%3F&amp;headerType=none&amp;type=tcp#%40FreeLand8%F0%9F%92%AB12
 ss://d8b18d95-ca86-4742-a44f-6141e075a752@31.77.152.31:443?security=reality&amp;encryption=none&amp;pbk=1he5EyHxI595x0mNkFNxOebUOQZGVGIy_c92bn1qO2o&amp;headerType=none&amp;fp=safari&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=e.backup.iplane.top&amp;sid=ac31827454d7f693#[12489][DE][0][SS][None][proxy_mtm][2026-09-24][2026-10-16 01:58]
 ss://d8b42cd5-a149-4356-9e61-000000000000@178.83.157.130:2551?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#[12490][GB][0][SS][None][prrofile_purple][2026-07-30][2026-10-16 01:58]
 ss://d8b42cd5-a149-4356-9e61-000000000000@194.242.129.162:2550?encryption=none&amp;type=tcp&amp;headerType=none#[12491][GB][0][SS][None][v2ray_vpn_ir][2026-08-01][2026-10-16 01:58]
@@ -1217,7 +1218,6 @@ ss://da03ac58-f32c-47a8-b523-fcddc2e17485@172.64.156.168:443?encryption=none&amp
 ss://da03ac58-f32c-47a8-b523-fcddc2e17485@frrg.serv00.net:54280?encryption=none&amp;security=tls&amp;type=ws&amp;sni=frrg.serv00.net&amp;host=frrg.serv00.net&amp;path=%2f#[12534][PL][0][SS][None][yaney_01][2024-01-17][2026-10-16 01:58]
 ss://da0c4b49-5565-4ff0-9848-1bb602fad0dd@168.119.184.138:57149?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%3A+%40V2rayNGvpni
 ss://da24590d-b15a-4d8e-8648-51c40c9963e1@104.26.14.229:443?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=us-cdn.mobileemdad.top&amp;fp=chrome&amp;ech=https%3A%2F%2F8.8.8.8%2Fdns-query&amp;type=ws&amp;allowInsecure=0&amp;sni=us-cdn.mobileemdad.top#[12537][US][0][SS][None][proxy_mtm][2026-10-08][2026-10-16 01:58]
-ss://da24590d-b15a-4d8e-8648-51c40c9963e1@dearv.moon-night.ir:443?security=reality&amp;encryption=none&amp;pbk=dMBDL7ry94pavIxYmzimeyaCqor6fUNb0v3dzHif9xY&amp;headerType=none&amp;fp=ios&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=de.wikipedia.org&amp;sid=e64e9f5eefbffc15#[12539][DE][0][SS][None][proxy_mtm][2026-10-08][2026-10-16 01:58]
 ss://da24590d-b15a-4d8e-8648-51c40c9963e1@ir4.mobileemdad.top:443?security=reality&amp;encryption=none&amp;pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=nobitex.ir&amp;sid=cbe2503ffd040d#[12540][IR][0][SS][None][proxy_mtm][2026-10-08][2026-10-16 01:58]
 ss://da24590d-b15a-4d8e-8648-51c40c9963e1@usa4.mobileemdad.top:443?encryption=none&security=reality&type=tcp&headerType=none&sni=stripe.com&fp=qq&pbk=PjR-SM4fOm2fY4mTqWoqZDRyxontvpailM0gBqUxlUQ&sid=08#AutoAiVPN860614
 ss://da557d0f-dc4e-47b9-bfcb-5d9f0de39eb3@91.98.154.118:41291?path=%2F&amp;host=play.google.com&amp;encryption=none&amp;security=none&amp;type=ws#@v2rayng3
@@ -1401,6 +1401,7 @@ ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.154.209:22224?encryption=none&a
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.158.229:22222?encryption=none&amp;security=none&amp;type=tcp#[12779][GB][0][SS][None][PrivateVPNs][2026-10-11][2026-10-16 01:58]
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.158.229:22223?encryption=none&amp;security=none&amp;type=tcp#[12780][GB][0][SS][None][DirectVPN][2026-10-11][2026-10-16 01:58]
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.158.229:22224?encryption=none&amp;security=none&amp;type=tcp#[12781][GB][0][SS][None][VlessConfig][2026-10-11][2026-10-16 01:58]
+ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.17.74:22222?encryption=none&amp;security=none&amp;type=tcp#(S102)
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.41.243:22222?encryption=none&amp;security=none&amp;type=tcp#[12782][GB][0][SS][None][PrivateVPNs][2026-10-07][2026-10-16 01:58]
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.41.243:22223?encryption=none&amp;security=none&amp;type=tcp#[12783][GB][0][SS][None][DirectVPN][2026-10-07][2026-10-16 01:58]
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.41.243:22224?encryption=none&amp;security=none&amp;type=tcp#[12784][GB][0][SS][None][VlessConfig][2026-10-07][2026-10-16 01:58]
@@ -1604,6 +1605,7 @@ ss://e4514801-0d5a-42ba-869f-39bd605aef9e@3.9.167.151:22222?security=none&amp;en
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@35.176.35.152:22222?encryption=none&amp;security=none&amp;type=tcp#[12978][GB][0][SS][None][PrivateVPNs][2026-10-09][2026-10-16 01:58]
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@35.176.35.152:22223?encryption=none&amp;security=none&amp;type=tcp#[12979][GB][0][SS][None][DirectVPN][2026-10-09][2026-10-16 01:58]
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@35.176.35.152:22224?encryption=none&amp;security=none&amp;type=tcp#[12980][GB][0][SS][None][VlessConfig][2026-10-09][2026-10-16 01:58]
+ss://e4514801-0d5a-42ba-869f-39bd605aef9e@35.177.104.48:22222?encryption=none&amp;security=none&amp;type=tcp#(S101)
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@35.177.40.108:22222?encryption=none&amp;security=none&amp;type=tcp#[12981][GB][0][SS][None][PrivateVPNs][2026-10-08][2026-10-16 01:58]
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@35.177.40.108:22223?encryption=none&amp;security=none&amp;type=tcp#[12982][GB][0][SS][None][DirectVPN][2026-10-08][2026-10-16 01:58]
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@35.177.40.108:22224?encryption=none&amp;security=none&amp;type=tcp#[12983][GB][0][SS][None][VlessConfig][2026-10-08][2026-10-16 01:58]
@@ -1672,6 +1674,7 @@ ss://e4514801-0d5a-42ba-869f-39bd605aef9e@51.24.70.246:22222?encryption=none&amp
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@51.24.70.246:22223?encryption=none&amp;security=none&amp;type=tcp#[13044][GB][0][SS][None][DirectVPN][2026-10-10][2026-10-16 01:58]
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@51.24.70.246:22224?encryption=none&amp;security=none&amp;type=tcp#[13045][GB][0][SS][None][VlessConfig][2026-10-10][2026-10-16 01:58]
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.110.9:22224?encryption=none&security=none&type=tcp#AutoAiVPN865294
+ss://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.122.146:22222?encryption=none&amp;security=none&amp;type=tcp#(S103)
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.145.134:22222?encryption=none&amp;security=none&amp;type=tcp#(S104)
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.145.134:22223?encryption=none&security=none&type=tcp#AutoAiVPN927041
 ss://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.145.134:22224?encryption=none&security=none&type=tcp#AutoAiVPN926862
@@ -1744,7 +1747,7 @@ ss://e580c6ba-f942-49d2-a224-bf07fbff9b96@201.51.10.240:443?flow=xtls-rprx-visio
 ss://e59be95e-7539-4a31-9b2d-a03a8f072ff3@104.16.251.13:80?security=none&type=ws&host=127.0.0.1.www.iransell.ir.%E5%A4%AA%E7%A9%BA.spacecadet.%D0%B8%D0%B9%D0%BA%D0%B0%D0%B4%D0%B5%D1%82.%E5%AE%89%E9%9D%9C%E5%9C%B0%E6%96%B9.wonkacapitano.buzz.&path=%2Fvless%23t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro-t-me-DarkVPNpro#AutoAiVPN58197
 ss://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.0.181:2082?path=%2Ffp&amp;security=none&amp;encryption=none&amp;host=hhlfy.twiladaphne.ndjp.net&amp;type=ws&amp;sni=hhlfy.twiladaphne.ndjp.net#YFZ%204%20%40Outline_Vpn
 ss://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@104.18.34.124:443?encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=%2F&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#[13120][US][0][SS][None][ext_raw.githubusercontent.com][2026-10-16][2026-10-16 01:58]
-ss://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@162.159.12.41:443?encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=%2Ffp%3Drandom&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#[13125][US][0][SS][None][ext_raw.githubusercontent.com][2026-10-16][2026-10-16 01:58]
+ss://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@162.159.12.41:443?encryption=none&amp;host=hhlfy.twiladaphne.ndjp.net&amp;path=%2Ffp%3Drandom&amp;security=tls&amp;sni=hhlfy.twiladaphne.ndjp.net&amp;type=ws#[104682]
 ss://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:2082?path=%2Ffp&amp;security=none&amp;encryption=none&amp;host=hhlfy.twiladaphne.ndjp.net&amp;type=ws#Free%20x747%20%40Outline_Vpn
 ss://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.64.150.28:443?path=%2Ffp&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=hhlfy.twiladaphne.ndjp.net&amp;type=ws&amp;allowInsecure=0&amp;sni=hhlfy.twiladaphne.ndjp.net#[13136][US][0][SS][None][hopev2ray][2026-08-15][2026-10-16 01:58]
 ss://e5cc16a6-ea42-46b2-82ae-ad2157e1641b@172.67.185.178:443?encryption=none&host=hhlfy.twiladaphne.ndjp.net&path=%2F&security=tls&sni=hhlfy.twiladaphne.ndjp.net&type=ws#[13137][US][0][SS][None][ext_raw.githubusercontent.com][2026-10-16][2026-10-16 01:58]
@@ -1764,7 +1767,7 @@ ss://e6d8d743-a9bc-48c9-be99-8f3cc94d16e1@ako.pagate.top:443?allowInsecure=0&sni
 ss://e6df2095-a73c-4043-8693-8d5a03686870@104.21.91.244:443?path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D2560&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;insecure=0&amp;host=lucasjow.us.ci&amp;fp=chrome&amp;ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&amp;type=ws&amp;allowInsecure=0&amp;sni=lucasjow.us.ci#[13158][US][0][SS][None][marambashi][2026-10-14][2026-10-16 01:58]
 ss://e6df2095-a73c-4043-8693-8d5a03686870@162.159.250.29:443?path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D2560&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;insecure=0&amp;host=lucasjow.us.ci&amp;fp=chrome&amp;ech=cloudflare-ech.com%2Budp%3A%2F%2F10.58.5.2&amp;type=ws&amp;allowInsecure=0&amp;sni=lucasjow.us.ci#[13167][US][0][SS][None][marambashi][2026-10-15][2026-10-16 01:58]
 ss://e6df2095-a73c-4043-8693-8d5a03686870@172.67.155.65:2053?path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET%3Fed%3D2560&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=lucasjow.us.ci&amp;type=ws&amp;allowInsecure=0&amp;sni=lucasjow.us.ci#YFZ%2063%20%40Outline_Vpn
-ss://e6df2095-a73c-4043-8693-8d5a03686870@172.67.155.65:8443?path=%2Fcart%2Fdocs%2Fwww%2Fproxyip&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=lucasjow.us.ci&amp;ech=cloudflare-ech.com%2Budp%3A%2F%2F8.8.8.8&amp;type=ws&amp;allowInsecure=0&amp;sni=lucasjow.us.ci#PRX11%20%7C%20%40proxystore11%20%F0%9F%87%BA%F0%9F%87%B8%20VLESS%20
+ss://e6df2095-a73c-4043-8693-8d5a03686870@172.67.155.65:8443?path=%2Fcart%2Fdocs%2Fwww%2Fproxyip%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=lucasjow.us.ci&amp;ech=cloudflare-ech.com%2Budp%3A%2F%2F8.8.8.8&amp;type=ws&amp;allowInsecure=0&amp;sni=lucasjow.us.ci#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%40FreakConfig
 ss://e6df2095-a73c-4043-8693-8d5a03686870@31.15.19.199:443?alpn=http%2F1.1&amp;encryption=none&amp;host=lucasjow.us.ci&amp;path=%2Fcart%2Fdocs%2Fwww%2Fproxyip%3D108.160.132.132&amp;security=tls&amp;sni=lucasjow.us.ci&amp;type=ws#[13281][NL][0][SS][None][oneclickvpnkeys][2026-10-10][2026-10-16 01:58]
 ss://e6df2095-a73c-4043-8693-8d5a03686870@31.57.190.17:443?alpn=http%2F1.1&amp;encryption=none&amp;host=lucasjow.us.ci&amp;path=%2Fcart%2Fdocs%2Fwww%2Fproxyip%3D108.160.132.132fp%3Dunsafe&amp;security=tls&amp;sni=lucasjow.us.ci&amp;type=ws#[13282][AE][0][SS][None][oneclickvpnkeys][2026-10-15][2026-10-16 01:58]
 ss://e6df2095-a73c-4043-8693-8d5a03686870@31.57.190.49:443?alpn=http%2F1.1&amp;encryption=none&amp;host=lucasjow.us.ci&amp;path=%2Fcart%2Fdocs%2Fwww%2Fproxyip%3D108.160.132.132fp%3Dunsafe&amp;security=tls&amp;sni=lucasjow.us.ci&amp;type=ws#[13283][AE][0][SS][None][oneclickvpnkeys][2026-10-12][2026-10-16 01:58]
@@ -1788,7 +1791,7 @@ ss://e8002f83-f46a-40d8-9b36-ff982f029488@lt26.cdnfern.org:443?mode=auto&amp;pat
 ss://e8410a35-9b9c-4312-8f67-240b160855dc@103.35.189.42:8443?security=reality&amp;sni=172.67.173.11&amp;type=tcp&amp;host=us1.x2fast.net&amp;path=/http&amp;headerType=http&amp;fp=chrome&amp;pbk=t_XMV-WyVYbcDCIgiSSCi3bSPDdW1rqKFa9ZoI8b4RA&amp;sid=dbdf78b1df376900#[13366][MD][0][SS][None][Hope_Net][2026-09-16][2026-10-16 01:58]
 ss://e881102a-0288-4048-9319-c498d6913d8f@95.217.242.182:80/?type=tcp&amp;encryption=none&amp;flow=xtls-rprx-vision&amp;sni=eset.com&amp;fp=chrome&amp;security=reality&amp;pbk=YsE55HgtP1a_x7HqZouHtsi-5YYGsfBAm4AQzIjKvEc&amp;sid=24494b51#[13368][UnResolvedDomains][0][SS][None][Capital_NET][2023-08-23][2026-10-16 01:58]
 ss://e882a28c-0828-4baf-abd3-246b50d06d66@172.67.81.238:2053/?type=ws&amp;encryption=none&amp;flow=&amp;host=Pm.RxV2ray.space&amp;path=%2F&amp;security=tls&amp;sni=Pm.RxV2ray.space#[13369][UnResolvedDomains][0][SS][None][freeconfigv2][2023-10-23][2026-10-16 01:58]
-ss://e8b1500b-e9e8-5492-8312-f4eadf7d0767@162.19.10.99:443?security=tls&amp;alpn=h2&amp;encryption=none&amp;insecure=0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;allowInsecure=0&amp;flow=xtls-rprx-vision&amp;sni=nasnet-162191099-direct.mbghalibaf.com#Free%20x661%20%40Outline_Vpn
+ss://e8b1500b-e9e8-5492-8312-f4eadf7d0767@162.19.10.99:443?security=tls&amp;alpn=h2&amp;encryption=none&amp;insecure=0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;allowInsecure=0&amp;flow=xtls-rprx-vision&amp;sni=nasnet-162191099-direct.mbghalibaf.com#[13378][FR][0][SS][None][ext_raw.githubusercontent.com][2026-10-16][2026-10-16 01:58]
 ss://e8b1500b-e9e8-5492-8312-f4eadf7d0767@nasnet-162191099-direct.mbghalibaf.com:443?security=tls&amp;alpn=h2&amp;encryption=none&amp;insecure=0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;allowInsecure=0&amp;flow=xtls-rprx-vision&amp;sni=nasnet-162191099-direct.mbghalibaf.com#[13388][FR][0][SS][None][Outline_Vpn][2026-08-13][2026-10-16 01:58]
 ss://e8b1500b-e9e8-5492-8312-f4eadf7d0767@nasnet-571299667-direct.mbghalibaf.com:443?security=tls&amp;encryption=none&amp;insecure=0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;allowInsecure=0&amp;flow=xtls-rprx-vision&amp;sni=nasnet-571299667-direct.mbghalibaf.com#[13392][DE][0][SS][None][Outline_Vpn][2026-10-01][2026-10-16 01:58]
 ss://e8bba56a-7423-43b2-bc61-85fdbf24a6f3@node2-production-a87b.up.railway.app:443?path=%2Fws&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=node2-production-a87b.up.railway.app&amp;type=ws&amp;allowInsecure=0#[13393][US][0][SS][None][proxy_mtm][2026-09-25][2026-10-16 01:58]
@@ -1995,6 +1998,3 @@ ss://efa9d618-443e-4d9a-9c67-c4b3d9d73995@swcdnmega.surverssss.pro:8443?security
 ss://efb0a3fe-af52-45c5-b397-1a6866d88d67@tight-recipe-11ad.252-068.workers.dev:8880?encryption=none&amp;path=%2Fpyip%3DProxyIP.KR.CMLiussss.net&amp;security=none&amp;type=ws#[13804][US][0][SS][None][oneclickvpnkeys][2026-10-10][2026-10-16 01:58]
 ss://efe19c5a-0ea1-4666-8a4c-4a33f4670775@104.21.70.22:443?path=%2Fraccoonwsvless&amp;security=tls&amp;alpn=http%2F1.1&amp;encryption=none&amp;insecure=0&amp;host=luminouspetal.cyou&amp;fp=chrome&amp;ech=luminouspetal.cyou%2Bhttps%3A%2F%2F1.1.1.1%2Fdns-query&amp;type=ws&amp;allowInsecure=0&amp;sni=luminouspetal.cyou#[13807][US][0][SS][None][free1_vpn][2026-10-11][2026-10-16 01:58]
 ss://eff363d1-ac96-4fd0-e883-93f44ed3ffb4@185.229.251.44:35301?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp#[13809][NL][0][SS][None][kiava][2026-01-23][2026-10-16 01:58]
-ss://effd2c78-3ab8-4d3f-893f-49a703c27208@178.107.60.242:443?security=reality&amp;encryption=none&amp;pbk=U_E3xSI6QY_Mj-3zjkB4esvMj0aVvYH6W6oHOR50XBs&amp;headerType=none&amp;fp=qq&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=filesconvert.org&amp;sid=10debbdf94767541#[13810][GB][0][SS][None][free1_vpn][2026-10-05][2026-10-16 01:58]
-ss://effd2c78-3ab8-4d3f-893f-49a703c27208@50.7.121.4:443?security=reality&amp;encryption=none&amp;pbk=U_E3xSI6QY_Mj-3zjkB4esvMj0aVvYH6W6oHOR50XBs&amp;host=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&amp;headerType=none&amp;fp=qq&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=filesconvert.org&amp;sid=10debbdf94767541#[13812][NL][0][SS][None][Capoit][2026-10-05][2026-10-16 01:58]
-ss://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBpcmFudnBuZXQiLA0KICAiYWRkIjogIm11dGUtbWF0aC1kNjRlLjBlNTAzOTkyYWQ3MDI2LldPcktFUnMuZGVWIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjAzZmNjNjE4LWI5M2QtNjc5Ni02YWVkLThhMzhjOTc1ZDU4MSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAibXV0ZS1tYXRoLWQ2NGUuMGU1MDM5OTJhZDcwMjYud29SS0VSUy5EZVYiLA0KICAicGF0aCI6ICIvYXZlaXJvci5jb206NDQzL2xpbmt2d3MiLA0KICAidGxzIjogInRscyIsDQogICJzbmkiOiAibXV0ZS1tYXRoLWQ2NGUuMGU1MDM5OTJhZDcwMjYud29SS0VSUy5EZVYiLA0KICAiYWxwbiI6ICJoMyxoMixodHRwLzEuMSIsDQogICJmcCI6ICJlZGdlIg0KfQ==
