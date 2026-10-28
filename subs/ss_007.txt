@@ -1,15 +1,3 @@
-ss://YWVzLTI1Ni1nY206c3hhakNUd3JsSzB6bCt6bUhwWDBwMGpYSWZhdG56bEx6V2xTUTk1MEwxYz1AcHBoZnJlZTIubXZwbnB2cG4uZGU1Lm5ldDo1MjM1MQ==#%F0%9F%87%BA%F0%9F%87%B8%20%5BSS%5D%20%D0%A1%D0%A8%D0%90%20%235606%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@134.195.196.3:443
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@134.195.196.51:443
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@134.195.198.211:443
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@134.195.198.252:443
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@134.195.198.95:443#%3a%e7%be%8e%e5%9b%bd-ss-134.195.198.95%3a443-%e5%8f%af%e7%94%a8-%e7%9b%b4%e8%bf%9e-%e4%b8%8d%e6%94%af%e6%8c%81Netflix
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@139.162.58.13:443#@Vip_Security join us - 311
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@142.202.48.34:4444#%F0%9F%87%BA%F0%9F%87%B8US-142.202.48.34-6523
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@142.202.48.52:443#%3a%e7%be%8e%e5%9b%bd-ss-142.202.48.52%3a443-%e5%8f%af%e7%94%a8-%e7%9b%b4%e8%bf%9e-%e4%b8%8d%e6%94%af%e6%8c%81Netflix
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@142.202.48.58:443#%F0%9F%87%BA%F0%9F%87%B8US-142.202.48.58-6615
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@142.202.48.74:443#%F0%9F%87%BA%F0%9F%87%B8US-142.202.48.74-6449
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@142.202.48.83:443#%F0%9F%87%BA%F0%9F%87%B8US-142.202.48.83-6472
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@142.202.48.99:443#%F0%9F%87%BA%F0%9F%87%B8US-142.202.48.99-6154
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@145.239.1.100:443#4Mohsen-b4f9ac6df9
 ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@145.239.1.137:443
@@ -236,7 +224,7 @@ ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.86.135.27:6379#%F0%9F%87%BA%F0%9F%8
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.91.102.30:6379#%F0%9F%87%BA%F0%9F%87%B8US-38.91.102.30-2573
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.91.107.16:6379#%F0%9F%87%BA%F0%9F%87%B8US-38.91.107.16-6351
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.12.127:445#%F0%9F%87%A8%F0%9F%87%A6%20%5BSS%5D%20%D0%9A%D0%B0%D0%BD%D0%B0%D0%B4%D0%B0%20%23534%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.141.125:445#
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.141.125:445#%40ConfigV2RayNG
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.77.53.200:6379#%F0%9F%87%B5%F0%9F%87%B1PL-51.77.53.200-2485
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@54.36.174.181:6379
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@85.208.108.20:6379#%F0%9F%87%A8%F0%9F%87%A6CA-85.208.108.20-3065
@@ -815,7 +803,7 @@ ss://bd4badaa-e3a5-48a5-aaf3-2d01b5c17ea5@31.56.177.95:8445?security=none&amp;en
 ss://bd6ebd72-25cd-4209-a418-a8c72946da90@172.232.196.241:32396?security=reality&amp;encryption=none&amp;pbk=Pj1XWo01sxdH8jKJ_8DoJiZDFANHFKRAqOncP8RNkwU&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.sony.com&amp;sid=dd6ce6af95001a#[9131][IT][0][SS][None][Outline_Vpn][2026-09-02][2026-10-28 02:49]
 ss://bd6ebd72-25cd-4209-a418-a8c72946da90@ww4.levikogjgfdd.ir:32396?security=reality&amp;encryption=none&amp;pbk=Pj1XWo01sxdH8jKJ_8DoJiZDFANHFKRAqOncP8RNkwU&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.sony.com&amp;sid=dd6ce6af95001a#[9132][IT][0][SS][None][Outline_Vpn][2026-09-02][2026-10-28 02:49]
 ss://bd70f457-3ec8-4c93-9e5d-b2299b98cd80@77.42.34.2:30558?security=reality&amp;encryption=mlkem768x25519plus.native.0rtt.LiAC5NZeBub5qyAnJR--Asb2urMAuRkrGwLexToWPhU&amp;pbk=GaiQyQDjRBb4FPg89ifTpLhA5eV4J5X0Othj_uZOxRc&amp;headerType=none&amp;fp=random&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=play.google.com&amp;sid=00587e87ebfbad1d#[9134][FI][0][SS][None][shh_proxy][2026-09-22][2026-10-28 02:49]
-ss://bda02d7e-a15c-4fa9-8f2d-491f1356cf5b@78.159.246.34:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=max.ru&alpn=h2%2Chttp%2F1.1&fp=chrome&security=reality&pbk=91RQKSUkwnKzSpl5B5kwsm5y6666rA-S-DH2nxX5nAo&sid=c01a7a76cce465d1#%F0%9F%87%A9%F0%9F%87%B0%20%5B%D0%91%D0%A1-SS%5D%20%D0%94%D0%B0%D0%BD%D0%B8%D1%8F%20%2316522%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C
+ss://bda02d7e-a15c-4fa9-8f2d-491f1356cf5b@78.159.246.34:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=max.ru&alpn=h2%2Chttp%2F1.1&fp=chrome&security=reality&pbk=91RQKSUkwnKzSpl5B5kwsm5y6666rA-S-DH2nxX5nAo&sid=c01a7a76cce465d1#%F0%9F%87%A9%F0%9F%87%B0%20%5B%D0%91%D0%A1-SS%5D%20%D0%94%D0%B0%D0%BD%D0%B8%D1%8F%20%2316521%20%7C%20%D0%A0%D0%BE%D1%81%D0%A2%D1%83%D0%BD%D0%BD%D0%B5%D0%BB%D1%8C
 ss://bdd00939-26be-4c99-9f4f-2a94df83a9c6@dlf.ornam.tech:443/?type=tcp&amp;encryption=none&amp;flow=xtls-rprx-vision&amp;sni=cdn.discordapp.com&amp;alpn=http%2F1.1&amp;fp=chrome&amp;security=reality&amp;pbk=hNVOQ6YXqVOT71Fe-dptYmqMBDHsGE_LYu6mipfgExU&amp;sid=cb69dab2#[9138][UnResolvedDomains][0][SS][None][Capital_NET][2023-10-27][2026-10-28 02:49]
 ss://be0f5bcf-86f1-43fa-bf2d-e45131afe37b@mg5d89p8.selqora.ir:20587?security=reality&amp;encryption=none&amp;pbk=08XjhCxzVfdFHC8ebkcHFlCPDnaFZurkUPOd--booiM&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=pio.hosting&amp;sid=867fe804429ad138#[9139][UnResolvedDomains][0][SS][None][Capoit][2026-09-12][2026-10-28 02:49]
 ss://be329b52-ee86-49bd-c766-1d34cf3ee5e1@185.172.149.105:443?mode=packet-up&amp;path=%2F%40GozargahVPN-%40GozargahVPN-%40GozargahVPN-%40GozargahVPN-%40GozargahVPN-%40GozargahVPN-%40GozargahVPN-%40GozargahVPN-%40GozargahVPN-%40GozargahVPN-%40GozargahVPN-%40GozargahVPN-%40GozargahVPN-%40GozargahVPN-%40GozargahVPN-%40GozargahVPN-%40GozargahVPN-%40GozargahVPN-%40GozargahVPN-%40GozargahVPN-%40GozargahVPN-%40GozargahVPN-%40GozargahVPN-%40GozargahVPN-%40GozargahVPN-%40GozargahVPN-%40GozargahVPN-%40GozargahVPN&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=naghi-22ee7.kxcdn.com&amp;type=xhttp&amp;allowInsecure=0&amp;sni=naghi-22ee7.kxcdn.com#[9142][NL][0][SS][None][GozargahVPN][2026-09-29][2026-10-28 02:49]
@@ -1964,7 +1952,6 @@ ss://cfe554a3-4cd5-4fe1-9951-e6b65fc52a74@sea-daisy.unity4world.ir:8880?mode=gun
 ss://cffaa00b-1066-452b-ac63-b295866eb7e3@188.114.98.0:2082?mode=auto&amp;path=%2F80c019059926edc2770d8911&amp;security=none&amp;encryption=none&amp;host=5fc66be97c22.darzelo.ir&amp;type=xhttp#[9665][US][0][SS][None][proxy_mtm][2026-10-20][2026-10-28 02:49]
 ss://cffaa00b-1066-452b-ac63-b295866eb7e3@ce2a235202f0.salzivo.ir:443?security=reality&amp;encryption=none&amp;pbk=YY5hl0KAh2xSLvpuKZ0uuYLMQxjqk5RepiLFW3sPjRs&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=annar-erp.com&amp;sid=a2d827dd#[9666][UnResolvedDomains][0][SS][None][proxy_mtm][2026-10-20][2026-10-28 02:49]
 ss://cfffb81e-5034-49ce-8729-18b60c7f1e89@150.241.79.210:443?security=reality&amp;encryption=none&amp;pbk=3J5mYA5NziIVJi77fRsx9dZPYWzLkvaIz-cCdZQvhn8&amp;headerType=none&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=rutube.ru&amp;sid=1a2b#[9667][DE][0][SS][None][Outline_Vpn][2026-09-17][2026-10-28 02:49]
-ss://chacha20-ietf-poly1305:3jh4AaJTlphrzU7THNjvY05I5dyO8rw6@93.119.195.172:12#EPODONIOS
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg%3D%3D@107.151.182.253:8080#%F0%9F%87%BA%F0%9F%87%B8%20%40MrMeshkyChannel%20571946
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg%3D%3D@107.155.57.51:8080#%F0%9F%87%BA%F0%9F%87%B8%20%40MrMeshkyChannel%20596704
 ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg%3D%3D@137.184.174.93:8080#%F0%9F%87%A8%F0%9F%87%A6%20%40MrMeshkyChannel%20714237
@@ -1998,3 +1985,16 @@ ss://cmM0LW1kNToxNGZGUHJiZXpFM0hEWnpzTU9yNg@98.98.79.198:8080#%F0%9F%87%BA%F0%9F
 ss://cmM0LW1kNToxNmZiMTJmZjRlZWJkMTZm@38.54.76.8:11201#%F0%9F%87%A6%F0%9F%87%AA%20%40MrMeshkyChannel%20276056
 ss://cmM0LW1kNTpCb29tQ2xvdWQyMDIw@video.tiktokuu.xyz:663/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D6544-5lUpS8zk54.download.microsoft.com
 ss://cmM0LW1kNTpCb29tQ2xvdWQyMDIw@video.tiktokuu.xyz:664/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D6544-5lUpS8zk54.download.microsoft.com
+ss://cmM0LW1kNTpCb29tQ2xvdWQyMDIw@video.tiktokuu.xyz:735/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3D6544-5lUpS8zk54.download.microsoft.com
+ss://cmM0LW1kNTpCb29tQ2xvdWQyMDIwQHZpZGVvLnRpa3Rva3V1Lnh5ejo2NjM=
+ss://cmM0LW1kNTpCb29tQ2xvdWQyMDIwQHZpZGVvLnRpa3Rva3V1Lnh5ejo2NjQ=
+ss://cmM0LW1kNTpQYW9mdQ==@111.6.86.119:1150#%F0%9F%87%A8%F0%9F%87%B3CN-111.6.86.119-7003
+ss://cmM0LW1kNTpQYW9mdQ==@111.6.86.119:1154#%F0%9F%87%A8%F0%9F%87%B3CN-111.6.86.119-6999
+ss://cmM0LW1kNTpQYW9mdQ==@111.6.86.119:1171#%F0%9F%87%A8%F0%9F%87%B3CN-111.6.86.119-7014
+ss://cmM0LW1kNTpQYW9mdQ==@111.6.86.119:1172#%F0%9F%87%A8%F0%9F%87%B3CN-111.6.86.119-7004
+ss://cmM0LW1kNTpQYW9mdQ==@111.6.86.119:1173#%F0%9F%87%A8%F0%9F%87%B3CN-111.6.86.119-7002
+ss://cmM0LW1kNTpQYW9mdQ==@111.6.86.119:1182#%F0%9F%87%A8%F0%9F%87%B3CN-111.6.86.119-7028
+ss://cmM0LW1kNTpQYW9mdQ==@111.6.86.119:1190#%F0%9F%87%A8%F0%9F%87%B3CN-111.6.86.119-7027
+ss://cmM0LW1kNTpQYW9mdQ==@111.6.86.119:1192#%F0%9F%87%A8%F0%9F%87%B3CN-111.6.86.119-7029
+ss://cmM0LW1kNTpQYW9mdQ==@111.6.86.80:1157#%F0%9F%87%A8%F0%9F%87%B3CN-111.6.86.80-7001
+ss://cmM0LW1kNTpQYW9mdQ==@111.6.86.80:1158#%F0%9F%87%A8%F0%9F%87%B3CN-111.6.86.80-7005
