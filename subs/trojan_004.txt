@@ -1,165 +1,13 @@
-trojan://humanity@104.16.34.14:443?cs=semi-python&path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.trusteeforward.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.trusteeforward.com#4Nika-37be3bcff9
-trojan://humanity@104.16.6.70:443?fp=chrome&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws#4Mohsen-87ef8619ca
-trojan://humanity@104.16.62.25:443/?type=ws&host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org#-%3EPL%2B%28%40DeamNet_Proxy%29%20%2816%29
-trojan://humanity@104.16.65.1:443?allowInsecure=1&sni=www.cordweave.com&type=ws&host=www.cordweave.com&path=/assignment#4Nika-920fa09d8e
-trojan://humanity@104.16.73.213:443?allowInsecure=1&sni=www.ignitelimit.com#4Sarina-823d43cebe
-trojan://humanity@104.16.79.73:443/?type=ws&host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org#-%3EPL%2B%28%40DeamNet_Proxy%29%20%2826%29
-trojan://humanity@104.16.80.73:443/?type=ws&host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org#CA-%3E%2B%28%40DeamNet_Proxy%29%20%287%29
-trojan://humanity@104.16.85.85:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#4Mohsen-1293e813dc
-trojan://humanity@104.16.89.120:443/?type=ws&host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org#-%3EPL%2B%28%40DeamNet_Proxy%29%20%282%29
-trojan://humanity@104.17.0.1:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com&alpn=http/1.1&fp=chrome&ech=cloudflare-ech.com+udp://1.1.1.1#4Jadi-661f0ef3b2
-trojan://humanity@104.17.110.1:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4Mohsen-75b544efc0
-trojan://humanity@104.17.111.1:443?security=tls&sni=www.ignitelimit.com&type=ws&path=%2Fassignment#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-trojan://humanity@104.17.111.3:443?security=tls&sni=www.ignitelimit.com&fp=chrome&type=ws&path=%2Fassignment#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-trojan://humanity@104.17.111.4:443?allowInsecure=1&sni=www.ignitelimit.com#4Jadi-f6fae58bd7
-trojan://humanity@104.17.111.8:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&fp=chrome&type=ws&allowInsecure=0&sni=www.ignitelimit.com#AutoAiVPN874
-trojan://humanity@104.17.116.75:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4Sarina-19a71abafd
-trojan://humanity@104.17.117.104:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4Jadi-387764916b
-trojan://humanity@104.17.119.105:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4Sarina-2014898680
-trojan://humanity@104.17.121.43:443?allowInsecure=1&sni=www.calmlunch.com&type=ws#4Nika-8b5572ddfb
-trojan://humanity@104.17.121.71:443/?type=ws&host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org#-%3EPL%2B%28%40DeamNet_Proxy%29%20%2824%29
-trojan://humanity@104.17.121.9:443/?type=tcp&security=tls&sni=www.calmlunch.com#%F0%9F%8F%81RELAY-104.17.121.9-0483
-trojan://humanity@104.17.131.88:443/?type=ws&host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com&fp=chrome#%3E%3E%40oneclickvpnkeys%3A%3ANL
-trojan://humanity@104.17.135.68:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4Kian-9d81901eda
-trojan://humanity@104.17.145.145:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4Kian-78cf26442b
-trojan://humanity@104.17.145.43:443?allowInsecure=1&sni=www.cordweave.com&type=ws&host=www.cordweave.com&path=/assignment#4Kian-a05db80293
-trojan://humanity@104.17.148.111:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4Mohsen-24780071b2
-trojan://humanity@104.17.155.44:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4Sarina-82d55f86e2
-trojan://humanity@104.17.159.71:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4Kian-79aef11a08
-trojan://humanity@104.17.162.3:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4Nika-c75895459c
-trojan://humanity@104.17.17.238:443?allowInsecure=0&sni=www.cordweave.com&ws=1&wspath=%2Fassignment#4Sarina-3f941e82b3
-trojan://humanity@104.17.175.201:443?fp=chrome&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#4Jadi-c430fd7f94
-trojan://humanity@104.17.177.143:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@Vip_Security join us - 246
-trojan://humanity@104.17.191.193:443?allowInsecure=1&sni=www.cordweave.com&type=ws&host=www.cordweave.com&path=/assignment#4Jadi-6cfc10892b
-trojan://humanity@104.17.206.147:443?alpn=http%2F1.1&fp=unsafe&host=www.trusteeforward.com&path=%2Fassignment&security=tls&sni=www.trusteeforward.com&type=ws#4Nika-e0382ceb1c
-trojan://humanity@104.17.221.194:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4Jadi-0e4022efa2
-trojan://humanity@104.17.28.10:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4Nika-66b680e1fe
-trojan://humanity@104.17.28.254:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4Nika-cbcced4da6
-trojan://humanity@104.17.44.17:443?alpn=http%2F1.1&fp=chrome&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws#4Jadi-7e8838458e
-trojan://humanity@104.17.49.122:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4Mohsen-9922fea185
-trojan://humanity@104.17.61.37:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4Kian-fb18929cdb
-trojan://humanity@104.17.98.29:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4Nika-945e8c7547
-trojan://humanity@104.18.0.1:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4Sarina-a4688d94f2
-trojan://humanity@104.18.10.110:443/?type=ws&host=www.multiplydose.com&path=%2F%2Fassignment&security=tls&sni=www.multiplydose.com#-%3ENL%2B%28%40DeamNet_Proxy%29%20%2842%29
-trojan://humanity@104.18.11.110:443/?type=ws&host=www.multiplydose.com&path=%2Fassignment&security=tls&sni=www.multiplydose.com&allowInsecure=1#%E2%AD%9062%40oneclickvpnkeys
-trojan://humanity@104.18.115.61:443?type=ws&security=tls&host=www.gossipglove.com&path=/assignment&sni=www.gossipglove.com&alpn=h2,http/1.1#AutoAiVPN882
-trojan://humanity@104.18.13.149:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&fp=ios#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2878%29
-trojan://humanity@104.18.15.230:443?sni=www.ignitelimit.com&type=ws&path=/assignment&alpn=h2,http/1.1&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7FR_892%7C855KB%2Fs%7CR002-260618%2001
-trojan://humanity@104.18.151.172:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4FreeIran-b0cc4a0ee6
-trojan://humanity@104.18.152.103:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2839%29
-trojan://humanity@104.18.152.108:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%28131%29
-trojan://humanity@104.18.152.113:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2835%29
-trojan://humanity@104.18.152.133:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2813%29
-trojan://humanity@104.18.152.140:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1&fp=chrome#-%3EFR%2B%28%40DeamNet_Proxy%29%20%283%29
-trojan://humanity@104.18.152.143:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%28103%29
-trojan://humanity@104.18.152.144:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1&fp=chrome#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2851%29
-trojan://humanity@104.18.152.149:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2844%29
-trojan://humanity@104.18.152.152:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3E%2B%28%40DeamNet_Proxy%29%20%2829%29
-trojan://humanity@104.18.152.155:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%28153%29
-trojan://humanity@104.18.152.159:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1&fp=chrome#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2821%29
-trojan://humanity@104.18.152.161:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2850%29
-trojan://humanity@104.18.152.175:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%28148%29
-trojan://humanity@104.18.152.179:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2819%29
-trojan://humanity@104.18.152.187:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%28151%29
-trojan://humanity@104.18.152.204:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%28127%29
-trojan://humanity@104.18.152.207:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2811%29
-trojan://humanity@104.18.152.208:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2883%29
-trojan://humanity@104.18.152.210:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2829%29
-trojan://humanity@104.18.152.219:443?allowInsecure=1&sni=www.ignitelimit.com#4Mohsen-ff7c7d713d
-trojan://humanity@104.18.152.230:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2822%29
-trojan://humanity@104.18.152.233:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1&fp=chrome#%40nekopingbot_7831
-trojan://humanity@104.18.152.244:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2812%29
-trojan://humanity@104.18.152.246:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1&fp=chrome#%40nekopingbot_7804
-trojan://humanity@104.18.152.50:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%28137%29
-trojan://humanity@104.18.152.73:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2861%29
-trojan://humanity@104.18.152.77:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%28143%29
-trojan://humanity@104.18.152.97:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2820%29
-trojan://humanity@104.18.189.153:443?allowInsecure=1&sni=www.cordweave.com&type=ws&host=www.cordweave.com&path=/assignment#4Mohsen-2133b4f588
-trojan://humanity@104.18.19.2:443?host=www.calmlunch.com&path=%2F%252Fassignment&security=tls&sni=www.calmlunch.com&type=ws&fp=unsafe&cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&fm=%7B%22tcp%22%3A+%5B%7B%22type%22%3A+%22fragment%22%2C+%22settings%22%3A+%7B%22packets%22%3A+%22tlshello%22%2C+%22lengths%22%3A+%5B%220%22%2C+%22104%22%2C+%221%22%5D%2C+%22delays%22%3A+%5B%220%22%5D%2C+%22maxSplit%22%3A+%220%22%7D%7D%2C%7B%22type%22%3A+%22fragment%22%2C+%22settings%22%3A+%7B%22packets%22%3A+%221-1%22%2C+%22lengths%22%3A+%5B%22114%22%2C+%221%22%5D%2C+%22delays%22%3A+%5B%221%22%5D%2C+%22maxSplit%22%3A+%2211%22%7D%7D%5D%7D#4Jadi-a67ccea778
-trojan://humanity@104.18.192.53:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/assignment&security=tls&insecure=0&host=www.pleadcourt.org&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#4721.%20TROJAN%20%7C%20SNI%3A%20www.pleadcourt.org%20%7C%20TG%3A%20%40wlrustg
-trojan://humanity@104.18.22.208:443?security=tls&sni=www.multiplydose.com&type=ws&path=/assignment&Host=www.multiplydose.com#%F0%9F%8F%81RELAY-104.18.22.208-1131
-trojan://humanity@104.18.22.63:443?allowInsecure=1&sni=www.ignitelimit.com#4Mohsen-f6180f5fe3
-trojan://humanity@104.18.223.253:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4Nika-6a49b59105
-trojan://humanity@104.18.23.63:443?security=tls&sni=www.ignitelimit.com&fp=chrome&type=ws&path=%2Fassignment#FR%E6%B3%95%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-trojan://humanity@104.18.24.120:443?security=tls&sni=www.pleadcourt.org&type=ws&path=%2Fassignment&fp=chrome&allowInsecure=0#4Sarina-24363db8b5
-trojan://humanity@104.18.25.120:443?security=tls&sni=www.pleadcourt.org&type=ws&path=%2Fassignment&fp=chrome&allowInsecure=0#4Kian-1e41c7d614
-trojan://humanity@104.18.255.167:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4Kian-8b02ed9a9f
-trojan://humanity@104.18.28.234:443?sni=www.calmlunch.com&type=ws#4FreeIran-53daa00a9a
-trojan://humanity@104.18.32.37:443/?type=ws&host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com#CA-%3EFR%2B%28%40DeamNet_Proxy%29%20%283%29
-trojan://humanity@104.18.33.121:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4Jadi-65bf3d49ad
-trojan://humanity@104.18.33.97:443?allowInsecure=0&sni=www.calmlunch.com&ws=1&wspath=%2F%2Fassignment#4FreeIran-baca36089f
-trojan://humanity@104.18.35.31:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4Sarina-c6a69f5231
-trojan://humanity@104.18.35.86:443?path=%2Fassignment&amp;security=tls&amp;alpn=http%2F1.1&amp;fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%5D%7D%7D%5D%7D&amp;insecure=0&amp;host=www.volumerOot.coM.&amp;type=ws&amp;allowInsecure=0&amp;sni=www.volumerOot.coM.#[1254][US][0][TROJAN][None][prrofile_purple][2026-10-03][2026-10-31 02:59]
-trojan://humanity@104.18.37.127:443?alpn=http%2F1.1&amp;fp=chrome&amp;host=www.trusteeforward.com&amp;path=%2Fassignment&amp;sni=www.trusteeforward.com&amp;type=ws#[1260][US][0][TROJAN][None][oneclickvpnkeys][2026-10-30][2026-10-31 02:59]
-trojan://humanity@104.18.38.127:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4Jadi-1c9a8a61a2
-trojan://humanity@104.18.39.55:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4Nika-1ebc4a9f97
-trojan://humanity@104.18.4.5:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%220%22%2C%20%22104%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22114%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%2211%22%7D%7D%5D%7D&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#4FreeIran-20977e7854
-trojan://humanity@104.18.41.167:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4Kian-76e767744a
-trojan://humanity@104.18.42.190:443?allowInsecure=1&sni=www.cordweave.com&type=ws&host=www.cordweave.com&path=/assignment#4Nika-d76b1d49cc
-trojan://humanity@104.18.45.38:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/assignment&security=tls&alpn=http/1.1&insecure=0&host=www.trusteeforward.com&type=ws&allowInsecure=0&sni=www.trusteeforward.com#4Jadi-5ac363c9cc
-trojan://humanity@104.18.46.127:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4FreeIran-c45abd0817
-trojan://humanity@104.18.46.59:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4Mohsen-fa2ae0ddbf
-trojan://humanity@104.18.47.138:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4Mohsen-db574aabd3
-trojan://humanity@104.18.49.85:443?cs=semi-python&path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.trusteeforward.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.trusteeforward.com#4Sarina-7abb58408a
-trojan://humanity@104.18.7.147:443?allowInsecure=1&fp=chrome&host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#AutoAiVPN898
-trojan://humanity@104.18.72.213:443?allowInsecure=0&sni=www.cordweave.com&ws=1&wspath=%2Fassignment#4Sarina-6b49288e38
-trojan://humanity@104.18.8.83:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2840%29
-trojan://humanity@104.18.89.52:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4Mohsen-e452423da4
-trojan://humanity@104.18.9.83:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com#4FreeIran-88fbf2e2d3
-trojan://humanity@104.19.0.1:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4Jadi-236c5c2337
-trojan://humanity@104.19.154.200:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4Mohsen-f902d76126
-trojan://humanity@104.19.2.175:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1#%40V2raySup0%F0%9F%9A%80%E2%9C%85
-trojan://humanity@104.19.208.184:443/?type=ws&host=www.multiplydose.com&path=%2F%252Fassignment&security=tls&sni=www.multiplydose.com#%3E%3E%40oneclickvpnkeys%3A%3ANL%20%287%29
-trojan://humanity@104.19.212.207:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4Jadi-be17222363
-trojan://humanity@104.19.247.110:443?sni=www.calmlunch.com&type=ws#4Sarina-2011a9e497
-trojan://humanity@104.19.34.37:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4FreeIran-1694044845
-trojan://humanity@104.19.43.102:443?allowInsecure=1&sni=www.cordweave.com&type=ws&host=www.cordweave.com&path=/assignment#4Nika-4d9fb29779
-trojan://humanity@104.19.46.152:443?allowInsecure=0&sni=www.cordweave.com&ws=1&wspath=%2Fassignment#4Sarina-575a5f489e
-trojan://humanity@104.19.48.73:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4Mohsen-a41482cf32
-trojan://humanity@104.19.53.114:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4FreeIran-494c8a5283
-trojan://humanity@104.19.56.198:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4Jadi-b0b6b807a0
-trojan://humanity@104.19.64.105:443?allowInsecure=1&sni=www.calmlunch.com#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20%7C%20USA%20%236
-trojan://humanity@104.19.95.153:443?host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#CA 🇨🇦 | @Raydikalx | EA07E3
-trojan://humanity@104.20.42.250:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1&fp=ios#%3E%3E%40configV2rayNG%3A%3AFR
-trojan://humanity@104.20.55.137:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&amp;path=%2Fassignment&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;host=www.trusteeforward.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.trusteeforward.com#@GozargahAzad|
-trojan://humanity@104.20.61.103:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&amp;path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmlunch.com#%F0%9F%87%A8%F0%9F%87%A6203977%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-trojan://humanity@104.21.0.1:443?path=%2Fassignment%3Fed&security=tls&host=www.calmlunch.com&type=ws&sni=www.calmlunch.com#4Kian-c7176064a1
-trojan://humanity@104.21.102.36:443?alpn=http%2F1.1&fp=chrome&host=www.trusteeforward.com&path=%2Fassignment%3FTELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM&security=tls&sni=www.trusteeforward.com&type=ws#4Sarina-c26d4f3a3a
-trojan://humanity@104.21.103.254:443?allowInsecure=1&sni=www.calmlunch.com&type=ws#4Mohsen-743634a769
-trojan://humanity@104.21.13.204:443?allowInsecure=1&insecure=1&security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#4Sarina-595948fa49
-trojan://humanity@104.21.37.56:443?path=%2Fassignment&security=tls&alpn=h3%2C%20h2%2C%20http%2F1.1&insecure=0&host=www.volumeroot.com&fp=ios&type=ws&allowInsecure=0&sni=www.volumeroot.com#@Vip_Security join us - 264
-trojan://humanity@104.21.40.34:443/?type=ws&host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com&allowInsecure=1#%3E%3E%40FreakConfig%3A%3ANL
-trojan://humanity@104.21.46.3:443?sni=www.ignitelimit.com&type=ws&path=/assignment&alpn=h3,h2,http/1.1&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7FR_360%7C1.8MB%2Fs%7CS004-260618%2001
-trojan://humanity@104.21.57.25:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%220%22%2C%20%22104%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22114%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%2211%22%7D%7D%5D%7D&insecure=0&host=www.volumeroot.com&type=ws&allowInsecure=0&sni=www.volumeroot.com#4FreeIran-461105e8df
-trojan://humanity@104.21.8.107:443?security=tls&sni=www.ignitelimit.com&fp=chrome&type=ws&path=%2Fassignment#US%E7%BE%8E%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
-trojan://humanity@104.24.144.224:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4FreeIran-39440c16b4
-trojan://humanity@104.25.0.1:443?alpn=http%2F1.1&fp=chrome&path=%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#4Mohsen-84377b493b
-trojan://humanity@104.25.10.54:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&cs=semi-python&path=/assignment&security=tls&alpn=http/1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#4742.%20TROJAN%20%7C%20SNI%3A%20www.pleadcourt.org%20%7C%20TG%3A%20%40wlrustg
-trojan://humanity@104.25.108.234:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#
-trojan://humanity@104.25.109.237:443?allowInsecure=1&insecure=1&security=tls&sni=www.calmlunch.com&type=ws&path=%2Fassignment#4Sarina-2a35fdbc30
-trojan://humanity@104.25.124.54:443?path=%2F%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#4Sarina-dcf22bb81e
-trojan://humanity@104.25.238.196:443?cs=semi-python&amp;path=%2Fassignment%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&amp;security=tls&amp;fm=tlshello-0-len&amp;insecure=0&amp;host=www.trusteeforward.com&amp;fp=unsafe&amp;type=ws&amp;allowInsecure=0&amp;sni=www.trusteeforward.com#[1294][US][0][TROJAN][None][ConfigsHUB][2026-10-31][2026-10-31 02:59]
-trojan://humanity@104.25.240.193:443?sni=www.calmlunch.com&type=ws#4Jadi-d949c505d9
-trojan://humanity@104.25.60.205:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4FreeIran-7b07cc38da
-trojan://humanity@104.26.0.1:443?allowInsecure=1&insecure=1&security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment&alpn=http/1.1&fp=chrome&ech=cloudflare-ech.com+udp://1.1.1.1#%F0%9F%87%A8%F0%9F%87%A6203122%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
-trojan://humanity@104.26.14.137:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#%3E%3E%40oneclickvpnkeys%3A%3AFR%20%2813%29
-trojan://humanity@104.26.3.162:443?allowInsecure=1&sni=www.cordweave.com&type=ws&host=www.cordweave.com&path=/assignment#4Kian-e8e45bc2c5
-trojan://humanity@104.26.6.159:443?path=%2Fassignment&security=tls&insecure=0&host=www.creationlong.org&type=ws&allowInsecure=0&sni=www.creationlong.org#@Vip_Security join us - 266
-trojan://humanity@104.27.0.1:443?path=//assignment?TELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM&security=tls&alpn=http/1.1&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com&fp=chrome&ech=cloudflare-ech.com+udp://1.1.1.1#4Mohsen-c6623f1be6
-trojan://humanity@104.27.201.80:443?allowInsecure=1&insecure=1&security=tls&sni=www.pleadcourt.org&type=ws&host=www.pleadcourt.org&path=%2Fassignment#%E7%BE%8E%E5%9B%BD%28yudou99.com%20%E7%8E%89%E8%B1%86%E5%88%86%E4%BA%AB%29
-trojan://humanity@104.27.203.207:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&path=/assignment?ed#CA 🇨🇦 | @Raydikalx | 46EC70
-trojan://humanity@104.27.55.4:443?allowInsecure=1&sni=www.cordweave.com&type=ws&host=www.cordweave.com&path=/assignment#4Kian-de5a499046
-trojan://humanity@108.162.194.134:443?Telegram=@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad,@GozargahAzad&amp;path=%2Fassignment%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&amp;security=tls&amp;insecure=0&amp;host=www.pleadcourt.org&amp;type=ws&amp;allowInsecure=0&amp;sni=www.pleadcourt.org#@GozargahAzad|
 trojan://humanity@108.165.236.229:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4Jadi-c12d1fa3f2
 trojan://humanity@109.234.211.232:443?allowInsecure=0&insecure=0&type=ws&security=tls&path=%2Fassignment&host=www.pleadcourt.org&sni=www.pleadcourt.org&fp=chrome&alpn=http/1.1#4FreeIran-870cd7460a
-trojan://humanity@109.248.170.245:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4Sarina-dc9cb61438
+trojan://humanity@109.248.170.245:443?allowInsecure=1&sni=www.cordweave.com#%F0%9F%87%B3%F0%9F%87%B1%20%E8%8D%B7%E5%85%B0%20%7C%20NLD%20%235
 trojan://humanity@125.7.24.251:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4Sarina-5f99edf040
 trojan://humanity@127.0.0.1:40443?path=%2Fassignment&security=tls&alpn=http%2F1.1&host=www.calmloud.com&type=ws&sni=www.calmloud.com#@Vip_Security join us - 267
 trojan://humanity@128.199.128.117:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4Kian-037d9bba2a
 trojan://humanity@129.225.185.49:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4Mohsen-18c4bc5ffc
 trojan://humanity@130.12.46.156:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4FreeIran-44a7b4742d
 trojan://humanity@130.250.137.171:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#4Jadi-f97f40d96b
-trojan://humanity@130.78.185.4:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4Nika-f4be0fad2a
+trojan://humanity@130.78.185.4:443?allowInsecure=1&sni=www.cordweave.com#%F0%9F%87%B3%F0%9F%87%B1%20%E8%8D%B7%E5%85%B0%20%7C%20NLD%20%236
 trojan://humanity@131.196.253.141:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4Kian-741a02beb6
 trojan://humanity@131.196.254.151:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4Sarina-bcfa21fe8f
 trojan://humanity@138.124.231.159:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4Sarina-1278ba92a7
@@ -175,7 +23,7 @@ trojan://humanity@141.193.213.21:443/?type=ws&host=www.calmloud.com&path=%2Fassi
 trojan://humanity@141.193.213.30:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%40vmesskhodam%20%282%29
 trojan://humanity@141.98.41.20:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4Mohsen-5ee7620b03
 trojan://humanity@143.110.175.165:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4Kian-10b8932081
-trojan://humanity@143.198.106.68:443?allowInsecure=1&sni=www.cordweave.com&ws=1&wspath=%2Fassignment#%F0%9F%87%B3%F0%9F%87%B1%20%E8%8D%B7%E5%85%B0%20%7C%20NLD
+trojan://humanity@143.198.106.68:443?allowInsecure=1&sni=www.cordweave.com#%F0%9F%87%B3%F0%9F%87%B1%20%E8%8D%B7%E5%85%B0%20%7C%20NLD%20%2328
 trojan://humanity@143.246.223.110:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4Mohsen-62baba09fc
 trojan://humanity@144.31.120.77:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4Sarina-4c375544b7
 trojan://humanity@144.31.182.130:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#@Vip_Security join us - 385
@@ -191,20 +39,20 @@ trojan://humanity@157.245.159.88:443?allowInsecure=1&sni=www.cordweave.com&type=
 trojan://humanity@161.35.192.122:443?allowInsecure=0&sni=www.pleadcourt.org&alpn=http/1.1&type=ws&host=www.pleadcourt.org&path=/assignment#%F0%9F%87%B3%F0%9F%87%B1%5Bwww.v2nodes.com%5D%20trojan-NL-...%20%231
 trojan://humanity@162.159.133.152:443?host=www.pleadcourt.org&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws#4Nika-f879ceefe3
 trojan://humanity@162.159.136.234:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#@Vip_Security join us - 280
-trojan://humanity@162.159.140.245:443?path=%2Fassignment%3Fed%23Telegram---MTMVPN---MTMVPN---MTMVPN---MTMVPN&amp;security=tls&amp;insecure=0&amp;host=www.calmlunch.com&amp;ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmlunch.com&amp;fp=unsafe&amp;cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&amp;fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%220%22%2C%20%22104%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22114%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%2211%22%7D%7D%5D%7D#%F0%9F%87%A8%F0%9F%87%A6203893%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+trojan://humanity@162.159.140.245:443?path=%2Fassignment%3Fed%23Telegram---MTMVPN---MTMVPN---MTMVPN---MTMVPN&amp;security=tls&amp;insecure=0&amp;host=www.calmlunch.com&amp;ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmlunch.com&amp;fp=unsafe&amp;cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&amp;fm=%7B%22tcp%22%3A+%5B%7B%22type%22%3A+%22fragment%22%2C+%22settings%22%3A+%7B%22packets%22%3A+%22tlshello%22%2C+%22lengths%22%3A+%5B%220%22%2C+%22104%22%2C+%221%22%5D%2C+%22delays%22%3A+%5B%220%22%5D%2C+%22maxSplit%22%3A+%220%22%7D%7D%2C%7B%22type%22%3A+%22fragment%22%2C+%22settings%22%3A+%7B%22packets%22%3A+%221-1%22%2C+%22lengths%22%3A+%5B%22114%22%2C+%221%22%5D%2C+%22delays%22%3A+%5B%221%22%5D%2C+%22maxSplit%22%3A+%2211%22%7D%7D%5D%7D#%F0%9F%87%AB%F0%9F%87%B7%20France%20Paris%20%7C%20%E2%8F%B1947ms%20%7C%20%E2%9A%A1971KB%2Fs%20%7C%20%40NamazVPN
 trojan://humanity@162.159.149.157:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4Sarina-7e115e8c61
 trojan://humanity@162.159.150.241:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4Nika-444081c127
 trojan://humanity@162.159.153.4:443?security=tls&sni=www.calmloud.com&type=ws&path=/assignment&Host=www.calmloud.com#%F0%9F%8F%81RELAY-162.159.153.4-1035
 trojan://humanity@162.159.17.189:443/?type=ws&host=www.multiplydose.com&path=%2Fassignment&security=tls&sni=www.multiplydose.com&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ANL%20%286%29
 trojan://humanity@162.159.193.22:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1&fp=chrome#-%3EFR%2B%28%40DeamNet_Proxy%29%20%28100%29
 trojan://humanity@162.159.228.224:443?cs=TLS_AES_256_GCM_SHA384%3ATLS_CHACHA20_POLY1305_SHA256%3ATLS_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384%3ATLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256%3ATLS_ECDHE_ECDSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_RSA_WITH_CHACHA20_POLY1305_SHA256%3ATLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_RSA_WITH_AES_256_CBC_SHA%3ATLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256%3ATLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256&path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=%7B%22tcp%22%3A+%5B%7B%22type%22%3A+%22fragment%22%2C+%22settings%22%3A+%7B%22packets%22%3A+%22tlshello%22%2C+%22lengths%22%3A+%5B%225%22%2C+%2294%22%2C+%221%22%5D%2C+%22delays%22%3A+%5B%220%22%5D%2C+%22maxSplit%22%3A+%220%22%7D%7D%2C%7B%22type%22%3A+%22fragment%22%2C+%22settings%22%3A+%7B%22packets%22%3A+%221-1%22%2C+%22lengths%22%3A+%5B%22109%22%2C+%221%22%5D%2C+%22delays%22%3A+%5B%221%22%5D%2C+%22maxSplit%22%3A+%22355%22%7D%7D%5D%7D&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#4Jadi-f9a1d7e954
-trojan://humanity@162.159.236.79:443?type=ws&amp;path=%252Fassignment&amp;host=www.calmlunch.com&amp;security=tls&amp;sni=www.calmlunch.com#
+trojan://humanity@162.159.236.79:443?type=ws&amp;path=%252Fassignment&amp;host=www.calmlunch.com&amp;security=tls&amp;sni=www.calmlunch.com#%F0%9F%87%A8%F0%9F%87%A6203976%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
 trojan://humanity@162.159.244.91:443?allowInsecure=1&sni=www.calmlunch.com&type=ws#4Sarina-78b8212224
 trojan://humanity@162.159.253.41:443?allowInsecure=1&sni=www.calmlunch.com&type=ws#4FreeIran-bf34ac32b0
 trojan://humanity@162.159.254.191:443?security=tls&sni=www.ignitelimit.com&fp=chrome&type=ws&path=%2Fassignment#FR%E6%B3%95%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 trojan://humanity@162.159.36.20:443?allowInsecure=0&sni=www.calmlunch.com&type=ws&path=%2Fassignment#4FreeIran-5bf43c8ecb
 trojan://humanity@162.159.45.1:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4Jadi-668b74036f
-trojan://humanity@162.159.58.65:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4FreeIran-53aa6e9069
+trojan://humanity@162.159.58.65:443?allowInsecure=1&sni=www.cordweave.com#%F0%9F%87%B3%F0%9F%87%B1%20%E8%8D%B7%E5%85%B0%20%7C%20NLD%20%231
 trojan://humanity@162.159.61.183:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4Nika-fda2fb5ba3
 trojan://humanity@162.159.84.189:443?host=www.trusteeforward.com&path=%2Fassignment&security=tls&sni=www.trusteeforward.com&type=ws#CA 🇨🇦 | @Raydikalx | 837FD9
 trojan://humanity@162.159.91.211:443?allowInsecure=1&sni=www.calmlunch.com#%F0%9F%87%BA%F0%9F%87%B8%20%E7%BE%8E%E5%9B%BD%20%7C%20USA%20%232
@@ -214,12 +62,12 @@ trojan://humanity@165.215.250.14:443#4Kian-05ff6cf82a
 trojan://humanity@165.22.102.89:443?allowInsecure=1&sni=www.cordweave.com&type=ws&host=www.cordweave.com&path=/assignment#4Mohsen-40d9f61bfe
 trojan://humanity@165.22.89.207:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4Kian-ddad6690fc
 trojan://humanity@166.1.36.83:443/?type=ws&host=www.calmlunch.com&path=%2Fassignment&security=tls&sni=www.calmlunch.com#4Mohsen-64d318ffdd
-trojan://humanity@168.143.108.38:443?allowInsecure=1&sni=www.cordweave.com&ws=1&wspath=%2Fassignment#%F0%9F%87%B3%F0%9F%87%B1%20%E8%8D%B7%E5%85%B0%20%7C%20NLD
+trojan://humanity@168.143.108.38:443?allowInsecure=1&sni=www.cordweave.com#%F0%9F%87%B3%F0%9F%87%B1%20%E8%8D%B7%E5%85%B0%20%7C%20NLD%20%2317
 trojan://humanity@168.144.41.69:443?allowInsecure=1&sni=www.cordweave.com&type=ws&host=www.cordweave.com&path=/assignment#4Jadi-1e07f60bde
 trojan://humanity@168.235.125.93:443?path=%2Fassignment&amp;security=tls&amp;alpn=http%2F1.1&amp;type=ws&amp;sni=www.pleadcourt.org#[1359][US][0][TROJAN][None][vpn_ioss][2026-10-25][2026-10-31 02:59]
 trojan://humanity@169.58.44.174:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4Mohsen-a1ab7ecf35
-trojan://humanity@172.104.185.40:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4Mohsen-6fd072433c
-trojan://humanity@172.237.0.160:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4FreeIran-e09c9e50b9
+trojan://humanity@172.104.185.40:443?allowInsecure=1&sni=www.cordweave.com#%F0%9F%87%B3%F0%9F%87%B1%20%E8%8D%B7%E5%85%B0%20%7C%20NLD%20%2323
+trojan://humanity@172.237.0.160:443?allowInsecure=1&sni=www.cordweave.com#%F0%9F%87%B3%F0%9F%87%B1%20%E8%8D%B7%E5%85%B0%20%7C%20NLD%20%237
 trojan://humanity@172.64.145.133:443?allowInsecure=1&sni=www.pleadcourt.org&type=ws#4FreeIran-c61b2ce233
 trojan://humanity@172.64.147.166:443/?type=ws&host=www.multiplydose.com&path=%2Fassignment&security=tls&sni=www.multiplydose.com#%3E%3E%40oneclickvpnkeys%3A%3ANL%20%2810%29
 trojan://humanity@172.64.147.24:443/?type=ws&host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com&allowInsecure=1#%3E%3E%40oneclickvpnkeys%3A%3ANL%20%284%29
@@ -227,7 +75,7 @@ trojan://humanity@172.64.148.230:443?allowInsecure=1&sni=www.cordweave.com&type=
 trojan://humanity@172.64.149.78:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4Sarina-406ceeb4e4
 trojan://humanity@172.64.150.181:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4Nika-502fdebd09
 trojan://humanity@172.64.150.28:443?allowInsecure=1&insecure=1&security=tls&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#%E7%BE%8E%E5%9B%BD%28yudou99.com%20%E7%8E%89%E8%B1%86%E5%88%86%E4%BA%AB%29
-trojan://humanity@172.64.151.20:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4Nika-f3ac19ef83
+trojan://humanity@172.64.151.20:443?allowInsecure=1&sni=www.cordweave.com#%F0%9F%87%B3%F0%9F%87%B1%20%E8%8D%B7%E5%85%B0%20%7C%20NLD%20%2326
 trojan://humanity@172.64.151.23:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4Nika-cf67f75340
 trojan://humanity@172.64.152.38:443/?type=ws&host=www.multiplydose.com&path=%2Fassignment&security=tls&sni=www.multiplydose.com&fp=chrome#CA-%3ENL%2B%28%40DeamNet_Proxy%29%20%288%29
 trojan://humanity@172.64.153.224:443?allowInsecure=1&sni=www.cordweave.com&type=ws&host=www.cordweave.com&path=/assignment#4Sarina-3c854972db
@@ -250,7 +98,7 @@ trojan://humanity@172.66.44.211:443/?type=ws&host=www.creationlong.org&path=%2Fa
 trojan://humanity@172.66.47.69:443/?type=ws&host=www.multiplydose.com&path=%2Fassignment&security=tls&sni=www.multiplydose.com#%3E%3E%40hope_net%3A%3ANL
 trojan://humanity@172.67.139.14:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=%7B%22tcp%22%3A%20%5B%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%22tlshello%22%2C%20%22lengths%22%3A%20%5B%220%22%2C%20%22104%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%220%22%5D%2C%20%22maxSplit%22%3A%20%220%22%7D%7D%2C%7B%22type%22%3A%20%22fragment%22%2C%20%22settings%22%3A%20%7B%22packets%22%3A%20%221-1%22%2C%20%22lengths%22%3A%20%5B%22114%22%2C%20%221%22%5D%2C%20%22delays%22%3A%20%5B%221%22%5D%2C%20%22maxSplit%22%3A%20%2211%22%7D%7D%5D%7D&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#@Vip_Security join us - 292
 trojan://humanity@172.67.155.199:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&fp=ios#-%3EFR%2B%28%40DeamNet_Proxy%29%20%2866%29
-trojan://humanity@172.67.156.116:443?type=ws&amp;path=%252F%252Fassignment&amp;host=www.calmlunch.com&amp;security=tls&amp;sni=www.calmlunch.com&amp;alpn=http%2F1.1#%F0%9F%87%A8%F0%9F%87%A6203891%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me%2FSOSkeyNET
+trojan://humanity@172.67.156.116:443?host=www.calmlunch.com&path=%2F%2Fassignment&security=tls&sni=www.calmlunch.com&type=ws#CA 🇨🇦 | @Raydikalx | 6B906E
 trojan://humanity@172.67.161.247:443?cs=semi-python&amp;path=%2Fassignment%3FTELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM&amp;security=tls&amp;alpn=http%2F1.1&amp;fm=tlshello-0-len&amp;insecure=0&amp;host=www.trusteeforward.com&amp;fp=unsafe&amp;type=ws&amp;allowInsecure=0&amp;sni=www.trusteeforward.com#[1420][US][0][TROJAN][None][ConfigsHUB][2026-10-31][2026-10-31 02:59]
 trojan://humanity@172.67.162.58:443?sni=www.calmlunch.com&type=ws#4Kian-43fa696899
 trojan://humanity@172.67.180.92:443/?type=ws&host=www.multiplydose.com&path=%2Fassignment&security=tls&sni=www.multiplydose.com&allowInsecure=1#%F0%9F%93%A557%40oneclickvpnkeys
@@ -264,7 +112,7 @@ trojan://humanity@172.67.64.188:443?alpn=http%2F1.1&fp=unsafe&host=www.trusteefo
 trojan://humanity@172.67.67.89:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4Kian-57d8d89a64
 trojan://humanity@172.67.74.177:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4Nika-7e3528c10e
 trojan://humanity@172.67.74.2:443?security=tls&sni=www.ignitelimit.com&type=ws&path=/assignment&Host=www.ignitelimit.com#%F0%9F%8F%81RELAY-172.67.74.2-0995
-trojan://humanity@172.67.89.103:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4Kian-87ceaa604f
+trojan://humanity@172.67.89.103:443?allowInsecure=1&sni=www.cordweave.com#%F0%9F%87%B3%F0%9F%87%B1%20%E8%8D%B7%E5%85%B0%20%7C%20NLD%20%239
 trojan://humanity@172.67.94.180:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4FreeIran-a30cf81eea
 trojan://humanity@178.128.45.156:443?allowInsecure=1&sni=www.pleadcourt.org&type=ws&host=www.pleadcourt.org&path=/assignment#4Jadi-ed583d6dc5
 trojan://humanity@178.93.160.132:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4FreeIran-b4237c36b6
@@ -275,16 +123,16 @@ trojan://humanity@179.255.136.189:443?allowInsecure=1&sni=www.cordweave.com&type
 trojan://humanity@179.255.157.247:8443?allowInsecure=1&sni=www.cordweave.com&type=ws&host=www.cordweave.com&path=/assignment#4FreeIran-ac224e7624
 trojan://humanity@185.112.249.201:8443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4Sarina-501bcd56fe
 trojan://humanity@185.114.72.31:2053?allowInsecure=0&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#ES 🇪🇸 | @Raydikalx | BA5F0D
-trojan://humanity@185.146.234.242:443?allowInsecure=1&sni=www.cordweave.com&ws=1&wspath=%2Fassignment#%F0%9F%87%B3%F0%9F%87%B1%20%E8%8D%B7%E5%85%B0%20%7C%20NLD
+trojan://humanity@185.146.234.242:443?allowInsecure=1&sni=www.cordweave.com#%F0%9F%87%B3%F0%9F%87%B1%20%E8%8D%B7%E5%85%B0%20%7C%20NLD%20%233
 trojan://humanity@185.18.250.245:443/?type=tcp&security=tls&sni=www.calmlunch.com#%F0%9F%8C%90%20TCP-TLS%20%7C%20%40Trick_mobil%20%2814%29
-trojan://humanity@185.22.172.249:443?path=%2Fassignment&amp;security=tls&amp;fm=tlshello-0-len&amp;insecure=0&amp;host=www.pleadcourt.org&amp;fp=unsafe&amp;type=ws&amp;allowInsecure=0&amp;sni=www.pleadcourt.org#
+trojan://humanity@185.22.172.249:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#4Sarina-a94ac6c8ad
 trojan://humanity@185.220.100.168:443?allowInsecure=0&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#%F0%9F%87%AB%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20trojan-FR-...%20%236
 trojan://humanity@185.225.205.75:8443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4Mohsen-bc2a6dd1d7
 trojan://humanity@185.225.68.232:443?allowInsecure=0&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=/assignment#%F0%9F%87%AB%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20trojan-FR-...%20%231
 trojan://humanity@185.230.44.62:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#4Mohsen-17fee1a929
 trojan://humanity@185.231.112.217:40443/?type=ws&host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org#%40fastkanfig%20%287%29
 trojan://humanity@185.233.184.66:2053?sni=www.calmlunch.com&type=ws#4Nika-90dfd1076e
-trojan://humanity@185.234.114.165:443?allowInsecure=1&sni=www.cordweave.com&ws=1&wspath=%2Fassignment#%F0%9F%87%B0%F0%9F%87%BF%20%E5%93%88%E8%90%A8%E5%85%8B%E6%96%AF%E5%9D%A6%20%7C%20KAZ
+trojan://humanity@185.234.114.165:443?allowInsecure=1&sni=www.cordweave.com#%F0%9F%87%B0%F0%9F%87%BF%20%E5%93%88%E8%90%A8%E5%85%8B%E6%96%AF%E5%9D%A6%20%7C%20KAZ%20%231
 trojan://humanity@185.243.112.197:443?sni=www.calmlunch.com&type=ws#4Sarina-88e1b7ca3d
 trojan://humanity@185.255.179.166:443?allowInsecure=0&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=/assignment#%F0%9F%87%AB%F0%9F%87%B7%5Bwww.v2nodes.com%5D%20trojan-FR-...
 trojan://humanity@185.36.141.81:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#4Nika-ea5f4253f1
@@ -316,7 +164,7 @@ trojan://humanity@198.202.211.1:443?Telegram=@GozargahAzad,@GozargahAzad,@Gozarg
 trojan://humanity@198.41.216.1:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4Jadi-d201754ddb
 trojan://humanity@198.41.223.96:443?sni=www.ignitelimit.com&type=ws&path=/assignment&alpn=http/1.1,h2,h3&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7FR_2112%7C620KB%2Fs%7CC002-260622%2001
 trojan://humanity@198.62.62.23:443/?type=tcp&security=tls&sni=www.calmlunch.com#%F0%9F%87%BA%F0%9F%87%B8US-198.62.62.23-0482
-trojan://humanity@199.119.137.32:8443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4FreeIran-bd83f56eee
+trojan://humanity@199.119.137.32:8443?allowInsecure=1&sni=www.cordweave.com#%F0%9F%87%B3%F0%9F%87%B1%20%E8%8D%B7%E5%85%B0%20%7C%20NLD%20%2312
 trojan://humanity@199.181.197.111:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1#%3E%3E%40ShadowsocksM%3A%3AFR
 trojan://humanity@199.181.197.169:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1#%F0%9F%8F%A092%40oneclickvpnkeys
 trojan://humanity@199.181.197.228:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1#%3E%3E%40ShadowsocksM%3A%3AFR%20%283%29
@@ -326,10 +174,10 @@ trojan://humanity@2.144.22.10:40443?path=%2Fassignment&security=tls&insecure=1&h
 trojan://humanity@201.24.57.254:2053?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4FreeIran-0c569c8ecb
 trojan://humanity@202.37.33.80:443/?type=ws&host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org#%40internet_azad_2026%20%2828%29
 trojan://humanity@202.50.55.76:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4Sarina-e2d745c227
-trojan://humanity@202.61.198.53:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4Nika-c3222a2d82
+trojan://humanity@202.61.198.53:443?allowInsecure=1&sni=www.cordweave.com#%F0%9F%87%B3%F0%9F%87%B1%20%E8%8D%B7%E5%85%B0%20%7C%20NLD%20%234
 trojan://humanity@203.202.232.211:443?path=%2Fassignment&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;host=www.volumeroot.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.volumeroot.com#[1631][TR][0][TROJAN][None][shh_proxy][2026-10-07][2026-10-31 02:59]
 trojan://humanity@207.180.209.128:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4Kian-46c0876c9f
-trojan://humanity@207.57.123.112:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4Kian-a5a99744db
+trojan://humanity@207.57.123.112:443?allowInsecure=1&sni=www.cordweave.com#%F0%9F%87%B3%F0%9F%87%B1%20%E8%8D%B7%E5%85%B0%20%7C%20NLD%20%2329
 trojan://humanity@207.57.123.77:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4Kian-ff3d266a2c
 trojan://humanity@207.57.132.189:8443?allowInsecure=1&sni=www.cordweave.com&type=ws&host=www.cordweave.com&path=/assignment#4Kian-01b6ad8c57
 trojan://humanity@208.103.161.110:443/?type=ws&host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org&allowInsecure=1#%F0%9F%A5%9060%40oneclickvpnkeys
@@ -346,25 +194,26 @@ trojan://humanity@213.109.192.6:8443?allowInsecure=1&sni=www.cordweave.com&type=
 trojan://humanity@213.111.148.137:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4Mohsen-223c7d1d96
 trojan://humanity@213.165.34.40:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4Nika-66e1db37b2
 trojan://humanity@213.182.199.137:443?path=%2Fassignment&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;host=www.pleadcourt.org&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.pleadcourt.org#[1646][HR][0][TROJAN][None][shh_proxy][2026-09-02][2026-10-31 02:59]
-trojan://humanity@213.238.182.13:443?allowInsecure=1&sni=www.cordweave.com&type=ws&host=www.cordweave.com&path=/assignment#4Mohsen-2e49f93fda
+trojan://humanity@213.238.182.13:443?allowInsecure=1&sni=www.cordweave.com#%F0%9F%87%B3%F0%9F%87%B1%20%E8%8D%B7%E5%85%B0%20%7C%20NLD%20%2318
 trojan://humanity@216.24.57.1:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;ech=54.mk%2Budp%3A%2F%2F8.8.8.8&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmloud.com#[1648][US][0][TROJAN][None][prrofile_purple][2026-06-11][2026-10-31 02:59]
 trojan://humanity@216.24.57.7:443/?type=ws&host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org#-%3EPL%2B%28%40DeamNet_Proxy%29%20%286%29
 trojan://humanity@217.26.26.14:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4FreeIran-3a5d0a82d6
 trojan://humanity@219.76.13.177:443?allowInsecure=0&sni=www.pleadcourt.org&alpn=http/1.1&type=ws&host=www.pleadcourt.org&path=%2Fassignment#%F0%9F%87%B3%F0%9F%87%B1%5Bwww.v2nodes.com%5D%20trojan-NL-...%20%234
-trojan://humanity@3.112.41.210:443?allowInsecure=1&sni=www.cordweave.com&ws=1&wspath=%2Fassignment#%F0%9F%87%B3%F0%9F%87%B1%20%E8%8D%B7%E5%85%B0%20%7C%20NLD
+trojan://humanity@27.50.48.49:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1&allowInsecure=1&fp=chrome#Channel%20id%3A%20%40ShadowProxy66%20
+trojan://humanity@3.112.41.210:443?allowInsecure=1&sni=www.cordweave.com#%F0%9F%87%B3%F0%9F%87%B1%20%E8%8D%B7%E5%85%B0%20%7C%20NLD%20%2325
 trojan://humanity@31.57.190.34:443?path=%2Fassignment&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;host=www.pleadcourt.org&amp;type=ws&amp;allowInsecure=0&amp;sni=www.pleadcourt.org#[1651][AE][0][TROJAN][None][v2rayNG_Matsuri][2026-10-16][2026-10-31 02:59]
 trojan://humanity@31.57.190.71:443?path=%2Fassignment&amp;security=tls&amp;alpn=http%2F1.1&amp;insecure=0&amp;type=ws&amp;allowInsecure=0&amp;sni=www.pleadcourt.org#[1652][AE][0][TROJAN][None][vpnx44][2026-10-23][2026-10-31 02:59]
-trojan://humanity@31.76.0.15:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4Kian-6f4254826c
+trojan://humanity@31.76.0.15:443?allowInsecure=1&sni=www.cordweave.com#%F0%9F%87%B3%F0%9F%87%B1%20%E8%8D%B7%E5%85%B0%20%7C%20NLD%20%2320
 trojan://humanity@35.78.243.103:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4FreeIran-30c96c1226
-trojan://humanity@38.180.100.80:443?allowInsecure=1&sni=www.cordweave.com&ws=1&wspath=%2Fassignment#%F0%9F%87%B3%F0%9F%87%B1%20%E8%8D%B7%E5%85%B0%20%7C%20NLD
-trojan://humanity@38.180.225.247:2053?allowInsecure=1&sni=www.cordweave.com&type=ws&host=www.cordweave.com&path=/assignment#4Mohsen-48540adf70
+trojan://humanity@38.180.100.80:443?allowInsecure=1&sni=www.cordweave.com#%F0%9F%87%B3%F0%9F%87%B1%20%E8%8D%B7%E5%85%B0%20%7C%20NLD%20%2311
+trojan://humanity@38.180.225.247:2053?allowInsecure=1&sni=www.cordweave.com#%F0%9F%87%B3%F0%9F%87%B1%20%E8%8D%B7%E5%85%B0%20%7C%20NLD%20%238
 trojan://humanity@38.207.177.204:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4Kian-742ff378d9
 trojan://humanity@43.161.233.40:8443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4Sarina-794e0b980f
 trojan://humanity@43.164.132.109:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4Sarina-75ff27c2c4
 trojan://humanity@43.169.18.179:443/?type=ws&host=www.creationlong.org&path=%2Fassignment&security=tls&sni=www.creationlong.org#-%3E%2B%28%40DeamNet_Proxy%29%20%283%29
 trojan://humanity@45.128.76.242:443?allowInsecure=0&sni=www.trusteeforward.com&ws=1&wspath=%2Fassignment#4Jadi-3711382bed
 trojan://humanity@45.130.125.158:443?sni=www.ignitelimit.com&type=ws&path=/assignment&alpn=h3,h2,http/1.1&fp=ios#%F0%9F%87%AB%F0%9F%87%B7FR_108%7C739KB%2Fs%7CB007-260618%2001
-trojan://humanity@45.130.125.18:443?sni=www.calmlunch.com&amp;type=ws&amp;path=%2Fassignment&amp;fp=chrome#%40UnlimitConfig%F0%9F%8C%8D
+trojan://humanity@45.130.125.18:443?sni=www.calmlunch.com&type=ws&path=%2Fassignment&fp=chrome#4FreeIran-357c1a9a48
 trojan://humanity@45.130.125.190:443?allowInsecure=0&sni=www.calmlunch.com&type=ws&host=www.calmlunch.com&path=%2Fassignment#4FreeIran-0d4214d2c4
 trojan://humanity@45.130.125.32:443?pathه=%2Fassignment&amp;security=tls&amp;insecure=0&amp;host=www.calmloud.com&amp;type=ws&amp;allowInsecure=0&amp;sni=www.calmloud.com#[1690][SC][0][TROJAN][None][SafeNet_Server][2026-06-27][2026-10-31 02:59]
 trojan://humanity@45.130.125.69:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1&allowInsecure=1&fp=chrome#%3E%3E%40configV2rayNG%3A%3AFR%20%286%29
@@ -402,7 +251,7 @@ trojan://humanity@64.227.115.28:443?host=www.pleadcourt.org&path=%2Fassignment&s
 trojan://humanity@68.64.180.218:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4Kian-010885fc62
 trojan://humanity@76.13.188.13:8443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4Sarina-afbfeeb2f7
 trojan://humanity@77.221.138.199:8443?sni=www.calmlunch.com&type=ws#4FreeIran-714a38302c
-trojan://humanity@77.221.139.114:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4Sarina-419192b432
+trojan://humanity@77.221.139.114:443?allowInsecure=1&sni=www.cordweave.com#%F0%9F%87%B3%F0%9F%87%B1%20%E8%8D%B7%E5%85%B0%20%7C%20NLD%20%2315
 trojan://humanity@78.40.209.33:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4Sarina-68f2721c5a
 trojan://humanity@78.47.146.151:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.pleadcourt.org#@Vip_Security join us - 370
 trojan://humanity@8.47.69.0:443?allowInsecure=1&alpn=http%2F1.1&fp=chrome&path=%2Fassignment&security=tls&sni=www.pleadcourt.org&type=ws#4Jadi-593459856e
@@ -416,18 +265,18 @@ trojan://humanity@82.117.245.125:2053?fp=chrome&path=%2Fassignment&security=tls&
 trojan://humanity@82.118.18.179:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4Kian-bf966f0e29
 trojan://humanity@83.147.254.59:2053?allowInsecure=1&sni=www.cordweave.com&type=ws&host=www.cordweave.com&path=/assignment#4Mohsen-b115029968
 trojan://humanity@83.217.222.170:443?path=%2Fassignment&security=tls&insecure=0&host=www.pleadcourt.org&type=ws&allowInsecure=0&sni=www.pleadcourt.org&fp=chrome#4Sarina-cdd76ed895
-trojan://humanity@83.228.199.3:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4Kian-ab26bb2eac
+trojan://humanity@83.228.199.3:443?allowInsecure=1&sni=www.cordweave.com#%F0%9F%87%B3%F0%9F%87%B1%20%E8%8D%B7%E5%85%B0%20%7C%20NLD%20%2314
 trojan://humanity@85.198.11.172:40443?path=%2Fassignment&security=tls&insecure=1&host=www.ignitelimit.com&type=ws&allowInsecure=1&sni=www.ignitelimit.com#@Vip_Security join us - 378
 trojan://humanity@85.235.64.69:443?allowInsecure=1&sni=www.cordweave.com&type=ws&host=www.cordweave.com&path=/assignment#4Kian-e40a87f0ab
 trojan://humanity@85.31.102.163:443?path=%2Fassignment&security=tls&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#4Nika-5f993ecf2a
 trojan://humanity@86.38.214.205:443?allowInsecure=1&sni=www.ignitelimit.com#4Nika-97b28309c0
 trojan://humanity@87.120.126.131:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4Jadi-7d1888dbae
 trojan://humanity@87.236.146.111:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4Kian-429b32c0a0
-trojan://humanity@87.76.190.244:443?allowInsecure=1&sni=www.cordweave.com&ws=1&wspath=%2Fassignment#%F0%9F%87%B3%F0%9F%87%B1%20%E8%8D%B7%E5%85%B0%20%7C%20NLD
+trojan://humanity@87.76.190.244:443?allowInsecure=1&sni=www.cordweave.com#%F0%9F%87%B3%F0%9F%87%B1%20%E8%8D%B7%E5%85%B0%20%7C%20NLD%20%2324
 trojan://humanity@88.198.82.150:443?security=tls&sni=www.ignitelimit.com&fp=chrome&type=ws&path=%2Fassignment#FR%E6%B3%95%E5%9B%BD%28mibei77.com%20%E7%B1%B3%E8%B4%9D%E8%8A%82%E7%82%B9%E5%88%86%E4%BA%AB%29
 trojan://humanity@88.216.69.253:443?allowInsecure=1&insecure=1&type=ws&security=tls&path=%2Fassignment&host=www.pleadcourt.org&sni=www.pleadcourt.org&fp=chrome&alpn=http/1.1#4Nika-5c87ca4947
 trojan://humanity@88.218.77.178:8443?sni=www.calmlunch.com&type=ws#4Mohsen-6bb3d51337
-trojan://humanity@88.218.92.205:443?allowInsecure=1&sni=www.cordweave.com&ws=1&wspath=%2Fassignment#%F0%9F%87%B3%F0%9F%87%B1%20%E8%8D%B7%E5%85%B0%20%7C%20NLD
+trojan://humanity@88.218.92.205:443?allowInsecure=1&sni=www.cordweave.com#%F0%9F%87%B3%F0%9F%87%B1%20%E8%8D%B7%E5%85%B0%20%7C%20NLD%20%2310
 trojan://humanity@88.99.189.60:443?sni=www.calmlunch.com&type=ws&path=/assignment&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7FR_2114%7C942KB%2Fs%7CM003-260806%2001
 trojan://humanity@89.116.46.8:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com&alpn=http%2F1.1&allowInsecure=1&fp=chrome#Channel%20id%3A%20%40ShadowProxy66%20
 trojan://humanity@89.125.201.4:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4Mohsen-7938bc3993
@@ -437,12 +286,12 @@ trojan://humanity@91.193.58.147:443?security=tls&sni=www.multiplydose.com&type=w
 trojan://humanity@91.193.58.77:443/?type=ws&host=www.calmloud.com&path=%2Fassignment&security=tls&sni=www.calmloud.com#%40V2raySup0%F0%9F%9A%80%20%289%29
 trojan://humanity@91.197.3.7:443?cs=semi-python&path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.volumeroot.com&fp=unsafe&type=ws&allowInsecure=0&sni=www.volumeroot.com#4Nika-a9a651fb83
 trojan://humanity@91.245.225.79:2053?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#4Sarina-5df0730adb
-trojan://humanity@91.250.248.151:443?allowInsecure=1&sni=www.cordweave.com&ws=1&wspath=%2Fassignment#%F0%9F%87%B3%F0%9F%87%B1%20%E8%8D%B7%E5%85%B0%20%7C%20NLD
+trojan://humanity@91.250.248.151:443?allowInsecure=1&sni=www.cordweave.com#%F0%9F%87%B3%F0%9F%87%B1%20%E8%8D%B7%E5%85%B0%20%7C%20NLD%20%2322
 trojan://humanity@92.42.99.143:443#4Sarina-226c3280f9
 trojan://humanity@93.170.72.138:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4Kian-c94eff583a
-trojan://humanity@93.85.236.9:443?allowInsecure=1&sni=www.cordweave.com&ws=1&wspath=%2Fassignment#%F0%9F%87%B3%F0%9F%87%B1%20%E8%8D%B7%E5%85%B0%20%7C%20NLD
+trojan://humanity@93.85.236.9:443?allowInsecure=1&sni=www.cordweave.com#%F0%9F%87%B3%F0%9F%87%B1%20%E8%8D%B7%E5%85%B0%20%7C%20NLD%20%2316
 trojan://humanity@94.158.219.126:443?allowInsecure=1&sni=www.pleadcourt.org&type=ws#4Mohsen-e049eb43d1
-trojan://humanity@95.182.95.144:443?allowInsecure=1&sni=www.cordweave.com&type=ws&path=%2Fassignment#4Sarina-2dca0f76c8
+trojan://humanity@95.182.95.144:443?allowInsecure=1&sni=www.cordweave.com#%F0%9F%87%AD%F0%9F%87%B0%20%E9%A6%99%E6%B8%AF%20%7C%20HKG%20%231
 trojan://humanity@95.85.32.57:443#4Kian-adfbfd6890
 trojan://humanity@95.85.54.197:443?path=%2Fassignment&security=tls&fm=tlshello-0-len&insecure=0&host=www.pleadcourt.org&fp=unsafe&type=ws&allowInsecure=0&sni=www.pleadcourt.org#4Sarina-90b32ee095
 trojan://humanity@[2606:4700:3030::6812:1f2f]:443?path=%2Fassignment&amp;security=tls&amp;insecure=0&amp;fp=chrome&amp;type=ws&amp;allowInsecure=0&amp;sni=www.pleadcourt.org#[1792][US][0][TROJAN][None][ConfigsHUB][2026-10-31][2026-10-31 02:59]
@@ -536,7 +385,7 @@ trojan://jpgcp@35.221.86.68:443?allowInsecure=1
 trojan://kGrwqmB1nEKUsDwE@v2cross.com.05.v2ce.com:443#Relay_%F0%9F%87%BA%F0%9F%87%A6UA-%F0%9F%87%BA%F0%9F%87%A6UA_962
 trojan://kSZddpnUKy@150.136.57.125:41106?security=tls#%F0%9F%87%BA%F0%9F%87%B8US-150.136.57.125-5569
 trojan://kef626g3ffzqf93l@160.119.70.33:46383?host=divar.ir&path=%2F&security=none&type=ws#filembad-58
-trojan://kflYwtj8VD7Pd4V9ixedIxEDsac4QQXvbP@45.77.227.183:443?allowInsecure=0#⚡
+trojan://kflYwtj8VD7Pd4V9ixedIxEDsac4QQXvbP@45.77.227.183:443?security=tls#%F0%9F%87%AC%F0%9F%87%A7GB-45.77.227.183-0988
 trojan://kkzh2prsyr2ik47as615@64.94.95.118:57142/?type=tcp&security=tls&sni=64.94.95.118#%F0%9F%87%BA%F0%9F%87%B8US-64.94.95.118-4901
 trojan://ks3og6wZ9kH8UJv1bmpvwXbfgDNNaTd1Lk@38.54.64.247:443/?type=tcp&security=tls&sni=38.54.64.247&allowInsecure=1&fp=chrome#%F0%9F%91%89%F0%9F%86%94%40v2ray_configs_pool%F0%9F%93%A1%F0%9F%87%BF%F0%9F%87%A6%C2%AE%EF%B8%8FSouth%20Africa%C2%A9%EF%B8%8FJohannesburg%F0%9F%85%BF%EF%B8%8Fping%3A199.98ms
 trojan://kuGDUhAYqXnvIomV0Kdljfor@167.17.70.117:27234?security=tls&amp;headerType=none&amp;type=tcp#🇳🇱#ShineNET%20VPN
@@ -545,6 +394,7 @@ trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-netherlands.unlimited-access.ru:443
 trojan://kxHw-Dk-e9dffgzYszMlEqLJ92AnY3Pi@tr-wien.unlimited-access.ru:443?security=tls&type=tcp&headerType=none&sni=tr-wien.unlimited-access.ru&fp=firefox&alpn=http%2F1.1#AT 🇦🇹 | @Raydikalx | 509CC4
 trojan://l0JDnxBWqeTH@35.92.243.136:14825?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#US|Github搜索TrojanLinks
 trojan://lCYI0KOB8exTgp736ac3ZR3DnXwaOFS5pACRuZzSyeYy4N3j2D8qAxF9alDSEC@permissions.freetrade.link:443?allowInsecure=0
+trojan://lTLVIqIvFqp+es9giS.0o77ztLrCQLaxVh@172.105.9.126:443?security=tls#%F0%9F%87%A8%F0%9F%87%A6CA-172.105.9.126-0059
 trojan://lcGo9bOwOB8yC7oAAI.TC%3DrBFs6PfVgCeF@149.28.241.235:443/?type=tcp&security=tls#Dallas%20%28United%20States%29
 trojan://lcGo9bOwOB8yC7oAAI.TC%3DrBFs6PfVgCeF@45.32.195.168:443/?type=tcp&security=tls#Dallas%20%28United%20States%29%20%282%29
 trojan://lcGo9bOwOB8yC7oAAI.TC%3DrBFs6PfVgCeF@45.32.198.247:443/?type=tcp&security=tls#Dallas%20%28United%20States%29%20%281%29
@@ -604,6 +454,8 @@ trojan://nzrc4ma4087c1ukr@188.114.96.4:2083?path=%2FWWEiIlL225IiiILl&amp;securit
 trojan://nzrc4ma4087c1ukr@188.114.96.5:2083?path=%2FWWEiIlL225IiiILl&amp;security=tls&amp;insecure=0&amp;host=dl1.rahetejarat.com&amp;fp=chrome&amp;type=httpupgrade&amp;allowInsecure=0&amp;sni=dl2.rahetejarat.com#%E2%9C%94%EF%B8%8E%F0%9D%90%9C%F0%9D%90%A1%F0%9D%90%9A%F0%9D%90%A7%F0%9D%90%A7%F0%9D%90%9E%F0%9D%90%A5%E2%9E%AA%40ConfigV2rayForFree
 trojan://oRKpDRDR4Y@193.233.133.152:28390?security=reality&amp;pbk=e6ZMkoAwow_JXOTxMZcdNH-rNxsSR5NFCblRc8HaCTA&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;sni=www.sony.com&amp;sid=f304442cc982#[2112][FR][0][TROJAN][None][prrofile_purple][2026-08-10][2026-10-31 02:59]
 trojan://oZAugtgF5T@146.190.87.238:443/?type=ws&host=aka.ms&path=%2F&security=tls&sni=aka.ms#%F0%9F%87%B8%F0%9F%87%AC%20SG%20%7C%20%F0%9F%94%92%20TROJAN%20%7C%20%40mpmehi%20%5B1%5D
+trojan://oeaQHjIg021hag3UB1gHR60iA1iaNSs2@1------------------------------------------------2.poki-pakipon.ir:34297?mode=gun&security=reality&pbk=K0-3RwRpCkTc5W2IYJRi-hA8QHJImY1BsQ8Uvv6qGHA&fp=firefox&type=grpc&serviceName=BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----&sni=www.icloud.com&sid=542d649113aed791#🇨🇭
+trojan://oeaQHjIg021hag3UB1gHR60iA1iaNSs2@1------------------------------------------------2.poki-pakipon.ir:51958?mode=gun&security=reality&pbk=bCyICgeK7ZVvxvsa7l7vJK7tgMac6jWv61mt-0tDWFs&fp=chrome&type=grpc&serviceName=BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----BanV2ray------BanV2ray-----&sni=www.icloud.com&sid=dccba155d0683b4d#🇨🇭
 trojan://oiiaB38ywjEHCWRs_O_a_1113_Il_KeyyyHop_Bes1@109.206.241.10:449?allowInsecure=1#@Vip_Security join us - 453
 trojan://opentunnel.net-1l1tdr1hmcq7g32ndx7g@sgt-1.opensvr.net:443?allowInsecure=0
 trojan://opentunnel.net-english30day@54.37.18.204:443?security=tls&headerType=none&type=tcp&sni=uplod.ir#GB 🇬🇧 | @Raydikalx | E63519
@@ -653,7 +505,7 @@ trojan://qjQdBgnCuhLVLxYKyBrEWHYtWJYtBjpS@checkout.salu.lalibobi.online:443?secu
 trojan://qjQdBgnCuhLVLxYKyBrEWHYtWJYtBjpS@checkout.skog.lalibobi.online:443?security=tls&sni=checkout.skog.lalibobi.online&fp=&type=tcp#SE 🇸🇪 | @Raydikalx | 764294
 trojan://qjQdBgnCuhLVLxYKyBrEWHYtWJYtBjpS@checkout.vistula.lalibobi.online:443?security=tls&sni=checkout.vistula.lalibobi.online&fp=&type=tcp#PL 🇵🇱 | @Raydikalx | 949D3A
 trojan://qmBSKnAl6LYi9%3Dz23Rs.Z@37.235.49.209:28099/?type=tcp&security=tls&sni=celestialcorset.crystalhamster.click#%F0%9F%87%AE%F0%9F%87%B8IS-37.235.49.209-0360
-trojan://r-_YbwF.j0TtHVewoFIppramjAnmSfqYzJ@172.238.120.124:443?security=tls#%F0%9F%87%BA%F0%9F%87%B8US%E7%BE%8E%E5%9B%BD17%201.4MB%2Fs
+trojan://r-_YbwF.j0TtHVewoFIppramjAnmSfqYzJ@172.238.120.124:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0#4876.%20TROJAN%20%7C%20TG%3A%20%40wlrustg
 trojan://r49gssuondznyu2eex83@14.1.28.76:50740?security=tls&amp;insecure=1&amp;headerType=none&amp;type=tcp&amp;allowInsecure=1#[2122][US][0][TROJAN][None][Outline_Vpn][2026-08-29][2026-10-31 02:59]
 trojan://r8CTEc4F7K@104.21.65.254:2083/?type=ws&security=tls&sni=speedtestneternanewsggffnetemailcloudflarecomexpresstvsoft98ir.expresstv.ggff....
 trojan://rXyShM8Jni%2B5Sbq3k4gkyr5Lq0zOMRL2Uf@45.79.8.17:443?security=tls&headerType=none&type=tcp&sni=45.79.8.17#%40IranProxyPlus`
@@ -1220,17 +1072,16 @@ trojan://tune7jerky7HAYRICK@45.33.30.197:443?allowInsecure=1&sni=ap-northeast-1.
 trojan://tune7jerky7HAYRICK@72.14.185.43:443?allowInsecure=1&sni=ap-northeast-1.openssl3.com
 trojan://tune7jerky7HAYRICK@ap-northeast-1.openssl3.com:443?allowInsecure=0
 trojan://tunnel-astrovpn_official028@45.112.192.29:8441?security=tls&alpn=http%2F1.1&host=45.112.192.29&headerType=none&type=tcp&sni=zula.ir.AstroVPN-official.AstroVPN-official.workers.dev.AstroVPN_Official.org.AstroVPN.com.AstroVPN_Official.xyz.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.AstroVPN_Official.monster.AstroVPN_OfficialJoinTelegram-------------AstroVPN_Official----------Join.ir#@Vip_Security join us - 479
-trojan://tunnel-ljlcf@tr-1.stunnel.cc:8441?path=/#🇹🇷
 trojan://u.0c3S2V328E6hb8DVhZTNaIzFZX1+aY1J@38.60.226.48:443/?type=tcp&security=tls#Cairo%20%28Egypt%29
 trojan://u93yPGuY2zgIsisJZKS2QzJzg@78.17.171.62:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=FREETOPLAY-2.TETRIS-GAME.WORLD#@meliproxyy
-trojan://uFepQ5r4JSusbY@floral-grass-aa1e.dianawpewpek1.workers.dev:2053?security=tls&sni=floral-grass-aa1e.dianawpewpek1.workers.dev&fp=chrome&type=ws&host=floral-grass-aa1e.dianawpewpek1.workers.dev&path=%2F%3Fed%3D2048&alpn=http%2F1.1#%F0%9F%95%9210/31%2014%3A30%20%7C%20%F0%9F%87%B3%F0%9F%87%B1-3483%20%7C%2033%20MB/s%20%F0%9F%94%A5
-trojan://uFepQ5r4JSusbY@floral-grass-aa1e.dianawpewpek1.workers.dev:2083?security=tls&sni=floral-grass-aa1e.dianawpewpek1.workers.dev&fp=chrome&type=ws&host=floral-grass-aa1e.dianawpewpek1.workers.dev&path=%2F%3Fed%3D2048&alpn=http%2F1.1#%F0%9F%95%9210/31%2014%3A30%20%7C%20%F0%9F%87%B3%F0%9F%87%B1-3485%20%7C%2037.5%20MB/s%20%F0%9F%94%A5
-trojan://uFepQ5r4JSusbY@floral-grass-aa1e.dianawpewpek1.workers.dev:2087?security=tls&sni=floral-grass-aa1e.dianawpewpek1.workers.dev&fp=chrome&type=ws&host=floral-grass-aa1e.dianawpewpek1.workers.dev&path=%2F%3Fed%3D2048&alpn=http%2F1.1#%F0%9F%95%9210/31%2014%3A30%20%7C%20%F0%9F%87%B3%F0%9F%87%B1-3487%20%7C%2086.2%20MB/s%20%F0%9F%94%A5
-trojan://uFepQ5r4JSusbY@floral-grass-aa1e.dianawpewpek1.workers.dev:2096?security=tls&sni=floral-grass-aa1e.dianawpewpek1.workers.dev&fp=chrome&type=ws&host=floral-grass-aa1e.dianawpewpek1.workers.dev&path=%2F%3Fed%3D2048&alpn=http%2F1.1#%F0%9F%95%9210/31%2014%3A30%20%7C%20%F0%9F%87%B3%F0%9F%87%B1-3489%20%7C%2023.5%20MB/s%20%F0%9F%94%A5
-trojan://uFepQ5r4JSusbY@floral-grass-aa1e.dianawpewpek1.workers.dev:443?security=tls&sni=floral-grass-aa1e.dianawpewpek1.workers.dev&fp=chrome&type=ws&host=floral-grass-aa1e.dianawpewpek1.workers.dev&path=%2F%3Fed%3D2048&alpn=http%2F1.1#%F0%9F%95%9210/31%2014%3A30%20%7C%20%F0%9F%87%B3%F0%9F%87%B1-3479%20%7C%2027.9%20MB/s%20%F0%9F%94%A5
-trojan://uFepQ5r4JSusbY@floral-grass-aa1e.dianawpewpek1.workers.dev:8443?security=tls&sni=floral-grass-aa1e.dianawpewpek1.workers.dev&fp=chrome&type=ws&host=floral-grass-aa1e.dianawpewpek1.workers.dev&path=%2F%3Fed%3D2048&alpn=http%2F1.1#%F0%9F%95%9210/31%2014%3A30%20%7C%20%F0%9F%87%B3%F0%9F%87%B1-3481%20%7C%2064.1%20MB/s%20%F0%9F%94%A5
-trojan://uFepQ5r4JSusbY@www.speedtest.net:2087?security=tls&sni=floral-grass-aa1e.dianawpewpek1.workers.dev&fp=chrome&type=ws&host=floral-grass-aa1e.dianawpewpek1.workers.dev&path=%2F%3Fed%3D2048&alpn=http%2F1.1#%F0%9F%95%9210/31%2014%3A30%20%7C%20%F0%9F%87%B3%F0%9F%87%B1-3499%20%7C%205.9%20MB/s%20%F0%9F%94%A5
-trojan://uFepQ5r4JSusbY@www.speedtest.net:2096?security=tls&sni=floral-grass-aa1e.dianawpewpek1.workers.dev&fp=chrome&type=ws&host=floral-grass-aa1e.dianawpewpek1.workers.dev&path=%2F%3Fed%3D2048&alpn=http%2F1.1#%F0%9F%95%9210/31%2014%3A30%20%7C%20%F0%9F%87%B3%F0%9F%87%B1-3501%20%7C%2053.1%20MB/s%20%F0%9F%94%A5
+trojan://uFepQ5r4JSusbY@floral-grass-aa1e.dianawpewpek1.workers.dev:2053?security=tls&sni=floral-grass-aa1e.dianawpewpek1.workers.dev&fp=chrome&type=ws&host=floral-grass-aa1e.dianawpewpek1.workers.dev&path=%2F%3Fed%3D2048&alpn=http%2F1.1#%F0%9F%95%9210/31%2015%3A00%20%7C%20%F0%9F%87%B3%F0%9F%87%B1-3483%20%7C%2033%20MB/s%20%F0%9F%94%A5
+trojan://uFepQ5r4JSusbY@floral-grass-aa1e.dianawpewpek1.workers.dev:2083?security=tls&sni=floral-grass-aa1e.dianawpewpek1.workers.dev&fp=chrome&type=ws&host=floral-grass-aa1e.dianawpewpek1.workers.dev&path=%2F%3Fed%3D2048&alpn=http%2F1.1#%F0%9F%95%9210/31%2015%3A00%20%7C%20%F0%9F%87%B3%F0%9F%87%B1-3485%20%7C%2037.5%20MB/s%20%F0%9F%94%A5
+trojan://uFepQ5r4JSusbY@floral-grass-aa1e.dianawpewpek1.workers.dev:2087?security=tls&sni=floral-grass-aa1e.dianawpewpek1.workers.dev&fp=chrome&type=ws&host=floral-grass-aa1e.dianawpewpek1.workers.dev&path=%2F%3Fed%3D2048&alpn=http%2F1.1#%F0%9F%95%9210/31%2015%3A00%20%7C%20%F0%9F%87%B3%F0%9F%87%B1-3487%20%7C%2086.2%20MB/s%20%F0%9F%94%A5
+trojan://uFepQ5r4JSusbY@floral-grass-aa1e.dianawpewpek1.workers.dev:2096?security=tls&sni=floral-grass-aa1e.dianawpewpek1.workers.dev&fp=chrome&type=ws&host=floral-grass-aa1e.dianawpewpek1.workers.dev&path=%2F%3Fed%3D2048&alpn=http%2F1.1#%F0%9F%95%9210/31%2015%3A00%20%7C%20%F0%9F%87%B3%F0%9F%87%B1-3489%20%7C%2023.5%20MB/s%20%F0%9F%94%A5
+trojan://uFepQ5r4JSusbY@floral-grass-aa1e.dianawpewpek1.workers.dev:443?security=tls&sni=floral-grass-aa1e.dianawpewpek1.workers.dev&fp=chrome&type=ws&host=floral-grass-aa1e.dianawpewpek1.workers.dev&path=%2F%3Fed%3D2048&alpn=http%2F1.1#%F0%9F%95%9210/31%2015%3A00%20%7C%20%F0%9F%87%B3%F0%9F%87%B1-3479%20%7C%2027.9%20MB/s%20%F0%9F%94%A5
+trojan://uFepQ5r4JSusbY@floral-grass-aa1e.dianawpewpek1.workers.dev:8443?security=tls&sni=floral-grass-aa1e.dianawpewpek1.workers.dev&fp=chrome&type=ws&host=floral-grass-aa1e.dianawpewpek1.workers.dev&path=%2F%3Fed%3D2048&alpn=http%2F1.1#%F0%9F%95%9210/31%2015%3A00%20%7C%20%F0%9F%87%B3%F0%9F%87%B1-3481%20%7C%2064.1%20MB/s%20%F0%9F%94%A5
+trojan://uFepQ5r4JSusbY@www.speedtest.net:2087?security=tls&sni=floral-grass-aa1e.dianawpewpek1.workers.dev&fp=chrome&type=ws&host=floral-grass-aa1e.dianawpewpek1.workers.dev&path=%2F%3Fed%3D2048&alpn=http%2F1.1#%F0%9F%95%9210/31%2015%3A00%20%7C%20%F0%9F%87%B3%F0%9F%87%B1-3499%20%7C%205.9%20MB/s%20%F0%9F%94%A5
+trojan://uFepQ5r4JSusbY@www.speedtest.net:2096?security=tls&sni=floral-grass-aa1e.dianawpewpek1.workers.dev&fp=chrome&type=ws&host=floral-grass-aa1e.dianawpewpek1.workers.dev&path=%2F%3Fed%3D2048&alpn=http%2F1.1#%F0%9F%95%9210/31%2015%3A00%20%7C%20%F0%9F%87%B3%F0%9F%87%B1-3501%20%7C%2053.1%20MB/s%20%F0%9F%94%A5
 trojan://uThbm8eGmXZ7GKqnWy@194.124.216.109:443?security=tls&insecure=1&allowInsecure=1&type=tcp&headerType=none#NL 🇳🇱 | @Raydikalx | 66F128
 trojan://uThbm8eGmXZ7GKqnWy@nl-4.tr202507.com:443?security=tls#NL 🇳🇱 | @Raydikalx | 2E83A1
 trojan://uV8u9Q41e2@104.17.180.185:443/?type=ws&host=DieGo.DIEgoMAraDOnA.iR.&path=%2F&security=tls&sni=DieGo.DIEgoMAraDOnA.iR.#%40Hope_Net-join-us-on-Telegram
@@ -1242,7 +1093,7 @@ trojan://vGWCNNfBHwSY6m6M@185.253.46.40:443
 trojan://vGWCNNfBHwSY6m6M@v2cross.com.04.v2ce.com:443#Relay_%F0%9F%87%BA%F0%9F%87%A6UA-%F0%9F%87%BA%F0%9F%87%A6UA_1191
 trojan://vP!XvZBNdw.e*ddSgmH!@188.114.96.0:2096?path=/tr/lqCTAonDgcErIZylZuNyy?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=n0q4xprj2d4x4prcq29l8jkczd0.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=N0Q4xprJ2d4X4pRCQ29l8JkcZd0.paGES.DeV#4880.%20TROJAN%20%7C%20SNI%3A%20N0Q4xprJ2d4X4pRCQ29l8JkcZd0.paGES.DeV%20%7C%20TG%3A%20%40wlrustg
 trojan://vP!XvZBNdw.e*ddSgmH!@188.114.96.3:2096?path=/tr/ZFttmjSqvda5ohOQ?ed=2560&security=tls&alpn=http/1.1&insecure=0&host=n0q4xprj2d4x4prcq29l8jkczd0.pages.dev&fp=chrome&type=ws&allowInsecure=0&sni=n0q4XPrJ2D4X4PRCQ29L8JKCZd0.pAGES.dev#4881.%20TROJAN%20%7C%20SNI%3A%20n0q4XPrJ2D4X4PRCQ29L8JKCZd0.pAGES.dev%20%7C%20TG%3A%20%40wlrustg
-trojan://vP&#33;XvZBNdw.e*ddSgmH&#33;@188.114.96.3:2096?security=tls&amp;sni=n0q4XPrJ2D4X4PRCQ29L8JKCZd0.pAGES.dev&amp;alpn=http%2F1.1&amp;fp=chrome&amp;type=ws&amp;host=n0q4xprj2d4x4prcq29l8jkczd0.pages.dev&amp;path=%2Ftr%2FZFttmjSqvda5ohOQ%3Fed%3D2560#
+trojan://vP&#[2219][UnResolvedDomains][0][TROJAN][None][V2rayCollector][2026-10-30][2026-10-31 02:59]
 trojan://vUMFCo5ghEArq09bxy8NuLL3lQtqFRHE@mr-amir-production-e40d.up.railway.app:443?path=%2Flive%2Ff9f5cb4f-a2ce-42eb-8dfb-b3dc2746ef28%3Fed%3D2560&security=tls&alpn=http%2F1.1&insecure=0&host=mr-amir-production-e40d.up.railway.app&fp=safari&type=ws&allowInsecure=0&sni=mr-amir-production-e40d.up.railway.app#@Vip_Security join us - 480
 trojan://va3E77I9fZCnCVcGKkxBCfz5@186.241.105.213:443?sni=vpn.liumr.top&type=tcp#4FreeIran-1eb3154683
 trojan://va3E77I9fZCnCVcGKkxBCfz5@vpn.liumr.top:443?allowInsecure=0&type=tcp&security=tls&fp=chrome&sni=vpn.liumr.top#4Kian-c5a8895af8
@@ -1316,7 +1167,6 @@ trojan://your_password@43.218.139.54:443/?type=tcp&security=tls&sni=aws-id-jakar
 trojan://ypDt8RkT7J@31.172.67.242:43118?security=tls&alpn=http/1.1&headerType=none&fp=random&type=tcp&sni=tpmwh.phooeyunfold.com#@Vip_Security join us - 483
 trojan://zHckDvqHolUX@3.39.252.238:14825?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#KR|Github搜索TrojanLinks
 trojan://zIvR7ryOXv@159.223.207.182:34428?security=tls&type=tcp&headerType=none
-trojan://zK=0KfL3IG+sNNZL-J7d0Nonu4wFBx8MOy@172.235.229.227:443?type=raw&headerType=none&security=tls#
 trojan://zWFjJENcljZm@usa.visa.com:443/?type=ws&host=vahidqaz-7o61u7.vahidqaz.workers.dev&path=%2F%3Fed%3D2560&security=tls&sni=vahidqaz-7o61u7.vahidqaz.workers.dev&allowInsecure=1&fp=chrome#%E2%9B%84%EF%B8%8F78%40oneclickvpnkeys
 trojan://z_FG1EerbpAHOw9mq292VFMXQUx8h6RR@germany.d.v5.irannise.site:443?security=none&type=ws&headerType=none&path=%2F#4FreeIran-1405bf3cf8
 trojan://zixGcZjzWxMG@44.223.106.182:14787?security=tls&alpn=h2,http/1.1&type=tcp&sni=appsvs.shop&headerType=none#US|Github搜索TrojanLinks

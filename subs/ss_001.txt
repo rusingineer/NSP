@@ -630,6 +630,7 @@ ss://2022-blake3-aes-256-gcm:fnvo82p9y4AKykZXyIFtnodFy6fQmWnVlI2SvGleOB0=@167.15
 ss://2022-blake3-aes-256-gcm:sUR6Ny8Y6PSvHhl%2FDUxconwxg6VZyFdsdfaVCvEatJo%3D%3A7bTEhHgpErKiRjE1ega%2BH6pcpJsNLFB0CjQseujAHrA%3D@129.150.59.74:14384#%F0%9F%87%B8%F0%9F%87%AC%20AetrisVPN
 ss://2022-blake3-chacha20-poly1305:6rX+qHo5aRHpvu72NzQT8sPbUdXRBfinV9Occ69h7+A=@130.61.41.32:59924#%F0%9F%87%A9%F0%9F%87%AADE_192%7C440KB%2Fs%7CR002-260618%2001
 ss://2022-blake3-chacha20-poly1305:8RRsprK4nxB5VqKlMGFdXJerGo79K5bKdz4uF4crI8E=@141.148.225.103:45819#%F0%9F%87%B3%F0%9F%87%B1NL_368%7C9.6MB%2Fs%7CR002-260618%2001
+ss://2022-blake3-chacha20-poly1305:Cg2Dw4OhdBZhqbeO9ZTA3g%2FGk%2FAvsrYZGhAJeGnQIx4%3D@8.211.196.252:443#
 ss://2022-blake3-chacha20-poly1305:Of7TrBg1GnSUFQJEGoe1K0d9USdAzgjzMlrfKwk0aLM=@158.180.13.225:45819#%F0%9F%87%B3%F0%9F%87%B1NL_369%7C3.7MB%2Fs%7CR002-260618%2001
 ss://2022-blake3-chacha20-poly1305:SqOpgZWf4fJH0dsK70K5LokI9TnHQ5zugqpwjEzsOl8=@84.235.166.158:45819#%F0%9F%87%B3%F0%9F%87%B1NL_382%7C5.6MB%2Fs%7CA004-260618%2001
 ss://2022-blake3-chacha20-poly1305:UpeZLBSVADf64wezj0K1CcapVO6MLWWPYtMJue7gxqE=@130.61.116.110:59924#%F0%9F%87%A9%F0%9F%87%AADE_193%7C466KB%2Fs%7CR002-260618%2001
@@ -1997,4 +1998,3 @@ ss://500cdc83-b189-4d79-b06b-139c7972a57f@91.107.139.186:50417?security=none&amp
 ss://501a2da5-cb22-4a3f-915e-e3b821d1d62d@87.199.205.28:443?security=reality&amp;encryption=none&amp;pbk=W-9zyiOq287RtXVTZlTFbSDJ0Mx8joyBLJoA7ZE7eBw&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=vkvd754.okcdn.ru&amp;sid=ef1d3554c652a436#[2290][NL][0][SS][None][free1_vpn][2026-10-29][2026-10-31 02:59]
 ss://50414e45-4c5f-5a45-5553-07ad314cf6c2@z-e-u-s-panel-avqu75.amir44446329.workers.dev:80?path=%2Fstream%2FPANEL_ZEUS%2F07ad314cf6c2&security=none&encryption=none&insecure=0&host=z-e-u-s-panel-avqu75.amir44446329.workers.dev&fp=ios&type=ws&allowInsecure=0&sni=z-e-u-s-panel-avqu75.amir44446329.workers.dev&fragment=200-3000,1-2#AutoAiVPN269223
 ss://50414e45-4c5f-5a45-5553-635698a6bb9c@172.67.151.109:443?encryption=none&security=tls&sni=jdzit4e4urks.xwzohsebujps.workers.dev&type=ws&host=jdzit4e4urks.xwzohsebujps.workers.dev&path=%2Fstream%2FPANEL_ZEUS%2F635698a6bb9c%2Floc-0#AutoAiVPN728812
-ss://50414e45-4c5f-5a45-5553-6f51879c0594@one-for-all.levikogjgfdd.ir:2053?path=%2F&amp;security=tls&amp;encryption=none&amp;insecure=0&amp;host=levikoconfig.levikogjgfdd.ir&amp;fp=ios&amp;type=ws&amp;allowInsecure=0&amp;sni=levikoconfig.levikogjgfdd.ir#[2292][US][0][SS][None][nofiltering2][2026-07-24][2026-10-31 02:59]
